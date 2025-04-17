@@ -53,14 +53,6 @@ You can:
 
 ---
 
-## 📌 Recommendations
-
-- If deploying for web access, ensure HTML files are served with `utf-8` encoding.
-- Use `#section-id` anchors to link to specific code sections in dynamic tools.
-- Consider generating a Table of Contents (TOC) dynamically for navigation.
-
----
-
 ## 🧠 Contact
 
 Maintained by:  

@@ -35,8 +35,8 @@ Each Title includes:
 - [toc_master.json](toc_master.json) – Master index for all Titles and Chapters across **all branches**
 - [index.html](index.html) – Web-friendly landing page for Titles 1–15
 - [sitemap.xml](sitemap.xml) – Search engine and bot-accessible site map
-- [Public Works Branch](https://spanish-fork-city.github.io/public-works-code/) – Chapters 4.05 to 4.90 (infrastructure, utilities, citywide operations)
-- [Construction Standards Branch](https://spanish-fork-city.github.io/construction-standards/) – Chapter 4.39 (design and construction policies)
+- [Public Works Branch](https://spanish-fork-city.github.io/public-works/) – Chapters 4.05 to 4.90 (infrastructure, utilities, citywide operations)
+- [Construction Standards Branch](https://spanish-fork-city.github.io/construction-&-design-standards/) – Chapter 4.39 (design and construction policies)
 
 ---
 

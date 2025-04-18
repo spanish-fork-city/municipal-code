@@ -1,0 +1,510 @@
+{
+  "title": "Title 13 - Utilities",
+  "file": "title_13_utilities.html",
+  "sections": [
+    {
+      "id": "13_04_010",
+      "label": "13.04.010 Definitions"
+    },
+    {
+      "id": "13_04_020",
+      "label": "13.04.020 General"
+    },
+    {
+      "id": "13_04_030",
+      "label": "13.04.030 Utility Service"
+    },
+    {
+      "id": "13_04_040",
+      "label": "13.04.040 Extension Of Utility Systems"
+    },
+    {
+      "id": "13_04_050",
+      "label": "13.04.050 Protection And Access To City Utilities"
+    },
+    {
+      "id": "13_04_010",
+      "label": "13.04.010 Definitions"
+    },
+    {
+      "id": "13_04_020",
+      "label": "13.04.020 General"
+    },
+    {
+      "id": "13_04_030",
+      "label": "13.04.030 Utility Service"
+    },
+    {
+      "id": "13_04_040",
+      "label": "13.04.040 Extension Of Utility Systems"
+    },
+    {
+      "id": "13_04_050",
+      "label": "13.04.050 Protection And Access To City Utilities"
+    },
+    {
+      "id": "13_08_010",
+      "label": "13.08.010 General"
+    },
+    {
+      "id": "13_08_020",
+      "label": "13.08.020 Rates"
+    },
+    {
+      "id": "13_08_030",
+      "label": "13.08.030 Net Metering"
+    },
+    {
+      "id": "13_08_040",
+      "label": "13.08.040 Large Solar Generation"
+    },
+    {
+      "id": "13_08_010",
+      "label": "13.08.010 General"
+    },
+    {
+      "id": "13_08_020",
+      "label": "13.08.020 Rates"
+    },
+    {
+      "id": "13_08_030",
+      "label": "13.08.030 Net Metering"
+    },
+    {
+      "id": "13_08_040",
+      "label": "13.08.040 Large Solar Generation"
+    },
+    {
+      "id": "13_12_010",
+      "label": "13.12.010 Definitions"
+    },
+    {
+      "id": "13_12_020",
+      "label": "13.12.020 General"
+    },
+    {
+      "id": "13_12_030",
+      "label": "13.12.030 Dumping, Littering And Sanitary Condition Of Property"
+    },
+    {
+      "id": "13_12_040",
+      "label": "13.12.040 Solid Waste Vehicles And Contractors"
+    },
+    {
+      "id": "13_12_050",
+      "label": "13.12.050 Receptacles And Containers"
+    },
+    {
+      "id": "13_12_060",
+      "label": "13.12.060 Prohibited Solid Waste"
+    },
+    {
+      "id": "13_12_010",
+      "label": "13.12.010 Definitions"
+    },
+    {
+      "id": "13_12_020",
+      "label": "13.12.020 General"
+    },
+    {
+      "id": "13_12_030",
+      "label": "13.12.030 Dumping, Littering And Sanitary Condition Of Property"
+    },
+    {
+      "id": "13_12_040",
+      "label": "13.12.040 Solid Waste Vehicles And Contractors"
+    },
+    {
+      "id": "13_12_050",
+      "label": "13.12.050 Receptacles And Containers"
+    },
+    {
+      "id": "13_12_060",
+      "label": "13.12.060 Prohibited Solid Waste"
+    },
+    {
+      "id": "13_16_010",
+      "label": "13.16.010 Definitions"
+    },
+    {
+      "id": "13_16_020",
+      "label": "13.16.020 General"
+    },
+    {
+      "id": "13_16_030",
+      "label": "13.16.030 Land Disturbance Permits"
+    },
+    {
+      "id": "13_16_040",
+      "label": "13.16.040 Stormwater System Design"
+    },
+    {
+      "id": "13_16_050",
+      "label": "13.16.050 Maintenance Agreement"
+    },
+    {
+      "id": "13_16_060",
+      "label": "13.16.060 Sediment And Erosion Control Plans"
+    },
+    {
+      "id": "13_16_070",
+      "label": "13.16.070 Post Construction"
+    },
+    {
+      "id": "13_16_080",
+      "label": "13.16.080 Waivers"
+    },
+    {
+      "id": "13_16_090",
+      "label": "13.16.090 Existing Land And Developments"
+    },
+    {
+      "id": "13_16_100",
+      "label": "13.16.100 Illicit Discharges Detection And Elimination"
+    },
+    {
+      "id": "13_16_110",
+      "label": "13.16.110 Enforcement"
+    },
+    {
+      "id": "13_16_120",
+      "label": "13.16.120 Violations And Penalties"
+    },
+    {
+      "id": "13_16_130",
+      "label": "13.16.130 Storm Water Pollution Prevention Plan (SWPPP)"
+    },
+    {
+      "id": "13_16_140",
+      "label": "13.16.140 Long Term Storm Water Management Plan (LTSMP)"
+    },
+    {
+      "id": "13_16_010",
+      "label": "13.16.010 Definitions"
+    },
+    {
+      "id": "13_16_020",
+      "label": "13.16.020 General"
+    },
+    {
+      "id": "13_16_030",
+      "label": "13.16.030 Land Disturbance Permits"
+    },
+    {
+      "id": "13_16_040",
+      "label": "13.16.040 Stormwater System Design"
+    },
+    {
+      "id": "13_16_050",
+      "label": "13.16.050 Maintenance Agreement"
+    },
+    {
+      "id": "13_16_060",
+      "label": "13.16.060 Sediment And Erosion Control Plans"
+    },
+    {
+      "id": "13_16_070",
+      "label": "13.16.070 Post Construction"
+    },
+    {
+      "id": "13_16_080",
+      "label": "13.16.080 Waivers"
+    },
+    {
+      "id": "13_16_090",
+      "label": "13.16.090 Existing Land And Developments"
+    },
+    {
+      "id": "13_16_100",
+      "label": "13.16.100 Illicit Discharges Detection And Elimination"
+    },
+    {
+      "id": "13_16_110",
+      "label": "13.16.110 Enforcement"
+    },
+    {
+      "id": "13_16_120",
+      "label": "13.16.120 Violations And Penalties"
+    },
+    {
+      "id": "13_16_130",
+      "label": "13.16.130 Storm Water Pollution Prevention Plan (SWPPP)"
+    },
+    {
+      "id": "13_16_140",
+      "label": "13.16.140 Long Term Storm Water Management Plan (LTSMP)"
+    },
+    {
+      "id": "13_20_010",
+      "label": "13.20.010 General"
+    },
+    {
+      "id": "13_20_020",
+      "label": "13.20.020 Utility Rules And Regulations"
+    },
+    {
+      "id": "13_20_030",
+      "label": "13.20.030 Damage To Property - Interruption Of Service - Liability"
+    },
+    {
+      "id": "13_20_040",
+      "label": "13.20.040 Installations"
+    },
+    {
+      "id": "13_20_050",
+      "label": "13.20.050 Telecommunications Competition"
+    },
+    {
+      "id": "13_20_010",
+      "label": "13.20.010 General"
+    },
+    {
+      "id": "13_20_020",
+      "label": "13.20.020 Utility Rules And Regulations"
+    },
+    {
+      "id": "13_20_030",
+      "label": "13.20.030 Damage To Property - Interruption Of Service - Liability"
+    },
+    {
+      "id": "13_20_040",
+      "label": "13.20.040 Installations"
+    },
+    {
+      "id": "13_20_050",
+      "label": "13.20.050 Telecommunications Competition"
+    },
+    {
+      "id": "13_24_010",
+      "label": "13.24.010 General"
+    },
+    {
+      "id": "13_24_020",
+      "label": "13.24.020 General Sewer Use Requirements"
+    },
+    {
+      "id": "13_24_030",
+      "label": "13.24.030 Pretreatment Of Wastewater"
+    },
+    {
+      "id": "13_24_040",
+      "label": "13.24.040 Individual Wastewater Discharge Permits"
+    },
+    {
+      "id": "13_24_050",
+      "label": "13.24.050 Individual Wastewater Discharge Permit Duration"
+    },
+    {
+      "id": "13_24_060",
+      "label": "13.24.060 Baseline Monitoring Reports"
+    },
+    {
+      "id": "13_24_070",
+      "label": "13.24.070 Compliance Monitoring"
+    },
+    {
+      "id": "13_24_080",
+      "label": "13.24.080 Confidential Information"
+    },
+    {
+      "id": "13_24_090",
+      "label": "13.24.090 Publication Of Users In Significant Noncompliance"
+    },
+    {
+      "id": "13_24_100",
+      "label": "13.24.100 Notification Requirements For Hazardous Waste"
+    },
+    {
+      "id": "13_24_110",
+      "label": "13.24.110 Judicial Enforcement Remedies"
+    },
+    {
+      "id": "13_24_120",
+      "label": "13.24.120 Affirmative Defenses To Discharge Violations"
+    },
+    {
+      "id": "13_24_130",
+      "label": "13.24.130 Repealed 07-16-2024 Special Agreements And Contracts"
+    },
+    {
+      "id": "13_24_140",
+      "label": "13.24.140 Repealed 07-16-2024 Restricted Substances - Discharge Alternatives"
+    },
+    {
+      "id": "13_24_150",
+      "label": "13.24.150 Repealed 07-16-2024 Industrial Pretreatment"
+    },
+    {
+      "id": "13_24_160",
+      "label": "13.24.160 Repealed 07-16-2024Industrial User Compliance Assurance"
+    },
+    {
+      "id": "13_24_170",
+      "label": "13.24.170 Repealed 07-16-2024 Tests, Sampling, Measurements, Analyses - Standards"
+    },
+    {
+      "id": "13_24_180",
+      "label": "13.24.180 Repealed 07-16-2024 Accidental Discharge Control Plan"
+    },
+    {
+      "id": "13_24_190",
+      "label": "13.24.190 Repealed 07-16-2024 Pretreatment Facilities"
+    },
+    {
+      "id": "13_24_200",
+      "label": "13.24.200 Repealed 07-16-2024 Confidential Information"
+    },
+    {
+      "id": "13_24_210",
+      "label": "13.24.210 Repealed 07-16-2024 Publication Of Users In Significant Noncompliance"
+    },
+    {
+      "id": "13_24_220",
+      "label": "13.24.220 Repealed 07-16-2024 Violations"
+    },
+    {
+      "id": "13_24_230",
+      "label": "13.24.230 Repealed 07-16-2024 Treatment Bypasses"
+    },
+    {
+      "id": "13_24_010",
+      "label": "13.24.010 General"
+    },
+    {
+      "id": "13_24_020",
+      "label": "13.24.020 General Sewer Use Requirements"
+    },
+    {
+      "id": "13_24_030",
+      "label": "13.24.030 Pretreatment Of Wastewater"
+    },
+    {
+      "id": "13_24_040",
+      "label": "13.24.040 Individual Wastewater Discharge Permits"
+    },
+    {
+      "id": "13_24_050",
+      "label": "13.24.050 Individual Wastewater Discharge Permit Duration"
+    },
+    {
+      "id": "13_24_060",
+      "label": "13.24.060 Baseline Monitoring Reports"
+    },
+    {
+      "id": "13_24_070",
+      "label": "13.24.070 Compliance Monitoring"
+    },
+    {
+      "id": "13_24_080",
+      "label": "13.24.080 Confidential Information"
+    },
+    {
+      "id": "13_24_090",
+      "label": "13.24.090 Publication Of Users In Significant Noncompliance"
+    },
+    {
+      "id": "13_24_100",
+      "label": "13.24.100 Notification Requirements For Hazardous Waste"
+    },
+    {
+      "id": "13_24_110",
+      "label": "13.24.110 Judicial Enforcement Remedies"
+    },
+    {
+      "id": "13_24_120",
+      "label": "13.24.120 Affirmative Defenses To Discharge Violations"
+    },
+    {
+      "id": "13_24_130",
+      "label": "13.24.130 Repealed 07-16-2024 Special Agreements And Contracts"
+    },
+    {
+      "id": "13_24_140",
+      "label": "13.24.140 Repealed 07-16-2024 Restricted Substances - Discharge Alternatives"
+    },
+    {
+      "id": "13_24_150",
+      "label": "13.24.150 Repealed 07-16-2024 Industrial Pretreatment"
+    },
+    {
+      "id": "13_24_160",
+      "label": "13.24.160 Repealed 07-16-2024Industrial User Compliance Assurance"
+    },
+    {
+      "id": "13_24_170",
+      "label": "13.24.170 Repealed 07-16-2024 Tests, Sampling, Measurements, Analyses - Standards"
+    },
+    {
+      "id": "13_24_180",
+      "label": "13.24.180 Repealed 07-16-2024 Accidental Discharge Control Plan"
+    },
+    {
+      "id": "13_24_190",
+      "label": "13.24.190 Repealed 07-16-2024 Pretreatment Facilities"
+    },
+    {
+      "id": "13_24_200",
+      "label": "13.24.200 Repealed 07-16-2024 Confidential Information"
+    },
+    {
+      "id": "13_24_210",
+      "label": "13.24.210 Repealed 07-16-2024 Publication Of Users In Significant Noncompliance"
+    },
+    {
+      "id": "13_24_220",
+      "label": "13.24.220 Repealed 07-16-2024 Violations"
+    },
+    {
+      "id": "13_24_230",
+      "label": "13.24.230 Repealed 07-16-2024 Treatment Bypasses"
+    },
+    {
+      "id": "13_28_010",
+      "label": "13.28.010 Definitions"
+    },
+    {
+      "id": "13_28_020",
+      "label": "13.28.020 General"
+    },
+    {
+      "id": "13_28_030",
+      "label": "13.28.030 Water Transfer"
+    },
+    {
+      "id": "13_28_040",
+      "label": "13.28.040 Backflow Prevention"
+    },
+    {
+      "id": "13_28_050",
+      "label": "13.28.050 Source Protection"
+    },
+    {
+      "id": "13_28_060",
+      "label": "13.28.060 Wells And Surface Irrigation Systems"
+    },
+    {
+      "id": "13_28_010",
+      "label": "13.28.010 Definitions"
+    },
+    {
+      "id": "13_28_020",
+      "label": "13.28.020 General"
+    },
+    {
+      "id": "13_28_030",
+      "label": "13.28.030 Water Transfer"
+    },
+    {
+      "id": "13_28_040",
+      "label": "13.28.040 Backflow Prevention"
+    },
+    {
+      "id": "13_28_050",
+      "label": "13.28.050 Source Protection"
+    },
+    {
+      "id": "13_28_060",
+      "label": "13.28.060 Wells And Surface Irrigation Systems"
+    }
+  ]
+}

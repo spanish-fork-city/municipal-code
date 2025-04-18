@@ -1,0 +1,790 @@
+{
+  "title": "Title 2 - Administration of Government",
+  "file": "title_2_administration_of_government.html",
+  "sections": [
+    {
+      "id": "2_04_010",
+      "label": "2.04.010 Officers - Generally"
+    },
+    {
+      "id": "2_04_020",
+      "label": "2.04.020 Legislative And Governing Body"
+    },
+    {
+      "id": "2_04_030",
+      "label": "2.04.030 Officers - Eligibility"
+    },
+    {
+      "id": "2_04_040",
+      "label": "2.04.040 Oaths And Bonds"
+    },
+    {
+      "id": "2_04_050",
+      "label": "2.04.050 Compensation Of Officers"
+    },
+    {
+      "id": "2_04_060",
+      "label": "2.04.060 Conflict Of Interest"
+    },
+    {
+      "id": "2_04_070",
+      "label": "2.04.070 Nepotism"
+    },
+    {
+      "id": "2_04_080",
+      "label": "2.04.080 Delivering Property To Successor In Office"
+    },
+    {
+      "id": "2_04_090",
+      "label": "2.04.090 Minutes Of Council Meetings"
+    },
+    {
+      "id": "2_04_010",
+      "label": "2.04.010 Officers - Generally"
+    },
+    {
+      "id": "2_04_020",
+      "label": "2.04.020 Legislative And Governing Body"
+    },
+    {
+      "id": "2_04_030",
+      "label": "2.04.030 Officers - Eligibility"
+    },
+    {
+      "id": "2_04_040",
+      "label": "2.04.040 Oaths And Bonds"
+    },
+    {
+      "id": "2_04_050",
+      "label": "2.04.050 Compensation Of Officers"
+    },
+    {
+      "id": "2_04_060",
+      "label": "2.04.060 Conflict Of Interest"
+    },
+    {
+      "id": "2_04_070",
+      "label": "2.04.070 Nepotism"
+    },
+    {
+      "id": "2_04_080",
+      "label": "2.04.080 Delivering Property To Successor In Office"
+    },
+    {
+      "id": "2_04_090",
+      "label": "2.04.090 Minutes Of Council Meetings"
+    },
+    {
+      "id": "2_08_010",
+      "label": "2.08.010 Powers And Duties"
+    },
+    {
+      "id": "2_08_020",
+      "label": "2.08.020 Council - Regular Meetings"
+    },
+    {
+      "id": "2_08_030",
+      "label": "2.08.030 Telecommunications Meetings"
+    },
+    {
+      "id": "2_08_040",
+      "label": "2.08.040 Council - Voting"
+    },
+    {
+      "id": "2_08_050",
+      "label": "2.08.050 Council - Special Meetings"
+    },
+    {
+      "id": "2_08_060",
+      "label": "2.08.060 Council - Quorum"
+    },
+    {
+      "id": "2_08_070",
+      "label": "2.08.070 Council - Rules - Member Expulsion"
+    },
+    {
+      "id": "2_08_080",
+      "label": "2.08.080 Members - Appointments To Other Offices"
+    },
+    {
+      "id": "2_08_090",
+      "label": "2.08.090 Audit Of Accounts - Report"
+    },
+    {
+      "id": "2_08_100",
+      "label": "2.08.100 Vacancies"
+    },
+    {
+      "id": "2_08_110",
+      "label": "2.08.110 Budgetary Process"
+    },
+    {
+      "id": "2_08_120",
+      "label": "2.08.120 Fiscal Year"
+    },
+    {
+      "id": "2_08_130",
+      "label": "2.08.130 Liability Claims Approval"
+    },
+    {
+      "id": "2_08_140",
+      "label": "2.08.140 Appointment Of Judges Of Election - Voting Places"
+    },
+    {
+      "id": "2_08_150",
+      "label": "2.08.150 Canvass Returns Of Election - Issuance Of Certificates"
+    },
+    {
+      "id": "2_08_160",
+      "label": "2.08.160 Evaluation Of Manager"
+    },
+    {
+      "id": "2_08_010",
+      "label": "2.08.010 Powers And Duties"
+    },
+    {
+      "id": "2_08_020",
+      "label": "2.08.020 Council - Regular Meetings"
+    },
+    {
+      "id": "2_08_030",
+      "label": "2.08.030 Telecommunications Meetings"
+    },
+    {
+      "id": "2_08_040",
+      "label": "2.08.040 Council - Voting"
+    },
+    {
+      "id": "2_08_050",
+      "label": "2.08.050 Council - Special Meetings"
+    },
+    {
+      "id": "2_08_060",
+      "label": "2.08.060 Council - Quorum"
+    },
+    {
+      "id": "2_08_070",
+      "label": "2.08.070 Council - Rules - Member Expulsion"
+    },
+    {
+      "id": "2_08_080",
+      "label": "2.08.080 Members - Appointments To Other Offices"
+    },
+    {
+      "id": "2_08_090",
+      "label": "2.08.090 Audit Of Accounts - Report"
+    },
+    {
+      "id": "2_08_100",
+      "label": "2.08.100 Vacancies"
+    },
+    {
+      "id": "2_08_110",
+      "label": "2.08.110 Budgetary Process"
+    },
+    {
+      "id": "2_08_120",
+      "label": "2.08.120 Fiscal Year"
+    },
+    {
+      "id": "2_08_130",
+      "label": "2.08.130 Liability Claims Approval"
+    },
+    {
+      "id": "2_08_140",
+      "label": "2.08.140 Appointment Of Judges Of Election - Voting Places"
+    },
+    {
+      "id": "2_08_150",
+      "label": "2.08.150 Canvass Returns Of Election - Issuance Of Certificates"
+    },
+    {
+      "id": "2_08_160",
+      "label": "2.08.160 Evaluation Of Manager"
+    },
+    {
+      "id": "2_12_010",
+      "label": "2.12.010 Powers And Duties"
+    },
+    {
+      "id": "2_12_020",
+      "label": "2.12.020 Temporary Absence - Appointment Of Mayor Pro Tempore"
+    },
+    {
+      "id": "2_12_030",
+      "label": "2.12.030 No Veto"
+    },
+    {
+      "id": "2_12_040",
+      "label": "2.12.040 Vacancy"
+    },
+    {
+      "id": "2_12_010",
+      "label": "2.12.010 Powers And Duties"
+    },
+    {
+      "id": "2_12_020",
+      "label": "2.12.020 Temporary Absence - Appointment Of Mayor Pro Tempore"
+    },
+    {
+      "id": "2_12_030",
+      "label": "2.12.030 No Veto"
+    },
+    {
+      "id": "2_12_040",
+      "label": "2.12.040 Vacancy"
+    },
+    {
+      "id": "2_16_010",
+      "label": "2.16.010 Creation Of City Manager"
+    },
+    {
+      "id": "2_16_020",
+      "label": "2.16.020 Powers And Duties"
+    },
+    {
+      "id": "2_16_010",
+      "label": "2.16.010 Creation Of City Manager"
+    },
+    {
+      "id": "2_16_020",
+      "label": "2.16.020 Powers And Duties"
+    },
+    {
+      "id": "2_20_010",
+      "label": "2.20.010 Appointment"
+    },
+    {
+      "id": "2_20_020",
+      "label": "2.20.020 Supervision"
+    },
+    {
+      "id": "2_20_030",
+      "label": "2.20.030 Record Keeping"
+    },
+    {
+      "id": "2_20_040",
+      "label": "2.20.040 Countersigning Contract"
+    },
+    {
+      "id": "2_20_050",
+      "label": "2.20.050 General Duties"
+    },
+    {
+      "id": "2_20_010",
+      "label": "2.20.010 Appointment"
+    },
+    {
+      "id": "2_20_020",
+      "label": "2.20.020 Supervision"
+    },
+    {
+      "id": "2_20_030",
+      "label": "2.20.030 Record Keeping"
+    },
+    {
+      "id": "2_20_040",
+      "label": "2.20.040 Countersigning Contract"
+    },
+    {
+      "id": "2_20_050",
+      "label": "2.20.050 General Duties"
+    },
+    {
+      "id": "2_24_010",
+      "label": "2.24.010 Appointment"
+    },
+    {
+      "id": "2_24_020",
+      "label": "2.24.020 Supervision"
+    },
+    {
+      "id": "2_24_030",
+      "label": "2.24.030 Duties Of Treasurer"
+    },
+    {
+      "id": "2_24_040",
+      "label": "2.24.040 Fiscal Procedures"
+    },
+    {
+      "id": "2_24_010",
+      "label": "2.24.010 Appointment"
+    },
+    {
+      "id": "2_24_020",
+      "label": "2.24.020 Supervision"
+    },
+    {
+      "id": "2_24_030",
+      "label": "2.24.030 Duties Of Treasurer"
+    },
+    {
+      "id": "2_24_040",
+      "label": "2.24.040 Fiscal Procedures"
+    },
+    {
+      "id": "2_48_010",
+      "label": "2.48.010 General, Primary, And Special Elections"
+    },
+    {
+      "id": "2_48_020",
+      "label": "2.48.020 Elective Offices And Terms"
+    },
+    {
+      "id": "2_48_030",
+      "label": "2.48.030 Cancellation Of Elections"
+    },
+    {
+      "id": "2_48_040",
+      "label": "2.48.040 Candidates"
+    },
+    {
+      "id": "2_48_050",
+      "label": "2.48.050 Objections To And Withdrawal Of Candidacy"
+    },
+    {
+      "id": "2_48_060",
+      "label": "2.48.060 Conduct Of Elections"
+    },
+    {
+      "id": "2_48_070",
+      "label": "2.48.070 Election Offences"
+    },
+    {
+      "id": "2_48_010",
+      "label": "2.48.010 General, Primary, And Special Elections"
+    },
+    {
+      "id": "2_48_020",
+      "label": "2.48.020 Elective Offices And Terms"
+    },
+    {
+      "id": "2_48_030",
+      "label": "2.48.030 Cancellation Of Elections"
+    },
+    {
+      "id": "2_48_040",
+      "label": "2.48.040 Candidates"
+    },
+    {
+      "id": "2_48_050",
+      "label": "2.48.050 Objections To And Withdrawal Of Candidacy"
+    },
+    {
+      "id": "2_48_060",
+      "label": "2.48.060 Conduct Of Elections"
+    },
+    {
+      "id": "2_48_070",
+      "label": "2.48.070 Election Offences"
+    },
+    {
+      "id": "2_56_010",
+      "label": "2.56.010 Short Title"
+    },
+    {
+      "id": "2_56_020",
+      "label": "2.56.020 Purpose And Intent"
+    },
+    {
+      "id": "2_56_030",
+      "label": "2.56.030 Definitions"
+    },
+    {
+      "id": "2_56_040",
+      "label": "2.56.040 Right Of Public Access"
+    },
+    {
+      "id": "2_56_050",
+      "label": "2.56.050 Access To Non Public Records"
+    },
+    {
+      "id": "2_56_060",
+      "label": "2.56.060 Fees"
+    },
+    {
+      "id": "2_56_070",
+      "label": "2.56.070 Procedures For Access"
+    },
+    {
+      "id": "2_56_080",
+      "label": "2.56.080 Denials"
+    },
+    {
+      "id": "2_56_090",
+      "label": "2.56.090 Public Records"
+    },
+    {
+      "id": "2_56_100",
+      "label": "2.56.100 Private Records"
+    },
+    {
+      "id": "2_56_110",
+      "label": "2.56.110 Controlled Records"
+    },
+    {
+      "id": "2_56_120",
+      "label": "2.56.120 Protected Records"
+    },
+    {
+      "id": "2_56_130",
+      "label": "2.56.130 Records Classification"
+    },
+    {
+      "id": "2_56_140",
+      "label": "2.56.140 Records Retention"
+    },
+    {
+      "id": "2_56_150",
+      "label": "2.56.150 Segregation Of Records"
+    },
+    {
+      "id": "2_56_160",
+      "label": "2.56.160 Appeals"
+    },
+    {
+      "id": "2_56_170",
+      "label": "2.56.170 Judicial Review"
+    },
+    {
+      "id": "2_56_180",
+      "label": "2.56.180 Confidential Treatment Of Records For Which No Exemption Applies"
+    },
+    {
+      "id": "2_56_190",
+      "label": "2.56.190 Request To Amend A Record"
+    },
+    {
+      "id": "2_56_200",
+      "label": "2.56.200 Criminal Penalties"
+    },
+    {
+      "id": "2_56_010",
+      "label": "2.56.010 Short Title"
+    },
+    {
+      "id": "2_56_020",
+      "label": "2.56.020 Purpose And Intent"
+    },
+    {
+      "id": "2_56_030",
+      "label": "2.56.030 Definitions"
+    },
+    {
+      "id": "2_56_040",
+      "label": "2.56.040 Right Of Public Access"
+    },
+    {
+      "id": "2_56_050",
+      "label": "2.56.050 Access To Non Public Records"
+    },
+    {
+      "id": "2_56_060",
+      "label": "2.56.060 Fees"
+    },
+    {
+      "id": "2_56_070",
+      "label": "2.56.070 Procedures For Access"
+    },
+    {
+      "id": "2_56_080",
+      "label": "2.56.080 Denials"
+    },
+    {
+      "id": "2_56_090",
+      "label": "2.56.090 Public Records"
+    },
+    {
+      "id": "2_56_100",
+      "label": "2.56.100 Private Records"
+    },
+    {
+      "id": "2_56_110",
+      "label": "2.56.110 Controlled Records"
+    },
+    {
+      "id": "2_56_120",
+      "label": "2.56.120 Protected Records"
+    },
+    {
+      "id": "2_56_130",
+      "label": "2.56.130 Records Classification"
+    },
+    {
+      "id": "2_56_140",
+      "label": "2.56.140 Records Retention"
+    },
+    {
+      "id": "2_56_150",
+      "label": "2.56.150 Segregation Of Records"
+    },
+    {
+      "id": "2_56_160",
+      "label": "2.56.160 Appeals"
+    },
+    {
+      "id": "2_56_170",
+      "label": "2.56.170 Judicial Review"
+    },
+    {
+      "id": "2_56_180",
+      "label": "2.56.180 Confidential Treatment Of Records For Which No Exemption Applies"
+    },
+    {
+      "id": "2_56_190",
+      "label": "2.56.190 Request To Amend A Record"
+    },
+    {
+      "id": "2_56_200",
+      "label": "2.56.200 Criminal Penalties"
+    },
+    {
+      "id": "2_60_010",
+      "label": "2.60.010 Policy Considerations"
+    },
+    {
+      "id": "2_60_020",
+      "label": "2.60.020 Definitions"
+    },
+    {
+      "id": "2_60_030",
+      "label": "2.60.030 Guidelines Advisory"
+    },
+    {
+      "id": "2_60_040",
+      "label": "2.60.040 Review Of Decision"
+    },
+    {
+      "id": "2_60_050",
+      "label": "2.60.050 Reviewing Guidelines"
+    },
+    {
+      "id": "2_60_060",
+      "label": "2.60.060 Results Of Review"
+    },
+    {
+      "id": "2_60_010",
+      "label": "2.60.010 Policy Considerations"
+    },
+    {
+      "id": "2_60_020",
+      "label": "2.60.020 Definitions"
+    },
+    {
+      "id": "2_60_030",
+      "label": "2.60.030 Guidelines Advisory"
+    },
+    {
+      "id": "2_60_040",
+      "label": "2.60.040 Review Of Decision"
+    },
+    {
+      "id": "2_60_050",
+      "label": "2.60.050 Reviewing Guidelines"
+    },
+    {
+      "id": "2_60_060",
+      "label": "2.60.060 Results Of Review"
+    },
+    {
+      "id": "2_64_010",
+      "label": "2.64.010 General"
+    },
+    {
+      "id": "2_64_020",
+      "label": "2.64.020 Definitions"
+    },
+    {
+      "id": "2_64_030",
+      "label": "2.64.030 Filing Of Disclosure Reports"
+    },
+    {
+      "id": "2_64_040",
+      "label": "2.64.040 At Time Of Filing"
+    },
+    {
+      "id": "2_64_050",
+      "label": "2.64.050 Contents Of Statements"
+    },
+    {
+      "id": "2_64_060",
+      "label": "2.64.060 Public Information"
+    },
+    {
+      "id": "2_64_070",
+      "label": "2.64.070 Penalty For Noncompliance"
+    },
+    {
+      "id": "2_64_010",
+      "label": "2.64.010 General"
+    },
+    {
+      "id": "2_64_020",
+      "label": "2.64.020 Definitions"
+    },
+    {
+      "id": "2_64_030",
+      "label": "2.64.030 Filing Of Disclosure Reports"
+    },
+    {
+      "id": "2_64_040",
+      "label": "2.64.040 At Time Of Filing"
+    },
+    {
+      "id": "2_64_050",
+      "label": "2.64.050 Contents Of Statements"
+    },
+    {
+      "id": "2_64_060",
+      "label": "2.64.060 Public Information"
+    },
+    {
+      "id": "2_64_070",
+      "label": "2.64.070 Penalty For Noncompliance"
+    },
+    {
+      "id": "2_68_010",
+      "label": "2.68.010 Purpose"
+    },
+    {
+      "id": "2_68_020",
+      "label": "2.68.020 Definitions"
+    },
+    {
+      "id": "2_68_030",
+      "label": "2.68.030 Municipal Officers' And Employees' Ethics Act"
+    },
+    {
+      "id": "2_68_040",
+      "label": "2.68.040 City Attorney Advisory Opinions"
+    },
+    {
+      "id": "2_68_050",
+      "label": "2.68.050 Municipal Ethics Commission"
+    },
+    {
+      "id": "2_68_060",
+      "label": "2.68.060 Filing Of Ethics Complaints With Commission"
+    },
+    {
+      "id": "2_68_070",
+      "label": "2.68.070 Privacy"
+    },
+    {
+      "id": "2_68_080",
+      "label": "2.68.080 Initial Review"
+    },
+    {
+      "id": "2_68_090",
+      "label": "2.68.090 Consideration Of Complaint After Acceptance"
+    },
+    {
+      "id": "2_68_100",
+      "label": "2.68.100 Contempt Powers"
+    },
+    {
+      "id": "2_68_110",
+      "label": "2.68.110 Request By Elected Or Appointed Official For Legal Representation"
+    },
+    {
+      "id": "2_68_120",
+      "label": "2.68.120 Determination By Commission"
+    },
+    {
+      "id": "2_68_130",
+      "label": "2.68.130 Action By City Council"
+    },
+    {
+      "id": "2_68_140",
+      "label": "2.68.140 Knowingly Filing Of False Complaint"
+    },
+    {
+      "id": "2_68_150",
+      "label": "2.68.150 Annual Commission Report"
+    },
+    {
+      "id": "2_68_010",
+      "label": "2.68.010 Purpose"
+    },
+    {
+      "id": "2_68_020",
+      "label": "2.68.020 Definitions"
+    },
+    {
+      "id": "2_68_030",
+      "label": "2.68.030 Municipal Officers' And Employees' Ethics Act"
+    },
+    {
+      "id": "2_68_040",
+      "label": "2.68.040 City Attorney Advisory Opinions"
+    },
+    {
+      "id": "2_68_050",
+      "label": "2.68.050 Municipal Ethics Commission"
+    },
+    {
+      "id": "2_68_060",
+      "label": "2.68.060 Filing Of Ethics Complaints With Commission"
+    },
+    {
+      "id": "2_68_070",
+      "label": "2.68.070 Privacy"
+    },
+    {
+      "id": "2_68_080",
+      "label": "2.68.080 Initial Review"
+    },
+    {
+      "id": "2_68_090",
+      "label": "2.68.090 Consideration Of Complaint After Acceptance"
+    },
+    {
+      "id": "2_68_100",
+      "label": "2.68.100 Contempt Powers"
+    },
+    {
+      "id": "2_68_110",
+      "label": "2.68.110 Request By Elected Or Appointed Official For Legal Representation"
+    },
+    {
+      "id": "2_68_120",
+      "label": "2.68.120 Determination By Commission"
+    },
+    {
+      "id": "2_68_130",
+      "label": "2.68.130 Action By City Council"
+    },
+    {
+      "id": "2_68_140",
+      "label": "2.68.140 Knowingly Filing Of False Complaint"
+    },
+    {
+      "id": "2_68_150",
+      "label": "2.68.150 Annual Commission Report"
+    },
+    {
+      "id": "2_72_010",
+      "label": "2.72.010 Purpose"
+    },
+    {
+      "id": "2_72_020",
+      "label": "2.72.020 Areas Defined"
+    },
+    {
+      "id": "2_72_030",
+      "label": "2.72.030 Referendum Or Initiative Process"
+    },
+    {
+      "id": "2_72_010",
+      "label": "2.72.010 Purpose"
+    },
+    {
+      "id": "2_72_020",
+      "label": "2.72.020 Areas Defined"
+    },
+    {
+      "id": "2_72_030",
+      "label": "2.72.030 Referendum Or Initiative Process"
+    }
+  ]
+}

@@ -1,0 +1,438 @@
+{
+  "title": "Title 3 - Revenue and Finance",
+  "file": "title_3_revenue_and_finance.html",
+  "sections": [
+    {
+      "id": "3_04_010",
+      "label": "3.04.010 Claims Against The City In General"
+    },
+    {
+      "id": "3_04_010",
+      "label": "3.04.010 Claims Against The City In General"
+    },
+    {
+      "id": "3_08_010",
+      "label": "3.08.010 Definitions"
+    },
+    {
+      "id": "3_08_020",
+      "label": "3.08.020 Administration"
+    },
+    {
+      "id": "3_08_030",
+      "label": "3.08.030 Choice Of Purchasing - Bidding Process"
+    },
+    {
+      "id": "3_08_040",
+      "label": "3.08.040 Purchasing - Bidding Processes"
+    },
+    {
+      "id": "3_08_050",
+      "label": "3.08.050 Awarding Bids, Purchases, Contracts, Task Orders, And Change Orders"
+    },
+    {
+      "id": "3_08_060",
+      "label": "3.08.060 Bidders List"
+    },
+    {
+      "id": "3_08_070",
+      "label": "3.08.070 Contingency"
+    },
+    {
+      "id": "3_08_080",
+      "label": "3.08.080 Completion Incentive"
+    },
+    {
+      "id": "3_08_090",
+      "label": "3.08.090 Rating Of Contractors, Vendors, And Consultants"
+    },
+    {
+      "id": "3_08_100",
+      "label": "3.08.100 Exceptions To Bidding Requirements"
+    },
+    {
+      "id": "3_08_110",
+      "label": "3.08.110 Errors And Mistakes In Bid Process"
+    },
+    {
+      "id": "3_08_120",
+      "label": "3.08.120 Penalties"
+    },
+    {
+      "id": "3_08_010",
+      "label": "3.08.010 Definitions"
+    },
+    {
+      "id": "3_08_020",
+      "label": "3.08.020 Administration"
+    },
+    {
+      "id": "3_08_030",
+      "label": "3.08.030 Choice Of Purchasing - Bidding Process"
+    },
+    {
+      "id": "3_08_040",
+      "label": "3.08.040 Purchasing - Bidding Processes"
+    },
+    {
+      "id": "3_08_050",
+      "label": "3.08.050 Awarding Bids, Purchases, Contracts, Task Orders, And Change Orders"
+    },
+    {
+      "id": "3_08_060",
+      "label": "3.08.060 Bidders List"
+    },
+    {
+      "id": "3_08_070",
+      "label": "3.08.070 Contingency"
+    },
+    {
+      "id": "3_08_080",
+      "label": "3.08.080 Completion Incentive"
+    },
+    {
+      "id": "3_08_090",
+      "label": "3.08.090 Rating Of Contractors, Vendors, And Consultants"
+    },
+    {
+      "id": "3_08_100",
+      "label": "3.08.100 Exceptions To Bidding Requirements"
+    },
+    {
+      "id": "3_08_110",
+      "label": "3.08.110 Errors And Mistakes In Bid Process"
+    },
+    {
+      "id": "3_08_120",
+      "label": "3.08.120 Penalties"
+    },
+    {
+      "id": "3_12_010",
+      "label": "3.12.010 Purpose"
+    },
+    {
+      "id": "3_12_020",
+      "label": "3.12.020 Acceleration Of Unpaid Balance"
+    },
+    {
+      "id": "3_12_030",
+      "label": "3.12.030 Sale Of Property Upon Delinquency"
+    },
+    {
+      "id": "3_12_010",
+      "label": "3.12.010 Purpose"
+    },
+    {
+      "id": "3_12_020",
+      "label": "3.12.020 Acceleration Of Unpaid Balance"
+    },
+    {
+      "id": "3_12_030",
+      "label": "3.12.030 Sale Of Property Upon Delinquency"
+    },
+    {
+      "id": "3_16_010",
+      "label": "3.16.010 Created - Use"
+    },
+    {
+      "id": "3_16_020",
+      "label": "3.16.020 Maintenance"
+    },
+    {
+      "id": "3_16_030",
+      "label": "3.16.030 Interest And Penalties Deposit In Fund"
+    },
+    {
+      "id": "3_16_040",
+      "label": "3.16.040 Payment Of Bonds Or Warrants"
+    },
+    {
+      "id": "3_16_050",
+      "label": "3.16.050 Replenishment Of Fund"
+    },
+    {
+      "id": "3_16_060",
+      "label": "3.16.060 Recorder To Issue Warrants"
+    },
+    {
+      "id": "3_16_070",
+      "label": "3.16.070 Subrogation Of City"
+    },
+    {
+      "id": "3_16_010",
+      "label": "3.16.010 Created - Use"
+    },
+    {
+      "id": "3_16_020",
+      "label": "3.16.020 Maintenance"
+    },
+    {
+      "id": "3_16_030",
+      "label": "3.16.030 Interest And Penalties Deposit In Fund"
+    },
+    {
+      "id": "3_16_040",
+      "label": "3.16.040 Payment Of Bonds Or Warrants"
+    },
+    {
+      "id": "3_16_050",
+      "label": "3.16.050 Replenishment Of Fund"
+    },
+    {
+      "id": "3_16_060",
+      "label": "3.16.060 Recorder To Issue Warrants"
+    },
+    {
+      "id": "3_16_070",
+      "label": "3.16.070 Subrogation Of City"
+    },
+    {
+      "id": "3_20_010",
+      "label": "3.20.010 Title"
+    },
+    {
+      "id": "3_20_020",
+      "label": "3.20.020 Purpose"
+    },
+    {
+      "id": "3_20_030",
+      "label": "3.20.030 Effective Date"
+    },
+    {
+      "id": "3_20_040",
+      "label": "3.20.040 Sales And Use Tax"
+    },
+    {
+      "id": "3_20_050",
+      "label": "3.20.050 Mayor Authorized To Execute Documents"
+    },
+    {
+      "id": "3_20_060",
+      "label": "3.20.060 Contract With State"
+    },
+    {
+      "id": "3_20_010",
+      "label": "3.20.010 Title"
+    },
+    {
+      "id": "3_20_020",
+      "label": "3.20.020 Purpose"
+    },
+    {
+      "id": "3_20_030",
+      "label": "3.20.030 Effective Date"
+    },
+    {
+      "id": "3_20_040",
+      "label": "3.20.040 Sales And Use Tax"
+    },
+    {
+      "id": "3_20_050",
+      "label": "3.20.050 Mayor Authorized To Execute Documents"
+    },
+    {
+      "id": "3_20_060",
+      "label": "3.20.060 Contract With State"
+    },
+    {
+      "id": "3_24_010",
+      "label": "3.24.010 Title"
+    },
+    {
+      "id": "3_24_020",
+      "label": "3.24.020 Purpose"
+    },
+    {
+      "id": "3_24_030",
+      "label": "3.24.030 RAP Tax"
+    },
+    {
+      "id": "3_24_040",
+      "label": "3.24.040 Citizens Advisory Committee"
+    },
+    {
+      "id": "3_24_050",
+      "label": "3.24.050 Effective Date"
+    },
+    {
+      "id": "3_24_060",
+      "label": "3.24.060 Mayor Authorized To Execute Documents"
+    },
+    {
+      "id": "3_24_010",
+      "label": "3.24.010 Title"
+    },
+    {
+      "id": "3_24_020",
+      "label": "3.24.020 Purpose"
+    },
+    {
+      "id": "3_24_030",
+      "label": "3.24.030 RAP Tax"
+    },
+    {
+      "id": "3_24_040",
+      "label": "3.24.040 Citizens Advisory Committee"
+    },
+    {
+      "id": "3_24_050",
+      "label": "3.24.050 Effective Date"
+    },
+    {
+      "id": "3_24_060",
+      "label": "3.24.060 Mayor Authorized To Execute Documents"
+    },
+    {
+      "id": "3_32_010",
+      "label": "3.32.010 Title"
+    },
+    {
+      "id": "3_32_020",
+      "label": "3.32.020 Purpose"
+    },
+    {
+      "id": "3_32_030",
+      "label": "3.32.030 Energy Sales And Use Tax"
+    },
+    {
+      "id": "3_32_040",
+      "label": "3.32.040 Mayor Authorized To Execute Documents"
+    },
+    {
+      "id": "3_32_050",
+      "label": "3.32.050 Collection Of Taxes"
+    },
+    {
+      "id": "3_32_060",
+      "label": "3.32.060 Remittance"
+    },
+    {
+      "id": "3_32_070",
+      "label": "3.32.070 Inspection"
+    },
+    {
+      "id": "3_32_080",
+      "label": "3.32.080 Condition Of Service"
+    },
+    {
+      "id": "3_32_090",
+      "label": "3.32.090 Effective Date"
+    },
+    {
+      "id": "3_32_010",
+      "label": "3.32.010 Title"
+    },
+    {
+      "id": "3_32_020",
+      "label": "3.32.020 Purpose"
+    },
+    {
+      "id": "3_32_030",
+      "label": "3.32.030 Energy Sales And Use Tax"
+    },
+    {
+      "id": "3_32_040",
+      "label": "3.32.040 Mayor Authorized To Execute Documents"
+    },
+    {
+      "id": "3_32_050",
+      "label": "3.32.050 Collection Of Taxes"
+    },
+    {
+      "id": "3_32_060",
+      "label": "3.32.060 Remittance"
+    },
+    {
+      "id": "3_32_070",
+      "label": "3.32.070 Inspection"
+    },
+    {
+      "id": "3_32_080",
+      "label": "3.32.080 Condition Of Service"
+    },
+    {
+      "id": "3_32_090",
+      "label": "3.32.090 Effective Date"
+    },
+    {
+      "id": "3_36_010",
+      "label": "3.36.010 Definitions"
+    },
+    {
+      "id": "3_36_020",
+      "label": "3.36.020 Levy Of Tax"
+    },
+    {
+      "id": "3_36_030",
+      "label": "3.36.030 Rate"
+    },
+    {
+      "id": "3_36_040",
+      "label": "3.36.040 Rate Limitation"
+    },
+    {
+      "id": "3_36_050",
+      "label": "3.36.050 Changes In Rate Or Repeal Of The Tax"
+    },
+    {
+      "id": "3_36_060",
+      "label": "3.36.060 Procedures For Taxes Erroneously Recovered From Customers"
+    },
+    {
+      "id": "3_36_010",
+      "label": "3.36.010 Definitions"
+    },
+    {
+      "id": "3_36_020",
+      "label": "3.36.020 Levy Of Tax"
+    },
+    {
+      "id": "3_36_030",
+      "label": "3.36.030 Rate"
+    },
+    {
+      "id": "3_36_040",
+      "label": "3.36.040 Rate Limitation"
+    },
+    {
+      "id": "3_36_050",
+      "label": "3.36.050 Changes In Rate Or Repeal Of The Tax"
+    },
+    {
+      "id": "3_36_060",
+      "label": "3.36.060 Procedures For Taxes Erroneously Recovered From Customers"
+    },
+    {
+      "id": "3_40_010",
+      "label": "3.40.010 Definitions"
+    },
+    {
+      "id": "3_40_020",
+      "label": "3.40.020 Transient Room Tax"
+    },
+    {
+      "id": "3_40_030",
+      "label": "3.40.030 Records"
+    },
+    {
+      "id": "3_40_040",
+      "label": "3.40.040 Penalties"
+    },
+    {
+      "id": "3_40_010",
+      "label": "3.40.010 Definitions"
+    },
+    {
+      "id": "3_40_020",
+      "label": "3.40.020 Transient Room Tax"
+    },
+    {
+      "id": "3_40_030",
+      "label": "3.40.030 Records"
+    },
+    {
+      "id": "3_40_040",
+      "label": "3.40.040 Penalties"
+    }
+  ]
+}

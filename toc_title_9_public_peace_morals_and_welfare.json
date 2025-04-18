@@ -1,0 +1,510 @@
+{
+  "title": "Title 9 - Public Peace, Morals and Welfare",
+  "file": "title_9_public_peace_morals_and_welfare.html",
+  "sections": [
+    {
+      "id": "9_04_010",
+      "label": "9.04.010 Adoption Of State Criminal Code"
+    },
+    {
+      "id": "9_04_020",
+      "label": "9.04.020 Failure To Appear - Misdemeanor"
+    },
+    {
+      "id": "9_04_030",
+      "label": "9.04.030 Alcohol Regulations"
+    },
+    {
+      "id": "9_04_040",
+      "label": "9.04.040 Leaving Children In Vehicles"
+    },
+    {
+      "id": "9_04_010",
+      "label": "9.04.010 Adoption Of State Criminal Code"
+    },
+    {
+      "id": "9_04_020",
+      "label": "9.04.020 Failure To Appear - Misdemeanor"
+    },
+    {
+      "id": "9_04_030",
+      "label": "9.04.030 Alcohol Regulations"
+    },
+    {
+      "id": "9_04_040",
+      "label": "9.04.040 Leaving Children In Vehicles"
+    },
+    {
+      "id": "9_08_010",
+      "label": "9.08.010 Abusive Language"
+    },
+    {
+      "id": "9_08_010",
+      "label": "9.08.010 Abusive Language"
+    },
+    {
+      "id": "9_12_010",
+      "label": "9.12.010 Loudspeakers"
+    },
+    {
+      "id": "9_12_020",
+      "label": "9.12.020 Driving Animals On Streets (Reserved)"
+    },
+    {
+      "id": "9_12_030",
+      "label": "9.12.030 Driving On Sidewalks"
+    },
+    {
+      "id": "9_12_050",
+      "label": "9.12.050 Sale Or Use Of Fireworks"
+    },
+    {
+      "id": "9_12_060",
+      "label": "9.12.060 Loitering Defined"
+    },
+    {
+      "id": "9_12_070",
+      "label": "9.12.070 Loitering Prohibited"
+    },
+    {
+      "id": "9_12_080",
+      "label": "9.12.080 Targeted Residential Picketing Prohibited"
+    },
+    {
+      "id": "9_12_010",
+      "label": "9.12.010 Loudspeakers"
+    },
+    {
+      "id": "9_12_020",
+      "label": "9.12.020 Driving Animals On Streets (Reserved)"
+    },
+    {
+      "id": "9_12_030",
+      "label": "9.12.030 Driving On Sidewalks"
+    },
+    {
+      "id": "9_12_050",
+      "label": "9.12.050 Sale Or Use Of Fireworks"
+    },
+    {
+      "id": "9_12_060",
+      "label": "9.12.060 Loitering Defined"
+    },
+    {
+      "id": "9_12_070",
+      "label": "9.12.070 Loitering Prohibited"
+    },
+    {
+      "id": "9_12_080",
+      "label": "9.12.080 Targeted Residential Picketing Prohibited"
+    },
+    {
+      "id": "9_16_010",
+      "label": "9.16.010 Cleaning Sidewalks"
+    },
+    {
+      "id": "9_16_020",
+      "label": "9.16.020 Flooding Of Streets And Sidewalks"
+    },
+    {
+      "id": "9_16_030",
+      "label": "9.16.030 Culverts And Boxes Over Water Ditches"
+    },
+    {
+      "id": "9_16_040",
+      "label": "9.16.040 Disturbing Or Removing Items From Landfills"
+    },
+    {
+      "id": "9_16_010",
+      "label": "9.16.010 Cleaning Sidewalks"
+    },
+    {
+      "id": "9_16_020",
+      "label": "9.16.020 Flooding Of Streets And Sidewalks"
+    },
+    {
+      "id": "9_16_030",
+      "label": "9.16.030 Culverts And Boxes Over Water Ditches"
+    },
+    {
+      "id": "9_16_040",
+      "label": "9.16.040 Disturbing Or Removing Items From Landfills"
+    },
+    {
+      "id": "9_20_010",
+      "label": "9.20.010 Definitions"
+    },
+    {
+      "id": "9_20_020",
+      "label": "9.20.020 Hours Established"
+    },
+    {
+      "id": "9_20_030",
+      "label": "9.20.030 Parental Liability"
+    },
+    {
+      "id": "9_20_040",
+      "label": "9.20.040 Enforcement"
+    },
+    {
+      "id": "9_20_050",
+      "label": "9.20.050 Exceptions"
+    },
+    {
+      "id": "9_20_060",
+      "label": "9.20.060 Severability"
+    },
+    {
+      "id": "9_20_010",
+      "label": "9.20.010 Definitions"
+    },
+    {
+      "id": "9_20_020",
+      "label": "9.20.020 Hours Established"
+    },
+    {
+      "id": "9_20_030",
+      "label": "9.20.030 Parental Liability"
+    },
+    {
+      "id": "9_20_040",
+      "label": "9.20.040 Enforcement"
+    },
+    {
+      "id": "9_20_050",
+      "label": "9.20.050 Exceptions"
+    },
+    {
+      "id": "9_20_060",
+      "label": "9.20.060 Severability"
+    },
+    {
+      "id": "9_24_010",
+      "label": "9.24.010 Designated - Prohibited"
+    },
+    {
+      "id": "9_24_010",
+      "label": "9.24.010 Designated - Prohibited"
+    },
+    {
+      "id": "9_28_010",
+      "label": "9.28.010 Definitions - Unlawful Acts"
+    },
+    {
+      "id": "9_28_020",
+      "label": "9.28.020 Minors"
+    },
+    {
+      "id": "9_28_010",
+      "label": "9.28.010 Definitions - Unlawful Acts"
+    },
+    {
+      "id": "9_28_020",
+      "label": "9.28.020 Minors"
+    },
+    {
+      "id": "9_32_010",
+      "label": "9.32.010 Scope And Purpose"
+    },
+    {
+      "id": "9_32_020",
+      "label": "9.32.020 Definitions"
+    },
+    {
+      "id": "9_32_030",
+      "label": "9.32.030 Classifications"
+    },
+    {
+      "id": "9_32_040",
+      "label": "9.32.040 Noise Measurement Procedures"
+    },
+    {
+      "id": "9_32_050",
+      "label": "9.32.050 Noise Limits"
+    },
+    {
+      "id": "9_32_060",
+      "label": "9.32.060 Exceptions"
+    },
+    {
+      "id": "9_32_065",
+      "label": "9.32.065 Compression Engine Brakes"
+    },
+    {
+      "id": "9_32_070",
+      "label": "9.32.070 Violation"
+    },
+    {
+      "id": "9_32_010",
+      "label": "9.32.010 Scope And Purpose"
+    },
+    {
+      "id": "9_32_020",
+      "label": "9.32.020 Definitions"
+    },
+    {
+      "id": "9_32_030",
+      "label": "9.32.030 Classifications"
+    },
+    {
+      "id": "9_32_040",
+      "label": "9.32.040 Noise Measurement Procedures"
+    },
+    {
+      "id": "9_32_050",
+      "label": "9.32.050 Noise Limits"
+    },
+    {
+      "id": "9_32_060",
+      "label": "9.32.060 Exceptions"
+    },
+    {
+      "id": "9_32_065",
+      "label": "9.32.065 Compression Engine Brakes"
+    },
+    {
+      "id": "9_32_070",
+      "label": "9.32.070 Violation"
+    },
+    {
+      "id": "9_36_010",
+      "label": "9.36.010 Fugitive Dust And Emissions"
+    },
+    {
+      "id": "9_36_020",
+      "label": "9.36.020 Violation"
+    },
+    {
+      "id": "9_36_010",
+      "label": "9.36.010 Fugitive Dust And Emissions"
+    },
+    {
+      "id": "9_36_020",
+      "label": "9.36.020 Violation"
+    },
+    {
+      "id": "9_40_010",
+      "label": "9.40.010 Fireworks Prohibited - Areas"
+    },
+    {
+      "id": "9_40_020",
+      "label": "9.40.020 State Law Requirements"
+    },
+    {
+      "id": "9_40_030",
+      "label": "9.40.030 City Sponsored Events"
+    },
+    {
+      "id": "9_40_035",
+      "label": "9.40.035 Private Events"
+    },
+    {
+      "id": "9_40_040",
+      "label": "9.40.040 Penalty - Parental Responsibility"
+    },
+    {
+      "id": "9_40_010",
+      "label": "9.40.010 Fireworks Prohibited - Areas"
+    },
+    {
+      "id": "9_40_020",
+      "label": "9.40.020 State Law Requirements"
+    },
+    {
+      "id": "9_40_030",
+      "label": "9.40.030 City Sponsored Events"
+    },
+    {
+      "id": "9_40_035",
+      "label": "9.40.035 Private Events"
+    },
+    {
+      "id": "9_40_040",
+      "label": "9.40.040 Penalty - Parental Responsibility"
+    },
+    {
+      "id": "9_44_010",
+      "label": "9.44.010 Definitions"
+    },
+    {
+      "id": "9_44_020",
+      "label": "9.44.020 Registration Required To Operate Alarm Business"
+    },
+    {
+      "id": "9_44_030",
+      "label": "9.44.030 Unlawful To Operate An Alarm System Without An Alarm Permit"
+    },
+    {
+      "id": "9_44_040",
+      "label": "9.44.040 Alarm Permits"
+    },
+    {
+      "id": "9_44_050",
+      "label": "9.44.050 User Instructions"
+    },
+    {
+      "id": "9_44_060",
+      "label": "9.44.060 False Alarms"
+    },
+    {
+      "id": "9_44_070",
+      "label": "9.44.070 Right To Hearing And Appeal"
+    },
+    {
+      "id": "9_44_080",
+      "label": "9.44.080 Deliberate False Alarms"
+    },
+    {
+      "id": "9_44_090",
+      "label": "9.44.090 Local Alarm System-Cutoff Required"
+    },
+    {
+      "id": "9_44_100",
+      "label": "9.44.100 Public Safety Call Records"
+    },
+    {
+      "id": "9_44_110",
+      "label": "9.44.110 Administration And Enforcement"
+    },
+    {
+      "id": "9_44_120",
+      "label": "9.44.120 Operational Defects To Be Remedied"
+    },
+    {
+      "id": "9_44_130",
+      "label": "9.44.130 Automatic Dialing And Prerecorded Message Alarm Systems Unlawful"
+    },
+    {
+      "id": "9_44_140",
+      "label": "9.44.140 City Liability Limitations"
+    },
+    {
+      "id": "9_44_150",
+      "label": "9.44.150 Violation Penalty"
+    },
+    {
+      "id": "9_44_010",
+      "label": "9.44.010 Definitions"
+    },
+    {
+      "id": "9_44_020",
+      "label": "9.44.020 Registration Required To Operate Alarm Business"
+    },
+    {
+      "id": "9_44_030",
+      "label": "9.44.030 Unlawful To Operate An Alarm System Without An Alarm Permit"
+    },
+    {
+      "id": "9_44_040",
+      "label": "9.44.040 Alarm Permits"
+    },
+    {
+      "id": "9_44_050",
+      "label": "9.44.050 User Instructions"
+    },
+    {
+      "id": "9_44_060",
+      "label": "9.44.060 False Alarms"
+    },
+    {
+      "id": "9_44_070",
+      "label": "9.44.070 Right To Hearing And Appeal"
+    },
+    {
+      "id": "9_44_080",
+      "label": "9.44.080 Deliberate False Alarms"
+    },
+    {
+      "id": "9_44_090",
+      "label": "9.44.090 Local Alarm System-Cutoff Required"
+    },
+    {
+      "id": "9_44_100",
+      "label": "9.44.100 Public Safety Call Records"
+    },
+    {
+      "id": "9_44_110",
+      "label": "9.44.110 Administration And Enforcement"
+    },
+    {
+      "id": "9_44_120",
+      "label": "9.44.120 Operational Defects To Be Remedied"
+    },
+    {
+      "id": "9_44_130",
+      "label": "9.44.130 Automatic Dialing And Prerecorded Message Alarm Systems Unlawful"
+    },
+    {
+      "id": "9_44_140",
+      "label": "9.44.140 City Liability Limitations"
+    },
+    {
+      "id": "9_44_150",
+      "label": "9.44.150 Violation Penalty"
+    },
+    {
+      "id": "9_48_010",
+      "label": "9.48.010 Restrictions On The Sale, Possession, And Consumption Of Beer"
+    },
+    {
+      "id": "9_48_010",
+      "label": "9.48.010 Restrictions On The Sale, Possession, And Consumption Of Beer"
+    },
+    {
+      "id": "9_52_010",
+      "label": "9.52.010 Purpose And Intent"
+    },
+    {
+      "id": "9_52_020",
+      "label": "9.52.020 Definitions"
+    },
+    {
+      "id": "9_52_030",
+      "label": "9.52.030 Sleeping, Cooking, Bathing, Or Utilizing A Tent Or Other Temporary Structure For The Storage Of Personal Belongings On City Property Without Authorization Prohibited"
+    },
+    {
+      "id": "9_52_040",
+      "label": "9.52.040 Camping On City Property Without Authorization Prohibited"
+    },
+    {
+      "id": "9_52_050",
+      "label": "9.52.050 Removal Of Unlawful Campsite"
+    },
+    {
+      "id": "9_52_060",
+      "label": "9.52.060 Removal, Disposition And Release Of Personal Property"
+    },
+    {
+      "id": "9_52_070",
+      "label": "9.52.070 Enforcement, Penalties And Mitigation"
+    },
+    {
+      "id": "9_52_010",
+      "label": "9.52.010 Purpose And Intent"
+    },
+    {
+      "id": "9_52_020",
+      "label": "9.52.020 Definitions"
+    },
+    {
+      "id": "9_52_030",
+      "label": "9.52.030 Sleeping, Cooking, Bathing, Or Utilizing A Tent Or Other Temporary Structure For The Storage Of Personal Belongings On City Property Without Authorization Prohibited"
+    },
+    {
+      "id": "9_52_040",
+      "label": "9.52.040 Camping On City Property Without Authorization Prohibited"
+    },
+    {
+      "id": "9_52_050",
+      "label": "9.52.050 Removal Of Unlawful Campsite"
+    },
+    {
+      "id": "9_52_060",
+      "label": "9.52.060 Removal, Disposition And Release Of Personal Property"
+    },
+    {
+      "id": "9_52_070",
+      "label": "9.52.070 Enforcement, Penalties And Mitigation"
+    }
+  ]
+}

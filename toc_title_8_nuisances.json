@@ -1,0 +1,498 @@
+{
+  "title": "Title 8 - Nuisances",
+  "file": "title_8_nuisances.html",
+  "sections": [
+    {
+      "id": "8_04_010",
+      "label": "8.04.010 Purposes"
+    },
+    {
+      "id": "8_04_020",
+      "label": "8.04.020 Responsibility For System And Its Regulation"
+    },
+    {
+      "id": "8_04_030",
+      "label": "8.04.030 Definitions"
+    },
+    {
+      "id": "8_04_040",
+      "label": "8.04.040 Categories Of Collection Service"
+    },
+    {
+      "id": "8_04_050",
+      "label": "8.04.050 Classification Of Services; Fees"
+    },
+    {
+      "id": "8_04_060",
+      "label": "8.04.060 Solid Waste Service Providers"
+    },
+    {
+      "id": "8_04_070",
+      "label": "8.04.070 Regulations Authorized"
+    },
+    {
+      "id": "8_04_080",
+      "label": "8.04.080 Unauthorized Collection Of Solid Waste"
+    },
+    {
+      "id": "8_04_090",
+      "label": "8.04.090 Penalties"
+    },
+    {
+      "id": "8_04_100",
+      "label": "8.04.100 Termination Of The Right To Do Business As A Solid Waste Contractor"
+    },
+    {
+      "id": "8_04_110",
+      "label": "8.04.110 Title To Solid Waste"
+    },
+    {
+      "id": "8_04_120",
+      "label": "8.04.120 Exception For Transporting Collectors"
+    },
+    {
+      "id": "8_04_130",
+      "label": "8.04.130 Holidays"
+    },
+    {
+      "id": "8_04_010",
+      "label": "8.04.010 Purposes"
+    },
+    {
+      "id": "8_04_020",
+      "label": "8.04.020 Responsibility For System And Its Regulation"
+    },
+    {
+      "id": "8_04_030",
+      "label": "8.04.030 Definitions"
+    },
+    {
+      "id": "8_04_040",
+      "label": "8.04.040 Categories Of Collection Service"
+    },
+    {
+      "id": "8_04_050",
+      "label": "8.04.050 Classification Of Services; Fees"
+    },
+    {
+      "id": "8_04_060",
+      "label": "8.04.060 Solid Waste Service Providers"
+    },
+    {
+      "id": "8_04_070",
+      "label": "8.04.070 Regulations Authorized"
+    },
+    {
+      "id": "8_04_080",
+      "label": "8.04.080 Unauthorized Collection Of Solid Waste"
+    },
+    {
+      "id": "8_04_090",
+      "label": "8.04.090 Penalties"
+    },
+    {
+      "id": "8_04_100",
+      "label": "8.04.100 Termination Of The Right To Do Business As A Solid Waste Contractor"
+    },
+    {
+      "id": "8_04_110",
+      "label": "8.04.110 Title To Solid Waste"
+    },
+    {
+      "id": "8_04_120",
+      "label": "8.04.120 Exception For Transporting Collectors"
+    },
+    {
+      "id": "8_04_130",
+      "label": "8.04.130 Holidays"
+    },
+    {
+      "id": "8_08_010",
+      "label": "8.08.010 Type And Ownership Of Receptacles"
+    },
+    {
+      "id": "8_08_020",
+      "label": "8.08.020 Use Of Receptacles And Containers; Area Around Receptacles And Containers"
+    },
+    {
+      "id": "8_08_030",
+      "label": "8.08.030 Condition Of Receptacles And Containers; Abuse Of Receptacles And Containers Prohibited"
+    },
+    {
+      "id": "8_08_040",
+      "label": "8.08.040 Placement Or Location Of Receptacles And Containers; Spillage"
+    },
+    {
+      "id": "8_08_050",
+      "label": "8.08.050 Matter Not To Be Placed In Receptacles Or Containers, Or Set Out For Collection"
+    },
+    {
+      "id": "8_08_080",
+      "label": "8.08.080 Accumulation Prohibited"
+    },
+    {
+      "id": "8_08_090",
+      "label": "8.08.090 Dumping Prohibited"
+    },
+    {
+      "id": "8_08_100",
+      "label": "8.08.100 Hazardous Waste Prohibited"
+    },
+    {
+      "id": "8_08_110",
+      "label": "8.08.110 Responsibility For Compliance; Unlawful Deposits"
+    },
+    {
+      "id": "8_08_120",
+      "label": "8.08.120 Inspections; Notice; Correction"
+    },
+    {
+      "id": "8_08_010",
+      "label": "8.08.010 Type And Ownership Of Receptacles"
+    },
+    {
+      "id": "8_08_020",
+      "label": "8.08.020 Use Of Receptacles And Containers; Area Around Receptacles And Containers"
+    },
+    {
+      "id": "8_08_030",
+      "label": "8.08.030 Condition Of Receptacles And Containers; Abuse Of Receptacles And Containers Prohibited"
+    },
+    {
+      "id": "8_08_040",
+      "label": "8.08.040 Placement Or Location Of Receptacles And Containers; Spillage"
+    },
+    {
+      "id": "8_08_050",
+      "label": "8.08.050 Matter Not To Be Placed In Receptacles Or Containers, Or Set Out For Collection"
+    },
+    {
+      "id": "8_08_080",
+      "label": "8.08.080 Accumulation Prohibited"
+    },
+    {
+      "id": "8_08_090",
+      "label": "8.08.090 Dumping Prohibited"
+    },
+    {
+      "id": "8_08_100",
+      "label": "8.08.100 Hazardous Waste Prohibited"
+    },
+    {
+      "id": "8_08_110",
+      "label": "8.08.110 Responsibility For Compliance; Unlawful Deposits"
+    },
+    {
+      "id": "8_08_120",
+      "label": "8.08.120 Inspections; Notice; Correction"
+    },
+    {
+      "id": "8_12_010",
+      "label": "8.12.010 Allowable Solid Waste Contractor Operating Hours"
+    },
+    {
+      "id": "8_12_020",
+      "label": "8.12.020 Solid Waste Collection Schedule"
+    },
+    {
+      "id": "8_12_030",
+      "label": "8.12.030 Furnishing Of And Design Of Containers"
+    },
+    {
+      "id": "8_12_040",
+      "label": "8.12.040 Additional Container Pick-Ups"
+    },
+    {
+      "id": "8_12_050",
+      "label": "8.12.050 Frequency Of Collection"
+    },
+    {
+      "id": "8_12_060",
+      "label": "8.12.060 Solid Waste Vehicle Requirements"
+    },
+    {
+      "id": "8_12_070",
+      "label": "8.12.070 Requirements While Transporting"
+    },
+    {
+      "id": "8_12_080",
+      "label": "8.12.080 Parking Of Solid Waste Vehicles"
+    },
+    {
+      "id": "8_12_090",
+      "label": "8.12.090 Disposal Of Solid Waste"
+    },
+    {
+      "id": "8_12_010",
+      "label": "8.12.010 Allowable Solid Waste Contractor Operating Hours"
+    },
+    {
+      "id": "8_12_020",
+      "label": "8.12.020 Solid Waste Collection Schedule"
+    },
+    {
+      "id": "8_12_030",
+      "label": "8.12.030 Furnishing Of And Design Of Containers"
+    },
+    {
+      "id": "8_12_040",
+      "label": "8.12.040 Additional Container Pick-Ups"
+    },
+    {
+      "id": "8_12_050",
+      "label": "8.12.050 Frequency Of Collection"
+    },
+    {
+      "id": "8_12_060",
+      "label": "8.12.060 Solid Waste Vehicle Requirements"
+    },
+    {
+      "id": "8_12_070",
+      "label": "8.12.070 Requirements While Transporting"
+    },
+    {
+      "id": "8_12_080",
+      "label": "8.12.080 Parking Of Solid Waste Vehicles"
+    },
+    {
+      "id": "8_12_090",
+      "label": "8.12.090 Disposal Of Solid Waste"
+    },
+    {
+      "id": "8_16_010",
+      "label": "8.16.010 Solid Waste Vehicle Inspection Requirement"
+    },
+    {
+      "id": "8_16_020",
+      "label": "8.16.020 Permit Requirement"
+    },
+    {
+      "id": "8_16_010",
+      "label": "8.16.010 Solid Waste Vehicle Inspection Requirement"
+    },
+    {
+      "id": "8_16_020",
+      "label": "8.16.020 Permit Requirement"
+    },
+    {
+      "id": "8_20_010",
+      "label": "8.20.010 Purpose, Inspection, And Notice"
+    },
+    {
+      "id": "8_20_020",
+      "label": "8.20.020 Penalties"
+    },
+    {
+      "id": "8_20_030",
+      "label": "8.20.030 Abatement By City"
+    },
+    {
+      "id": "8_20_040",
+      "label": "8.20.040 Right To Hearing And Appeal"
+    },
+    {
+      "id": "8_20_050",
+      "label": "8.20.050 Inspector"
+    },
+    {
+      "id": "8_20_060",
+      "label": "8.20.060 Governmental Immunity"
+    },
+    {
+      "id": "8_20_010",
+      "label": "8.20.010 Purpose, Inspection, And Notice"
+    },
+    {
+      "id": "8_20_020",
+      "label": "8.20.020 Penalties"
+    },
+    {
+      "id": "8_20_010",
+      "label": "8.20.010 Penalties"
+    },
+    {
+      "id": "8_20_030",
+      "label": "8.20.030 Abatement By City"
+    },
+    {
+      "id": "8_20_040",
+      "label": "8.20.040 Right To Hearing And Appeal"
+    },
+    {
+      "id": "8_20_050",
+      "label": "8.20.050 Inspector"
+    },
+    {
+      "id": "8_20_060",
+      "label": "8.20.060 Governmental Immunity"
+    },
+    {
+      "id": "8_24_010",
+      "label": "8.24.010 Nuisance"
+    },
+    {
+      "id": "8_24_020",
+      "label": "8.24.020 Definition Of Nuisance"
+    },
+    {
+      "id": "8_24_030",
+      "label": "8.24.030 Duty Of Maintenance Of Private Property"
+    },
+    {
+      "id": "8_24_040",
+      "label": "8.24.040 Storage Of Personal Property"
+    },
+    {
+      "id": "8_24_050",
+      "label": "8.24.050 Notice And Violation"
+    },
+    {
+      "id": "8_24_010",
+      "label": "8.24.010 Nuisance"
+    },
+    {
+      "id": "8_24_020",
+      "label": "8.24.020 Definition Of Nuisance"
+    },
+    {
+      "id": "8_24_030",
+      "label": "8.24.030 Duty Of Maintenance Of Private Property"
+    },
+    {
+      "id": "8_24_040",
+      "label": "8.24.040 Storage Of Personal Property"
+    },
+    {
+      "id": "8_24_050",
+      "label": "8.24.050 Notice And Violation"
+    },
+    {
+      "id": "8_28_010",
+      "label": "8.28.010 Uniform Fire Code Adopted"
+    },
+    {
+      "id": "8_28_020",
+      "label": "8.28.020 Penalty - False Alarms"
+    },
+    {
+      "id": "8_28_030",
+      "label": "8.28.030 Violations"
+    },
+    {
+      "id": "8_28_040",
+      "label": "8.28.040 Outdoor Burning"
+    },
+    {
+      "id": "8_28_060",
+      "label": "8.28.060 Non-Fire Responses"
+    },
+    {
+      "id": "8_28_010",
+      "label": "8.28.010 Uniform Fire Code Adopted"
+    },
+    {
+      "id": "8_28_020",
+      "label": "8.28.020 Penalty - False Alarms"
+    },
+    {
+      "id": "8_28_030",
+      "label": "8.28.030 Violations"
+    },
+    {
+      "id": "8_28_040",
+      "label": "8.28.040 Outdoor Burning"
+    },
+    {
+      "id": "8_28_060",
+      "label": "8.28.060 Non-Fire Responses"
+    },
+    {
+      "id": "8_32_010",
+      "label": "8.32.010 Statement Of Purpose"
+    },
+    {
+      "id": "8_32_020",
+      "label": "8.32.020 Methods Of Reducing Flood Losses"
+    },
+    {
+      "id": "8_32_030",
+      "label": "8.32.030 Definitions"
+    },
+    {
+      "id": "8_32_040",
+      "label": "8.32.040 Lands To Which This Chapter Applies"
+    },
+    {
+      "id": "8_32_050",
+      "label": "8.32.050 Compliance"
+    },
+    {
+      "id": "8_32_060",
+      "label": "8.32.060 Abrogation And Greater Restrictions"
+    },
+    {
+      "id": "8_32_070",
+      "label": "8.32.070 Interpretation"
+    },
+    {
+      "id": "8_32_080",
+      "label": "8.32.080 Establishment Of Development Permit"
+    },
+    {
+      "id": "8_32_090",
+      "label": "8.32.090 Designation Of The City Engineer"
+    },
+    {
+      "id": "8_32_010",
+      "label": "8.32.010 Statement Of Purpose"
+    },
+    {
+      "id": "8_32_020",
+      "label": "8.32.020 Methods Of Reducing Flood Losses"
+    },
+    {
+      "id": "8_32_030",
+      "label": "8.32.030 Definitions"
+    },
+    {
+      "id": "8_32_040",
+      "label": "8.32.040 Lands To Which This Chapter Applies"
+    },
+    {
+      "id": "8_32_050",
+      "label": "8.32.050 Compliance"
+    },
+    {
+      "id": "8_32_060",
+      "label": "8.32.060 Abrogation And Greater Restrictions"
+    },
+    {
+      "id": "8_32_070",
+      "label": "8.32.070 Interpretation"
+    },
+    {
+      "id": "8_32_080",
+      "label": "8.32.080 Establishment Of Development Permit"
+    },
+    {
+      "id": "8_32_090",
+      "label": "8.32.090 Designation Of The City Engineer"
+    },
+    {
+      "id": "8_36_010",
+      "label": "8.36.010 Hazardous Materials; Unlawful Acts"
+    },
+    {
+      "id": "8_36_020",
+      "label": "8.36.020 Hazardous Materials Cleanup; Recovery Of The Costs"
+    },
+    {
+      "id": "8_36_010",
+      "label": "8.36.010 Hazardous Materials; Unlawful Acts"
+    },
+    {
+      "id": "8_36_020",
+      "label": "8.36.020 Hazardous Materials Cleanup; Recovery Of The Costs"
+    }
+  ]
+}

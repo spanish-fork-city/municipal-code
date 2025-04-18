@@ -1,0 +1,542 @@
+{
+  "title": "Title 7 - General Government",
+  "file": "title_7_general_government.html",
+  "sections": [
+    {
+      "id": "7_04_010",
+      "label": "7.04.010 Interment To Be In Cemeteries"
+    },
+    {
+      "id": "7_04_020",
+      "label": "7.04.020 Fees For Services"
+    },
+    {
+      "id": "7_04_030",
+      "label": "7.04.030 Records"
+    },
+    {
+      "id": "7_04_040",
+      "label": "7.04.040 Forfeiture Of Burial Rights"
+    },
+    {
+      "id": "7_04_050",
+      "label": "7.04.050 Burial Of Indigent Persons"
+    },
+    {
+      "id": "7_04_060",
+      "label": "7.04.060 Control And Maintenance"
+    },
+    {
+      "id": "7_04_070",
+      "label": "7.04.070 Vehicular Traffic"
+    },
+    {
+      "id": "7_04_080",
+      "label": "7.04.080 Defacing Or Removing Shrubs Or Markers"
+    },
+    {
+      "id": "7_04_090",
+      "label": "7.04.090 Animals - Trespassing"
+    },
+    {
+      "id": "7_04_100",
+      "label": "7.04.100 Rules And Regulations"
+    },
+    {
+      "id": "7_04_110",
+      "label": "7.04.110 Penalty"
+    },
+    {
+      "id": "7_04_010",
+      "label": "7.04.010 Interment To Be In Cemeteries"
+    },
+    {
+      "id": "7_04_020",
+      "label": "7.04.020 Fees For Services"
+    },
+    {
+      "id": "7_04_030",
+      "label": "7.04.030 Records"
+    },
+    {
+      "id": "7_04_040",
+      "label": "7.04.040 Forfeiture Of Burial Rights"
+    },
+    {
+      "id": "7_04_050",
+      "label": "7.04.050 Burial Of Indigent Persons"
+    },
+    {
+      "id": "7_04_060",
+      "label": "7.04.060 Control And Maintenance"
+    },
+    {
+      "id": "7_04_070",
+      "label": "7.04.070 Vehicular Traffic"
+    },
+    {
+      "id": "7_04_080",
+      "label": "7.04.080 Defacing Or Removing Shrubs Or Markers"
+    },
+    {
+      "id": "7_04_090",
+      "label": "7.04.090 Animals - Trespassing"
+    },
+    {
+      "id": "7_04_100",
+      "label": "7.04.100 Rules And Regulations"
+    },
+    {
+      "id": "7_04_110",
+      "label": "7.04.110 Penalty"
+    },
+    {
+      "id": "7_08_010",
+      "label": "7.08.010 (Reserved)"
+    },
+    {
+      "id": "7_08_020",
+      "label": "7.08.020 (Reserved)"
+    },
+    {
+      "id": "7_08_030",
+      "label": "7.08.030 Fiscal Matters - Donations"
+    },
+    {
+      "id": "7_08_040",
+      "label": "7.08.040 Donations Of Money Or Property"
+    },
+    {
+      "id": "7_08_050",
+      "label": "7.08.050 Defacing Books"
+    },
+    {
+      "id": "7_08_010",
+      "label": "7.08.010 (Reserved)"
+    },
+    {
+      "id": "7_08_020",
+      "label": "7.08.020 (Reserved)"
+    },
+    {
+      "id": "7_08_030",
+      "label": "7.08.030 Fiscal Matters - Donations"
+    },
+    {
+      "id": "7_08_040",
+      "label": "7.08.040 Donations Of Money Or Property"
+    },
+    {
+      "id": "7_08_050",
+      "label": "7.08.050 Defacing Books"
+    },
+    {
+      "id": "7_12_010",
+      "label": "7.12.010 Name - Location - Control"
+    },
+    {
+      "id": "7_12_020",
+      "label": "7.12.020 Authority To Make Rules - Unlawful To Violate"
+    },
+    {
+      "id": "7_12_030",
+      "label": "7.12.030 Definitions"
+    },
+    {
+      "id": "7_12_040",
+      "label": "7.12.040 Repealed By Ord 22-22"
+    },
+    {
+      "id": "7_12_050",
+      "label": "7.12.050 Aeronautical Activities Standards"
+    },
+    {
+      "id": "7_12_010",
+      "label": "7.12.010 Name - Location - Control"
+    },
+    {
+      "id": "7_12_020",
+      "label": "7.12.020 Authority To Make Rules - Unlawful To Violate"
+    },
+    {
+      "id": "7_12_030",
+      "label": "7.12.030 Definitions"
+    },
+    {
+      "id": "7_12_040",
+      "label": "7.12.040 Repealed By Ord 22-22"
+    },
+    {
+      "id": "7_12_050",
+      "label": "7.12.050 Aeronautical Activities Standards"
+    },
+    {
+      "id": "7_20_010",
+      "label": "7.20.010 Definitions"
+    },
+    {
+      "id": "7_20_020",
+      "label": "7.20.020 Historic Preservation Commission"
+    },
+    {
+      "id": "7_20_030",
+      "label": "7.20.030 Commission Duties"
+    },
+    {
+      "id": "7_20_040",
+      "label": "7.20.040 Spanish Fork Historic Sites List"
+    },
+    {
+      "id": "7_20_050",
+      "label": "7.20.050 Effect Of Designation Of The Historic Sites List"
+    },
+    {
+      "id": "7_20_060",
+      "label": "7.20.060 Standards For Rehabilitation And Guidelines For Preservation And Rehabilitationn"
+    },
+    {
+      "id": "7_20_010",
+      "label": "7.20.010 Definitions"
+    },
+    {
+      "id": "7_20_020",
+      "label": "7.20.020 Historic Preservation Commission"
+    },
+    {
+      "id": "7_20_030",
+      "label": "7.20.030 Commission Duties"
+    },
+    {
+      "id": "7_20_040",
+      "label": "7.20.040 Spanish Fork Historic Sites List"
+    },
+    {
+      "id": "7_20_050",
+      "label": "7.20.050 Effect Of Designation Of The Historic Sites List"
+    },
+    {
+      "id": "7_20_060",
+      "label": "7.20.060 Standards For Rehabilitation And Guidelines For Preservation And Rehabilitationn"
+    },
+    {
+      "id": "7_24_010",
+      "label": "7.24.010 Parks And Recreation Facilities In General"
+    },
+    {
+      "id": "7_24_020",
+      "label": "7.24.020 Closure Of Facilities"
+    },
+    {
+      "id": "7_24_030",
+      "label": "7.24.030 Park And Recreation Facility Regulations"
+    },
+    {
+      "id": "7_24_040",
+      "label": "7.24.040 Hours"
+    },
+    {
+      "id": "7_24_050",
+      "label": "7.24.050 Motorized Vehicles"
+    },
+    {
+      "id": "7_24_060",
+      "label": "7.24.060 Noise-Minimum Fine"
+    },
+    {
+      "id": "7_24_070",
+      "label": "7.24.070 Litter"
+    },
+    {
+      "id": "7_24_080",
+      "label": "7.24.080 Animals"
+    },
+    {
+      "id": "7_24_090",
+      "label": "7.24.090 Alcohol And Tobacco"
+    },
+    {
+      "id": "7_24_100",
+      "label": "7.24.100 Fishing"
+    },
+    {
+      "id": "7_24_110",
+      "label": "7.24.110 General Boating Regulations"
+    },
+    {
+      "id": "7_24_120",
+      "label": "7.24.120 Exceptions"
+    },
+    {
+      "id": "7_24_130",
+      "label": "7.24.130 Violation"
+    },
+    {
+      "id": "7_24_010",
+      "label": "7.24.010 Parks And Recreation Facilities In General"
+    },
+    {
+      "id": "7_24_020",
+      "label": "7.24.020 Closure Of Facilities"
+    },
+    {
+      "id": "7_24_030",
+      "label": "7.24.030 Park And Recreation Facility Regulations"
+    },
+    {
+      "id": "7_24_040",
+      "label": "7.24.040 Hours"
+    },
+    {
+      "id": "7_24_050",
+      "label": "7.24.050 Motorized Vehicles"
+    },
+    {
+      "id": "7_24_060",
+      "label": "7.24.060 Noise-Minimum Fine"
+    },
+    {
+      "id": "7_24_070",
+      "label": "7.24.070 Litter"
+    },
+    {
+      "id": "7_24_080",
+      "label": "7.24.080 Animals"
+    },
+    {
+      "id": "7_24_090",
+      "label": "7.24.090 Alcohol And Tobacco"
+    },
+    {
+      "id": "7_24_100",
+      "label": "7.24.100 Fishing"
+    },
+    {
+      "id": "7_24_110",
+      "label": "7.24.110 General Boating Regulations"
+    },
+    {
+      "id": "7_24_120",
+      "label": "7.24.120 Exceptions"
+    },
+    {
+      "id": "7_24_130",
+      "label": "7.24.130 Violation"
+    },
+    {
+      "id": "7_28_010",
+      "label": "7.28.010 Boards, Commissions, And Committees Authorized"
+    },
+    {
+      "id": "7_28_020",
+      "label": "7.28.020 Planning Commission"
+    },
+    {
+      "id": "7_28_030",
+      "label": "7.28.030 Development Review Committee"
+    },
+    {
+      "id": "7_28_040",
+      "label": "7.28.040 Personnel Appeal Board"
+    },
+    {
+      "id": "7_28_050",
+      "label": "7.28.050 Personnel Committee"
+    },
+    {
+      "id": "7_28_060",
+      "label": "7.28.060 Library Board"
+    },
+    {
+      "id": "7_28_070",
+      "label": "7.28.070 Airport Board"
+    },
+    {
+      "id": "7_28_080",
+      "label": "7.28.080 Arts Council Committee"
+    },
+    {
+      "id": "7_28_090",
+      "label": "7.28.090 Historic Preservation Committee"
+    },
+    {
+      "id": "7_28_100",
+      "label": "7.28.100 Urban Forestry Board"
+    },
+    {
+      "id": "7_28_110",
+      "label": "7.28.110 REPEALED Volunteer Firefighter Retirement Board"
+    },
+    {
+      "id": "7_28_120",
+      "label": "7.28.120 REPEALED Finance Committee"
+    },
+    {
+      "id": "7_28_130",
+      "label": "7.28.130 Utility Board (Reserved)"
+    },
+    {
+      "id": "7_28_140",
+      "label": "7.28.140 Risk Management Committee"
+    },
+    {
+      "id": "7_28_150",
+      "label": "7.28.150 Waste Water Treatment Plant Advisory Committee"
+    },
+    {
+      "id": "7_28_160",
+      "label": "7.28.160 Fiesta Days Committee"
+    },
+    {
+      "id": "7_28_170",
+      "label": "7.28.170 Rodeo Committee"
+    },
+    {
+      "id": "7_28_180",
+      "label": "7.28.180 Parks And Recreation Committee"
+    },
+    {
+      "id": "7_28_190",
+      "label": "7.28.190 Seniors Board"
+    },
+    {
+      "id": "7_28_200",
+      "label": "7.28.200 Miss Spanish Fork Pageant Committee"
+    },
+    {
+      "id": "7_28_210",
+      "label": "7.28.210 Economic Development Committee (Reserved)"
+    },
+    {
+      "id": "7_28_215",
+      "label": "7.28.215 Fairgrounds Recreation Complex Advisory Board"
+    },
+    {
+      "id": "7_28_220",
+      "label": "7.28.220 Ad Hoc Committees"
+    },
+    {
+      "id": "7_28_010",
+      "label": "7.28.010 Boards, Commissions, And Committees Authorized"
+    },
+    {
+      "id": "7_28_020",
+      "label": "7.28.020 Planning Commission"
+    },
+    {
+      "id": "7_28_030",
+      "label": "7.28.030 Development Review Committee"
+    },
+    {
+      "id": "7_28_040",
+      "label": "7.28.040 Personnel Appeal Board"
+    },
+    {
+      "id": "7_28_050",
+      "label": "7.28.050 Personnel Committee"
+    },
+    {
+      "id": "7_28_060",
+      "label": "7.28.060 Library Board"
+    },
+    {
+      "id": "7_28_070",
+      "label": "7.28.070 Airport Board"
+    },
+    {
+      "id": "7_28_080",
+      "label": "7.28.080 Arts Council Committee"
+    },
+    {
+      "id": "7_28_090",
+      "label": "7.28.090 Historic Preservation Committee"
+    },
+    {
+      "id": "7_28_100",
+      "label": "7.28.100 Urban Forestry Board"
+    },
+    {
+      "id": "7_28_110",
+      "label": "7.28.110 REPEALED Volunteer Firefighter Retirement Board"
+    },
+    {
+      "id": "7_28_120",
+      "label": "7.28.120 REPEALED Finance Committee"
+    },
+    {
+      "id": "7_28_130",
+      "label": "7.28.130 Utility Board (Reserved)"
+    },
+    {
+      "id": "7_28_140",
+      "label": "7.28.140 Risk Management Committee"
+    },
+    {
+      "id": "7_28_150",
+      "label": "7.28.150 Waste Water Treatment Plant Advisory Committee"
+    },
+    {
+      "id": "7_28_160",
+      "label": "7.28.160 Fiesta Days Committee"
+    },
+    {
+      "id": "7_28_170",
+      "label": "7.28.170 Rodeo Committee"
+    },
+    {
+      "id": "7_28_180",
+      "label": "7.28.180 Parks And Recreation Committee"
+    },
+    {
+      "id": "7_28_190",
+      "label": "7.28.190 Seniors Board"
+    },
+    {
+      "id": "7_28_200",
+      "label": "7.28.200 Miss Spanish Fork Pageant Committee"
+    },
+    {
+      "id": "7_28_210",
+      "label": "7.28.210 Economic Development Committee (Reserved)"
+    },
+    {
+      "id": "7_28_215",
+      "label": "7.28.215 Fairgrounds Recreation Complex Advisory Board"
+    },
+    {
+      "id": "7_28_220",
+      "label": "7.28.220 Ad Hoc Committees"
+    },
+    {
+      "id": "7_32_010",
+      "label": "7.32.010 Creation Of Administrative Process"
+    },
+    {
+      "id": "7_32_020",
+      "label": "7.32.020 Initiation"
+    },
+    {
+      "id": "7_32_030",
+      "label": "7.32.030 Fee Schedule Process"
+    },
+    {
+      "id": "7_32_040",
+      "label": "7.32.040 Failure To Comply"
+    },
+    {
+      "id": "7_32_010",
+      "label": "7.32.010 Creation Of Administrative Process"
+    },
+    {
+      "id": "7_32_020",
+      "label": "7.32.020 Initiation"
+    },
+    {
+      "id": "7_32_030",
+      "label": "7.32.030 Fee Schedule Process"
+    },
+    {
+      "id": "7_32_040",
+      "label": "7.32.040 Failure To Comply"
+    }
+  ]
+}

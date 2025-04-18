@@ -1,0 +1,1694 @@
+{
+  "title": "Title 5 - Business Licenses",
+  "file": "title_5_business_licenses.html",
+  "sections": [
+    {
+      "id": "5_04_010",
+      "label": "5.04.010 Unlawful To Transact Business Without License"
+    },
+    {
+      "id": "5_04_020",
+      "label": "5.04.020 Definitions"
+    },
+    {
+      "id": "5_04_030",
+      "label": "5.04.030 License Assessor And Collector"
+    },
+    {
+      "id": "5_04_040",
+      "label": "5.04.040 Payment Dates"
+    },
+    {
+      "id": "5_04_050",
+      "label": "5.04.050 Applications"
+    },
+    {
+      "id": "5_04_060",
+      "label": "5.04.060 Penalty For Late Payment"
+    },
+    {
+      "id": "5_04_070",
+      "label": "5.04.070 Certificate"
+    },
+    {
+      "id": "5_04_080",
+      "label": "5.04.080 Display"
+    },
+    {
+      "id": "5_04_090",
+      "label": "5.04.090 Transferability"
+    },
+    {
+      "id": "5_04_100",
+      "label": "5.04.100 Revocation"
+    },
+    {
+      "id": "5_04_110",
+      "label": "5.04.110 Fee Schedule"
+    },
+    {
+      "id": "5_04_120",
+      "label": "5.04.120 Multiple Business Locations"
+    },
+    {
+      "id": "5_04_130",
+      "label": "5.04.130 Multiple Licenses"
+    },
+    {
+      "id": "5_04_140",
+      "label": "5.04.140 Site Improvements"
+    },
+    {
+      "id": "5_04_150",
+      "label": "5.04.150 Inspections"
+    },
+    {
+      "id": "5_04_160",
+      "label": "5.04.160 Violations"
+    },
+    {
+      "id": "5_04_010",
+      "label": "5.04.010 Unlawful To Transact Business Without License"
+    },
+    {
+      "id": "5_04_020",
+      "label": "5.04.020 Definitions"
+    },
+    {
+      "id": "5_04_030",
+      "label": "5.04.030 License Assessor And Collector"
+    },
+    {
+      "id": "5_04_040",
+      "label": "5.04.040 Payment Dates"
+    },
+    {
+      "id": "5_04_050",
+      "label": "5.04.050 Applications"
+    },
+    {
+      "id": "5_04_060",
+      "label": "5.04.060 Penalty For Late Payment"
+    },
+    {
+      "id": "5_04_070",
+      "label": "5.04.070 Certificate"
+    },
+    {
+      "id": "5_04_080",
+      "label": "5.04.080 Display"
+    },
+    {
+      "id": "5_04_090",
+      "label": "5.04.090 Transferability"
+    },
+    {
+      "id": "5_04_100",
+      "label": "5.04.100 Revocation"
+    },
+    {
+      "id": "5_04_110",
+      "label": "5.04.110 Fee Schedule"
+    },
+    {
+      "id": "5_04_120",
+      "label": "5.04.120 Multiple Business Locations"
+    },
+    {
+      "id": "5_04_130",
+      "label": "5.04.130 Multiple Licenses"
+    },
+    {
+      "id": "5_04_140",
+      "label": "5.04.140 Site Improvements"
+    },
+    {
+      "id": "5_04_150",
+      "label": "5.04.150 Inspections"
+    },
+    {
+      "id": "5_04_160",
+      "label": "5.04.160 Violations"
+    },
+    {
+      "id": "5_08_010",
+      "label": "5.08.010 Defined - License Required"
+    },
+    {
+      "id": "5_08_020",
+      "label": "5.08.020 Charitable Or Church Auctions"
+    },
+    {
+      "id": "5_08_030",
+      "label": "5.08.030 License - Not Transferable"
+    },
+    {
+      "id": "5_08_040",
+      "label": "5.08.040 False Representations"
+    },
+    {
+      "id": "5_08_050",
+      "label": "5.08.050 License - Revocation"
+    },
+    {
+      "id": "5_08_060",
+      "label": "5.08.060 Violation"
+    },
+    {
+      "id": "5_08_010",
+      "label": "5.08.010 Defined - License Required"
+    },
+    {
+      "id": "5_08_020",
+      "label": "5.08.020 Charitable Or Church Auctions"
+    },
+    {
+      "id": "5_08_030",
+      "label": "5.08.030 License - Not Transferable"
+    },
+    {
+      "id": "5_08_040",
+      "label": "5.08.040 False Representations"
+    },
+    {
+      "id": "5_08_050",
+      "label": "5.08.050 License - Revocation"
+    },
+    {
+      "id": "5_08_060",
+      "label": "5.08.060 Violation"
+    },
+    {
+      "id": "5_12_010",
+      "label": "5.12.010 Definitions"
+    },
+    {
+      "id": "5_12_020",
+      "label": "5.12.020 Permit Required"
+    },
+    {
+      "id": "5_12_030",
+      "label": "5.12.030 Categories Of Permits"
+    },
+    {
+      "id": "5_12_040",
+      "label": "5.12.040 Non-Transferable"
+    },
+    {
+      "id": "5_12_050",
+      "label": "5.12.050 Administrative Fees"
+    },
+    {
+      "id": "5_12_060",
+      "label": "5.12.060 Revocation - Hearing Examiner"
+    },
+    {
+      "id": "5_12_070",
+      "label": "5.12.070 Duties"
+    },
+    {
+      "id": "5_12_080",
+      "label": "5.12.080 Inspections"
+    },
+    {
+      "id": "5_12_090",
+      "label": "5.12.090 Violations"
+    },
+    {
+      "id": "5_12_010",
+      "label": "5.12.010 Definitions"
+    },
+    {
+      "id": "5_12_020",
+      "label": "5.12.020 Permit Required"
+    },
+    {
+      "id": "5_12_030",
+      "label": "5.12.030 Categories Of Permits"
+    },
+    {
+      "id": "5_12_040",
+      "label": "5.12.040 Non-Transferable"
+    },
+    {
+      "id": "5_12_050",
+      "label": "5.12.050 Administrative Fees"
+    },
+    {
+      "id": "5_12_060",
+      "label": "5.12.060 Revocation - Hearing Examiner"
+    },
+    {
+      "id": "5_12_070",
+      "label": "5.12.070 Duties"
+    },
+    {
+      "id": "5_12_080",
+      "label": "5.12.080 Inspections"
+    },
+    {
+      "id": "5_12_090",
+      "label": "5.12.090 Violations"
+    },
+    {
+      "id": "5_16_010",
+      "label": "5.16.010 Requirement Of Franchise"
+    },
+    {
+      "id": "5_16_020",
+      "label": "5.16.020 Application Copies"
+    },
+    {
+      "id": "5_16_030",
+      "label": "5.16.030 Criteria For Grant Of A Franchise"
+    },
+    {
+      "id": "5_16_040",
+      "label": "5.16.040 Franchise Agreements"
+    },
+    {
+      "id": "5_16_050",
+      "label": "5.16.050 Non-Assignable - Exception"
+    },
+    {
+      "id": "5_16_060",
+      "label": "5.16.060 Revocation Of Grant"
+    },
+    {
+      "id": "5_16_010",
+      "label": "5.16.010 Requirement Of Franchise"
+    },
+    {
+      "id": "5_16_020",
+      "label": "5.16.020 Application Copies"
+    },
+    {
+      "id": "5_16_030",
+      "label": "5.16.030 Criteria For Grant Of A Franchise"
+    },
+    {
+      "id": "5_16_040",
+      "label": "5.16.040 Franchise Agreements"
+    },
+    {
+      "id": "5_16_050",
+      "label": "5.16.050 Non-Assignable - Exception"
+    },
+    {
+      "id": "5_16_060",
+      "label": "5.16.060 Revocation Of Grant"
+    },
+    {
+      "id": "5_18_010",
+      "label": "5.18.010 Legislative Intent"
+    },
+    {
+      "id": "5_18_020",
+      "label": "5.18.020 Definitions"
+    },
+    {
+      "id": "5_18_030",
+      "label": "5.18.030 Unlawful Activity"
+    },
+    {
+      "id": "5_18_040",
+      "label": "5.18.040 Grant Of Franchise"
+    },
+    {
+      "id": "5_18_050",
+      "label": "5.18.050 Required Extensions Of Service"
+    },
+    {
+      "id": "5_18_060",
+      "label": "5.18.060 Two-Way Capability"
+    },
+    {
+      "id": "5_18_070",
+      "label": "5.18.070 Procedure For Remedying Franchise Violations"
+    },
+    {
+      "id": "5_18_080",
+      "label": "5.18.080 Alternative Remedies"
+    },
+    {
+      "id": "5_18_090",
+      "label": "5.18.090 Franchise Fee"
+    },
+    {
+      "id": "5_18_100",
+      "label": "5.18.100 Application"
+    },
+    {
+      "id": "5_18_110",
+      "label": "5.18.110 Application Fee"
+    },
+    {
+      "id": "5_18_010",
+      "label": "5.18.010 Legislative Intent"
+    },
+    {
+      "id": "5_18_020",
+      "label": "5.18.020 Definitions"
+    },
+    {
+      "id": "5_18_030",
+      "label": "5.18.030 Unlawful Activity"
+    },
+    {
+      "id": "5_18_040",
+      "label": "5.18.040 Grant Of Franchise"
+    },
+    {
+      "id": "5_18_050",
+      "label": "5.18.050 Required Extensions Of Service"
+    },
+    {
+      "id": "5_18_060",
+      "label": "5.18.060 Two-Way Capability"
+    },
+    {
+      "id": "5_18_070",
+      "label": "5.18.070 Procedure For Remedying Franchise Violations"
+    },
+    {
+      "id": "5_18_080",
+      "label": "5.18.080 Alternative Remedies"
+    },
+    {
+      "id": "5_18_090",
+      "label": "5.18.090 Franchise Fee"
+    },
+    {
+      "id": "5_18_100",
+      "label": "5.18.100 Application"
+    },
+    {
+      "id": "5_18_110",
+      "label": "5.18.110 Application Fee"
+    },
+    {
+      "id": "5_20_010",
+      "label": "5.20.010 Pawnbroker Defined"
+    },
+    {
+      "id": "5_20_020",
+      "label": "5.20.020 License Required"
+    },
+    {
+      "id": "5_20_030",
+      "label": "5.20.030 Display Of Merchandise"
+    },
+    {
+      "id": "5_20_040",
+      "label": "5.20.040 Firearms"
+    },
+    {
+      "id": "5_20_060",
+      "label": "5.20.060 Bond Required"
+    },
+    {
+      "id": "5_20_070",
+      "label": "5.20.070 Disclosure Provisions"
+    },
+    {
+      "id": "5_20_080",
+      "label": "5.20.080 Right To Redeem Pawned Articles"
+    },
+    {
+      "id": "5_20_090",
+      "label": "5.20.090 Dealing With Proscribed Persons"
+    },
+    {
+      "id": "5_20_100",
+      "label": "5.20.100 Protection Of Minors"
+    },
+    {
+      "id": "5_20_110",
+      "label": "5.20.110 Hours"
+    },
+    {
+      "id": "5_20_120",
+      "label": "5.20.120 Ownership Of Pawned Property"
+    },
+    {
+      "id": "5_20_130",
+      "label": "5.20.130 Unlawful Acts"
+    },
+    {
+      "id": "5_20_140",
+      "label": "5.20.140 Separate Rooms"
+    },
+    {
+      "id": "5_20_150",
+      "label": "5.20.150 Liability Of Principal"
+    },
+    {
+      "id": "5_20_160",
+      "label": "5.20.160 Violation"
+    },
+    {
+      "id": "5_20_010",
+      "label": "5.20.010 Pawnbroker Defined"
+    },
+    {
+      "id": "5_20_020",
+      "label": "5.20.020 License Required"
+    },
+    {
+      "id": "5_20_030",
+      "label": "5.20.030 Display Of Merchandise"
+    },
+    {
+      "id": "5_20_040",
+      "label": "5.20.040 Firearms"
+    },
+    {
+      "id": "5_20_060",
+      "label": "5.20.060 Bond Required"
+    },
+    {
+      "id": "5_20_070",
+      "label": "5.20.070 Disclosure Provisions"
+    },
+    {
+      "id": "5_20_080",
+      "label": "5.20.080 Right To Redeem Pawned Articles"
+    },
+    {
+      "id": "5_20_090",
+      "label": "5.20.090 Dealing With Proscribed Persons"
+    },
+    {
+      "id": "5_20_100",
+      "label": "5.20.100 Protection Of Minors"
+    },
+    {
+      "id": "5_20_110",
+      "label": "5.20.110 Hours"
+    },
+    {
+      "id": "5_20_120",
+      "label": "5.20.120 Ownership Of Pawned Property"
+    },
+    {
+      "id": "5_20_130",
+      "label": "5.20.130 Unlawful Acts"
+    },
+    {
+      "id": "5_20_140",
+      "label": "5.20.140 Separate Rooms"
+    },
+    {
+      "id": "5_20_150",
+      "label": "5.20.150 Liability Of Principal"
+    },
+    {
+      "id": "5_20_160",
+      "label": "5.20.160 Violation"
+    },
+    {
+      "id": "5_24_010",
+      "label": "5.24.010 Secondhand, Junk And Antique Dealers Defined"
+    },
+    {
+      "id": "5_24_020",
+      "label": "5.24.020 License Required - Fee"
+    },
+    {
+      "id": "5_24_030",
+      "label": "5.24.030 Display Of Merchandise"
+    },
+    {
+      "id": "5_24_040",
+      "label": "5.24.040 Disclosure Provisions"
+    },
+    {
+      "id": "5_24_050",
+      "label": "5.24.050 Dealing With Proscribed Persons"
+    },
+    {
+      "id": "5_24_060",
+      "label": "5.24.060 Ownership Of Property"
+    },
+    {
+      "id": "5_24_070",
+      "label": "5.24.070 Unlawful Acts"
+    },
+    {
+      "id": "5_24_080",
+      "label": "5.24.080 Liability Of Principal"
+    },
+    {
+      "id": "5_24_090",
+      "label": "5.24.090 Exemption"
+    },
+    {
+      "id": "5_24_010",
+      "label": "5.24.010 Secondhand, Junk And Antique Dealers Defined"
+    },
+    {
+      "id": "5_24_020",
+      "label": "5.24.020 License Required - Fee"
+    },
+    {
+      "id": "5_24_030",
+      "label": "5.24.030 Display Of Merchandise"
+    },
+    {
+      "id": "5_24_040",
+      "label": "5.24.040 Disclosure Provisions"
+    },
+    {
+      "id": "5_24_050",
+      "label": "5.24.050 Dealing With Proscribed Persons"
+    },
+    {
+      "id": "5_24_060",
+      "label": "5.24.060 Ownership Of Property"
+    },
+    {
+      "id": "5_24_070",
+      "label": "5.24.070 Unlawful Acts"
+    },
+    {
+      "id": "5_24_080",
+      "label": "5.24.080 Liability Of Principal"
+    },
+    {
+      "id": "5_24_090",
+      "label": "5.24.090 Exemption"
+    },
+    {
+      "id": "5_28_010",
+      "label": "5.28.010 Title For Citation"
+    },
+    {
+      "id": "5_28_020",
+      "label": "5.28.020 Purpose"
+    },
+    {
+      "id": "5_28_030",
+      "label": "5.28.030 Application"
+    },
+    {
+      "id": "5_28_040",
+      "label": "5.28.040 Definitions"
+    },
+    {
+      "id": "5_28_050",
+      "label": "5.28.050 Obscenity And Nudity"
+    },
+    {
+      "id": "5_28_060",
+      "label": "5.28.060 Location And Zoning Restrictions"
+    },
+    {
+      "id": "5_28_070",
+      "label": "5.28.070 Business License Required"
+    },
+    {
+      "id": "5_28_080",
+      "label": "5.28.080 Exemptions From License Requirements"
+    },
+    {
+      "id": "5_28_090",
+      "label": "5.28.090 Legitimate Artistic Modeling"
+    },
+    {
+      "id": "5_28_100",
+      "label": "5.28.100 Business Categories - Number Of Licenses"
+    },
+    {
+      "id": "5_28_110",
+      "label": "5.28.110 Employee Licenses"
+    },
+    {
+      "id": "5_28_120",
+      "label": "5.28.120 License Application - Disclosures Required"
+    },
+    {
+      "id": "5_28_130",
+      "label": "5.28.130 License - Fees"
+    },
+    {
+      "id": "5_28_140",
+      "label": "5.28.140 License - Bond"
+    },
+    {
+      "id": "5_28_150",
+      "label": "5.28.150 License - Premises Location And Name"
+    },
+    {
+      "id": "5_28_160",
+      "label": "5.28.160 License - Issuance Conditions"
+    },
+    {
+      "id": "5_28_170",
+      "label": "5.28.170 License - Term"
+    },
+    {
+      "id": "5_28_180",
+      "label": "5.28.180 License - Notice Of Change Of Information"
+    },
+    {
+      "id": "5_28_190",
+      "label": "5.28.190 License - Transfer Limitations"
+    },
+    {
+      "id": "5_28_195",
+      "label": "5.28.195 Moving Of Business Location"
+    },
+    {
+      "id": "5_28_200",
+      "label": "5.28.200 License - Display"
+    },
+    {
+      "id": "5_28_210",
+      "label": "5.28.210 License - Statement In Advertisements"
+    },
+    {
+      "id": "5_28_220",
+      "label": "5.28.220 Regulations And Unlawful Activities"
+    },
+    {
+      "id": "5_28_230",
+      "label": "5.28.230 Outcall Services Prohibited"
+    },
+    {
+      "id": "5_28_240",
+      "label": "5.28.240 Adult Business - Design Of Premises"
+    },
+    {
+      "id": "5_28_250",
+      "label": "5.28.250 Semi-Nude Entertainment Business - Design Of Premises"
+    },
+    {
+      "id": "5_28_260",
+      "label": "5.28.260 Semi-Nude Entertainment Business - Locations Restrictions"
+    },
+    {
+      "id": "5_28_270",
+      "label": "5.28.270 Semi-Nude Dancing Bar Prohibited"
+    },
+    {
+      "id": "5_28_280",
+      "label": "5.28.280 Semi-Nude Dancing Performer Restriction"
+    },
+    {
+      "id": "5_28_290",
+      "label": "5.28.290 Semi-Nude Dancing Agencies"
+    },
+    {
+      "id": "5_28_300",
+      "label": "5.28.300 Performers - Prohibited Activities"
+    },
+    {
+      "id": "5_28_310",
+      "label": "5.28.310 Performers - Costume Requirements"
+    },
+    {
+      "id": "5_28_320",
+      "label": "5.28.320 Stage Requirements"
+    },
+    {
+      "id": "5_28_330",
+      "label": "5.28.330 Customers - Prohibited Activities"
+    },
+    {
+      "id": "5_28_340",
+      "label": "5.28.340 Nudity - Defenses To Prosecution"
+    },
+    {
+      "id": "5_28_350",
+      "label": "5.28.350 Existing Business - Compliance Time Limits"
+    },
+    {
+      "id": "5_28_360",
+      "label": "5.28.360 Violation - Injunction When"
+    },
+    {
+      "id": "5_28_370",
+      "label": "5.28.370 Violation - License Suspension Or Revocation"
+    },
+    {
+      "id": "5_28_380",
+      "label": "5.28.380 Effect Of License Revocation"
+    },
+    {
+      "id": "5_28_390",
+      "label": "5.28.390 Appeal Procedures"
+    },
+    {
+      "id": "5_28_400",
+      "label": "5.28.400 Violation - Penalty"
+    },
+    {
+      "id": "5_28_410",
+      "label": "5.28.410 Severability"
+    },
+    {
+      "id": "5_28_010",
+      "label": "5.28.010 Title For Citation"
+    },
+    {
+      "id": "5_28_020",
+      "label": "5.28.020 Purpose"
+    },
+    {
+      "id": "5_28_030",
+      "label": "5.28.030 Application"
+    },
+    {
+      "id": "5_28_040",
+      "label": "5.28.040 Definitions"
+    },
+    {
+      "id": "5_28_050",
+      "label": "5.28.050 Obscenity And Nudity"
+    },
+    {
+      "id": "5_28_060",
+      "label": "5.28.060 Location And Zoning Restrictions"
+    },
+    {
+      "id": "5_28_070",
+      "label": "5.28.070 Business License Required"
+    },
+    {
+      "id": "5_28_080",
+      "label": "5.28.080 Exemptions From License Requirements"
+    },
+    {
+      "id": "5_28_090",
+      "label": "5.28.090 Legitimate Artistic Modeling"
+    },
+    {
+      "id": "5_28_100",
+      "label": "5.28.100 Business Categories - Number Of Licenses"
+    },
+    {
+      "id": "5_28_110",
+      "label": "5.28.110 Employee Licenses"
+    },
+    {
+      "id": "5_28_120",
+      "label": "5.28.120 License Application - Disclosures Required"
+    },
+    {
+      "id": "5_28_130",
+      "label": "5.28.130 License - Fees"
+    },
+    {
+      "id": "5_28_140",
+      "label": "5.28.140 License - Bond"
+    },
+    {
+      "id": "5_28_150",
+      "label": "5.28.150 License - Premises Location And Name"
+    },
+    {
+      "id": "5_28_160",
+      "label": "5.28.160 License - Issuance Conditions"
+    },
+    {
+      "id": "5_28_170",
+      "label": "5.28.170 License - Term"
+    },
+    {
+      "id": "5_28_180",
+      "label": "5.28.180 License - Notice Of Change Of Information"
+    },
+    {
+      "id": "5_28_190",
+      "label": "5.28.190 License - Transfer Limitations"
+    },
+    {
+      "id": "5_28_195",
+      "label": "5.28.195 Moving Of Business Location"
+    },
+    {
+      "id": "5_28_200",
+      "label": "5.28.200 License - Display"
+    },
+    {
+      "id": "5_28_210",
+      "label": "5.28.210 License - Statement In Advertisements"
+    },
+    {
+      "id": "5_28_220",
+      "label": "5.28.220 Regulations And Unlawful Activities"
+    },
+    {
+      "id": "5_28_230",
+      "label": "5.28.230 Outcall Services Prohibited"
+    },
+    {
+      "id": "5_28_240",
+      "label": "5.28.240 Adult Business - Design Of Premises"
+    },
+    {
+      "id": "5_28_250",
+      "label": "5.28.250 Semi-Nude Entertainment Business - Design Of Premises"
+    },
+    {
+      "id": "5_28_260",
+      "label": "5.28.260 Semi-Nude Entertainment Business - Locations Restrictions"
+    },
+    {
+      "id": "5_28_270",
+      "label": "5.28.270 Semi-Nude Dancing Bar Prohibited"
+    },
+    {
+      "id": "5_28_280",
+      "label": "5.28.280 Semi-Nude Dancing Performer Restriction"
+    },
+    {
+      "id": "5_28_290",
+      "label": "5.28.290 Semi-Nude Dancing Agencies"
+    },
+    {
+      "id": "5_28_300",
+      "label": "5.28.300 Performers - Prohibited Activities"
+    },
+    {
+      "id": "5_28_310",
+      "label": "5.28.310 Performers - Costume Requirements"
+    },
+    {
+      "id": "5_28_320",
+      "label": "5.28.320 Stage Requirements"
+    },
+    {
+      "id": "5_28_330",
+      "label": "5.28.330 Customers - Prohibited Activities"
+    },
+    {
+      "id": "5_28_340",
+      "label": "5.28.340 Nudity - Defenses To Prosecution"
+    },
+    {
+      "id": "5_28_350",
+      "label": "5.28.350 Existing Business - Compliance Time Limits"
+    },
+    {
+      "id": "5_28_360",
+      "label": "5.28.360 Violation - Injunction When"
+    },
+    {
+      "id": "5_28_370",
+      "label": "5.28.370 Violation - License Suspension Or Revocation"
+    },
+    {
+      "id": "5_28_380",
+      "label": "5.28.380 Effect Of License Revocation"
+    },
+    {
+      "id": "5_28_390",
+      "label": "5.28.390 Appeal Procedures"
+    },
+    {
+      "id": "5_28_400",
+      "label": "5.28.400 Violation - Penalty"
+    },
+    {
+      "id": "5_28_410",
+      "label": "5.28.410 Severability"
+    },
+    {
+      "id": "5_32_010",
+      "label": "5.32.010 Findings Regarding Rights-Of-Way"
+    },
+    {
+      "id": "5_32_020",
+      "label": "5.32.020 Finding Regarding Compensation"
+    },
+    {
+      "id": "5_32_030",
+      "label": "5.32.030 Finding Regarding Local Concern"
+    },
+    {
+      "id": "5_32_040",
+      "label": "5.32.040 Finding Regarding Promotion Of Telecommunications Series"
+    },
+    {
+      "id": "5_32_050",
+      "label": "5.32.050 Findings Regarding Franchise Standards"
+    },
+    {
+      "id": "5_32_060",
+      "label": "5.32.060 Power To Manage Rights-Of-Way"
+    },
+    {
+      "id": "5_32_070",
+      "label": "5.32.070 Scope Of Ordinance"
+    },
+    {
+      "id": "5_32_080",
+      "label": "5.32.080 Excluded Activity"
+    },
+    {
+      "id": "5_32_090",
+      "label": "5.32.090 Definitions"
+    },
+    {
+      "id": "5_32_100",
+      "label": "5.32.100 Non-Exclusive Franchise"
+    },
+    {
+      "id": "5_32_110",
+      "label": "5.32.110 Every Provider Must Obtain"
+    },
+    {
+      "id": "5_32_120",
+      "label": "5.32.120 Nature Of Grant"
+    },
+    {
+      "id": "5_32_130",
+      "label": "5.32.130 Current Providers"
+    },
+    {
+      "id": "5_32_140",
+      "label": "5.32.140 Nature Of Franchise"
+    },
+    {
+      "id": "5_32_150",
+      "label": "5.32.150 Regulatory Approval Needed"
+    },
+    {
+      "id": "5_32_160",
+      "label": "5.32.160 Term"
+    },
+    {
+      "id": "5_32_170",
+      "label": "5.32.170 Compensation"
+    },
+    {
+      "id": "5_32_180",
+      "label": "5.32.180 Timing"
+    },
+    {
+      "id": "5_32_190",
+      "label": "5.32.190 Fee Statement And Certification"
+    },
+    {
+      "id": "5_32_200",
+      "label": "5.32.200 Future Costs"
+    },
+    {
+      "id": "5_32_210",
+      "label": "5.32.210 Taxes And Assessments"
+    },
+    {
+      "id": "5_32_220",
+      "label": "5.32.220 Interest Of Late Payments"
+    },
+    {
+      "id": "5_32_230",
+      "label": "5.32.230 No Accord And Satisfaction"
+    },
+    {
+      "id": "5_32_240",
+      "label": "5.32.240 Not In Lieu Of Other Taxes Or Fees"
+    },
+    {
+      "id": "5_32_250",
+      "label": "5.32.250 Continuing Obligation And Holdover"
+    },
+    {
+      "id": "5_32_260",
+      "label": "5.32.260 Costs Of Publication"
+    },
+    {
+      "id": "5_32_270",
+      "label": "5.32.270 Franchise Application"
+    },
+    {
+      "id": "5_32_280",
+      "label": "5.32.280 Application Criteria"
+    },
+    {
+      "id": "5_32_290",
+      "label": "5.32.290 Franchise Determination"
+    },
+    {
+      "id": "5_32_300",
+      "label": "5.32.300 General Requirement"
+    },
+    {
+      "id": "5_32_310",
+      "label": "5.32.310 Quality"
+    },
+    {
+      "id": "5_32_320",
+      "label": "5.32.320 Licenses And Permits"
+    },
+    {
+      "id": "5_32_330",
+      "label": "5.32.330 Relocation Of The System"
+    },
+    {
+      "id": "5_32_340",
+      "label": "5.32.340 Protect Structures"
+    },
+    {
+      "id": "5_32_350",
+      "label": "5.32.350 No Obstruction"
+    },
+    {
+      "id": "5_32_360",
+      "label": "5.32.360 Safety Precautions"
+    },
+    {
+      "id": "5_32_370",
+      "label": "5.32.370 Repair"
+    },
+    {
+      "id": "5_32_380",
+      "label": "5.32.380 System Maintenance"
+    },
+    {
+      "id": "5_32_390",
+      "label": "5.32.390 Trimming Of Trees"
+    },
+    {
+      "id": "5_32_400",
+      "label": "5.32.400 Notification Of Sale"
+    },
+    {
+      "id": "5_32_410",
+      "label": "5.32.410 Events Of Sale"
+    },
+    {
+      "id": "5_32_420",
+      "label": "5.32.420 Insurance, Indemnity, And Security"
+    },
+    {
+      "id": "5_32_430",
+      "label": "5.32.430 Oversight"
+    },
+    {
+      "id": "5_32_440",
+      "label": "5.32.440 Maintain Records"
+    },
+    {
+      "id": "5_32_450",
+      "label": "5.32.450 Confidentiality"
+    },
+    {
+      "id": "5_32_460",
+      "label": "5.32.460 Provider's Expense"
+    },
+    {
+      "id": "5_32_470",
+      "label": "5.32.470 Right Of Inspection"
+    },
+    {
+      "id": "5_32_480",
+      "label": "5.32.480 Enforcement And Remedies"
+    },
+    {
+      "id": "5_32_490",
+      "label": "5.32.490 Force Majeure"
+    },
+    {
+      "id": "5_32_500",
+      "label": "5.32.500 Extended Operation And Continuity Of Services"
+    },
+    {
+      "id": "5_32_510",
+      "label": "5.32.510 Removal Or Abandonment Of Franchise Property"
+    },
+    {
+      "id": "5_32_520",
+      "label": "5.32.520 Transfer Of Abandoned System To City"
+    },
+    {
+      "id": "5_32_530",
+      "label": "5.32.530 Removal Of Above-Ground System"
+    },
+    {
+      "id": "5_32_540",
+      "label": "5.32.540 Leaving Underground System"
+    },
+    {
+      "id": "5_32_550",
+      "label": "5.32.550 Publicizing Work"
+    },
+    {
+      "id": "5_32_560",
+      "label": "5.32.560 Conflicts"
+    },
+    {
+      "id": "5_32_570",
+      "label": "5.32.570 Severability"
+    },
+    {
+      "id": "5_32_580",
+      "label": "5.32.580 New Developments"
+    },
+    {
+      "id": "5_32_590",
+      "label": "5.32.590 Notices"
+    },
+    {
+      "id": "5_32_600",
+      "label": "5.32.600 Exercise Of Police Power"
+    },
+    {
+      "id": "5_32_610",
+      "label": "5.32.610 Construction"
+    },
+    {
+      "id": "5_32_620",
+      "label": "5.32.620 Ordinance Applicability"
+    },
+    {
+      "id": "5_32_630",
+      "label": "5.32.630 Other Applicable Ordinances"
+    },
+    {
+      "id": "5_32_640",
+      "label": "5.32.640 City Failure To Enforce"
+    },
+    {
+      "id": "5_32_650",
+      "label": "5.32.650 Construed According To Utah Law"
+    },
+    {
+      "id": "5_32_010",
+      "label": "5.32.010 Findings Regarding Rights-Of-Way"
+    },
+    {
+      "id": "5_32_020",
+      "label": "5.32.020 Finding Regarding Compensation"
+    },
+    {
+      "id": "5_32_030",
+      "label": "5.32.030 Finding Regarding Local Concern"
+    },
+    {
+      "id": "5_32_040",
+      "label": "5.32.040 Finding Regarding Promotion Of Telecommunications Series"
+    },
+    {
+      "id": "5_32_050",
+      "label": "5.32.050 Findings Regarding Franchise Standards"
+    },
+    {
+      "id": "5_32_060",
+      "label": "5.32.060 Power To Manage Rights-Of-Way"
+    },
+    {
+      "id": "5_32_070",
+      "label": "5.32.070 Scope Of Ordinance"
+    },
+    {
+      "id": "5_32_080",
+      "label": "5.32.080 Excluded Activity"
+    },
+    {
+      "id": "5_32_090",
+      "label": "5.32.090 Definitions"
+    },
+    {
+      "id": "5_32_100",
+      "label": "5.32.100 Non-Exclusive Franchise"
+    },
+    {
+      "id": "5_32_110",
+      "label": "5.32.110 Every Provider Must Obtain"
+    },
+    {
+      "id": "5_32_120",
+      "label": "5.32.120 Nature Of Grant"
+    },
+    {
+      "id": "5_32_130",
+      "label": "5.32.130 Current Providers"
+    },
+    {
+      "id": "5_32_140",
+      "label": "5.32.140 Nature Of Franchise"
+    },
+    {
+      "id": "5_32_150",
+      "label": "5.32.150 Regulatory Approval Needed"
+    },
+    {
+      "id": "5_32_160",
+      "label": "5.32.160 Term"
+    },
+    {
+      "id": "5_32_170",
+      "label": "5.32.170 Compensation"
+    },
+    {
+      "id": "5_32_180",
+      "label": "5.32.180 Timing"
+    },
+    {
+      "id": "5_32_190",
+      "label": "5.32.190 Fee Statement And Certification"
+    },
+    {
+      "id": "5_32_200",
+      "label": "5.32.200 Future Costs"
+    },
+    {
+      "id": "5_32_210",
+      "label": "5.32.210 Taxes And Assessments"
+    },
+    {
+      "id": "5_32_220",
+      "label": "5.32.220 Interest Of Late Payments"
+    },
+    {
+      "id": "5_32_230",
+      "label": "5.32.230 No Accord And Satisfaction"
+    },
+    {
+      "id": "5_32_240",
+      "label": "5.32.240 Not In Lieu Of Other Taxes Or Fees"
+    },
+    {
+      "id": "5_32_250",
+      "label": "5.32.250 Continuing Obligation And Holdover"
+    },
+    {
+      "id": "5_32_260",
+      "label": "5.32.260 Costs Of Publication"
+    },
+    {
+      "id": "5_32_270",
+      "label": "5.32.270 Franchise Application"
+    },
+    {
+      "id": "5_32_280",
+      "label": "5.32.280 Application Criteria"
+    },
+    {
+      "id": "5_32_290",
+      "label": "5.32.290 Franchise Determination"
+    },
+    {
+      "id": "5_32_300",
+      "label": "5.32.300 General Requirement"
+    },
+    {
+      "id": "5_32_310",
+      "label": "5.32.310 Quality"
+    },
+    {
+      "id": "5_32_320",
+      "label": "5.32.320 Licenses And Permits"
+    },
+    {
+      "id": "5_32_330",
+      "label": "5.32.330 Relocation Of The System"
+    },
+    {
+      "id": "5_32_340",
+      "label": "5.32.340 Protect Structures"
+    },
+    {
+      "id": "5_32_350",
+      "label": "5.32.350 No Obstruction"
+    },
+    {
+      "id": "5_32_360",
+      "label": "5.32.360 Safety Precautions"
+    },
+    {
+      "id": "5_32_370",
+      "label": "5.32.370 Repair"
+    },
+    {
+      "id": "5_32_380",
+      "label": "5.32.380 System Maintenance"
+    },
+    {
+      "id": "5_32_390",
+      "label": "5.32.390 Trimming Of Trees"
+    },
+    {
+      "id": "5_32_400",
+      "label": "5.32.400 Notification Of Sale"
+    },
+    {
+      "id": "5_32_410",
+      "label": "5.32.410 Events Of Sale"
+    },
+    {
+      "id": "5_32_420",
+      "label": "5.32.420 Insurance, Indemnity, And Security"
+    },
+    {
+      "id": "5_32_430",
+      "label": "5.32.430 Oversight"
+    },
+    {
+      "id": "5_32_440",
+      "label": "5.32.440 Maintain Records"
+    },
+    {
+      "id": "5_32_450",
+      "label": "5.32.450 Confidentiality"
+    },
+    {
+      "id": "5_32_460",
+      "label": "5.32.460 Provider's Expense"
+    },
+    {
+      "id": "5_32_470",
+      "label": "5.32.470 Right Of Inspection"
+    },
+    {
+      "id": "5_32_480",
+      "label": "5.32.480 Enforcement And Remedies"
+    },
+    {
+      "id": "5_32_490",
+      "label": "5.32.490 Force Majeure"
+    },
+    {
+      "id": "5_32_500",
+      "label": "5.32.500 Extended Operation And Continuity Of Services"
+    },
+    {
+      "id": "5_32_510",
+      "label": "5.32.510 Removal Or Abandonment Of Franchise Property"
+    },
+    {
+      "id": "5_32_520",
+      "label": "5.32.520 Transfer Of Abandoned System To City"
+    },
+    {
+      "id": "5_32_530",
+      "label": "5.32.530 Removal Of Above-Ground System"
+    },
+    {
+      "id": "5_32_540",
+      "label": "5.32.540 Leaving Underground System"
+    },
+    {
+      "id": "5_32_550",
+      "label": "5.32.550 Publicizing Work"
+    },
+    {
+      "id": "5_32_560",
+      "label": "5.32.560 Conflicts"
+    },
+    {
+      "id": "5_32_570",
+      "label": "5.32.570 Severability"
+    },
+    {
+      "id": "5_32_580",
+      "label": "5.32.580 New Developments"
+    },
+    {
+      "id": "5_32_590",
+      "label": "5.32.590 Notices"
+    },
+    {
+      "id": "5_32_600",
+      "label": "5.32.600 Exercise Of Police Power"
+    },
+    {
+      "id": "5_32_610",
+      "label": "5.32.610 Construction"
+    },
+    {
+      "id": "5_32_620",
+      "label": "5.32.620 Ordinance Applicability"
+    },
+    {
+      "id": "5_32_630",
+      "label": "5.32.630 Other Applicable Ordinances"
+    },
+    {
+      "id": "5_32_640",
+      "label": "5.32.640 City Failure To Enforce"
+    },
+    {
+      "id": "5_32_650",
+      "label": "5.32.650 Construed According To Utah Law"
+    },
+    {
+      "id": "5_36_010",
+      "label": "5.36.010 Purpose"
+    },
+    {
+      "id": "5_36_020",
+      "label": "5.36.020 Definitions"
+    },
+    {
+      "id": "5_36_030",
+      "label": "5.36.030 General Provisions"
+    },
+    {
+      "id": "5_36_040",
+      "label": "5.36.040 Prohibited Signs"
+    },
+    {
+      "id": "5_36_050",
+      "label": "5.36.050 Permitted Permanent Signs"
+    },
+    {
+      "id": "5_36_060",
+      "label": "5.36.060 Permitted Temporary Signs"
+    },
+    {
+      "id": "5_36_070",
+      "label": "5.36.070 Billboards"
+    },
+    {
+      "id": "5_36_080",
+      "label": "5.36.080 Nonconforming Signs"
+    },
+    {
+      "id": "5_36_090",
+      "label": "5.36.090 Permits And Fees"
+    },
+    {
+      "id": "5_36_100",
+      "label": "5.36.100 Remedies And Violations"
+    },
+    {
+      "id": "5_36_010",
+      "label": "5.36.010 Purpose"
+    },
+    {
+      "id": "5_36_020",
+      "label": "5.36.020 Definitions"
+    },
+    {
+      "id": "5_36_030",
+      "label": "5.36.030 General Provisions"
+    },
+    {
+      "id": "5_36_040",
+      "label": "5.36.040 Prohibited Signs"
+    },
+    {
+      "id": "5_36_050",
+      "label": "5.36.050 Permitted Permanent Signs"
+    },
+    {
+      "id": "5_36_060",
+      "label": "5.36.060 Permitted Temporary Signs"
+    },
+    {
+      "id": "5_36_070",
+      "label": "5.36.070 Billboards"
+    },
+    {
+      "id": "5_36_080",
+      "label": "5.36.080 Nonconforming Signs"
+    },
+    {
+      "id": "5_36_090",
+      "label": "5.36.090 Permits And Fees"
+    },
+    {
+      "id": "5_36_100",
+      "label": "5.36.100 Remedies And Violations"
+    },
+    {
+      "id": "5_40_010",
+      "label": "5.40.010 Authorized"
+    },
+    {
+      "id": "5_40_020",
+      "label": "5.40.020 Definitions"
+    },
+    {
+      "id": "5_40_025",
+      "label": "5.40.025 License Required"
+    },
+    {
+      "id": "5_40_030",
+      "label": "5.40.030 Administrative Fees"
+    },
+    {
+      "id": "5_40_040",
+      "label": "5.40.040 Conditions"
+    },
+    {
+      "id": "5_40_050",
+      "label": "5.40.050 Penalty"
+    },
+    {
+      "id": "5_40_010",
+      "label": "5.40.010 Authorized"
+    },
+    {
+      "id": "5_40_020",
+      "label": "5.40.020 Definitions"
+    },
+    {
+      "id": "5_40_025",
+      "label": "5.40.025 License Required"
+    },
+    {
+      "id": "5_40_030",
+      "label": "5.40.030 Administrative Fees"
+    },
+    {
+      "id": "5_40_040",
+      "label": "5.40.040 Conditions"
+    },
+    {
+      "id": "5_40_050",
+      "label": "5.40.050 Penalty"
+    },
+    {
+      "id": "5_44_010",
+      "label": "5.44.010 Definitions"
+    },
+    {
+      "id": "5_44_020",
+      "label": "5.44.020 License And Other Requirements"
+    },
+    {
+      "id": "5_44_030",
+      "label": "5.44.030 Franchise Agreement Required"
+    },
+    {
+      "id": "5_44_040",
+      "label": "5.44.040 Site License Application"
+    },
+    {
+      "id": "5_44_050",
+      "label": "5.44.050 Design Standards For Small Wireless Facilities"
+    },
+    {
+      "id": "5_44_060",
+      "label": "5.44.060 Modifications To Small Wireless Facilities"
+    },
+    {
+      "id": "5_44_010\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "label": "5.44.010\u00a0\u00a0\u00a0\u00a0\u00a0 Definitions"
+    },
+    {
+      "id": "5_44_020\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "label": "5.44.020\u00a0\u00a0\u00a0\u00a0\u00a0 License and Other Requirements for Use of the Rights-of-Way"
+    },
+    {
+      "id": "5_44_030\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "label": "5.44.030\u00a0\u00a0\u00a0\u00a0\u00a0 Franchise Agreement Required"
+    },
+    {
+      "id": "5_44_040\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "label": "5.44.040\u00a0\u00a0\u00a0\u00a0\u00a0 Site License Application"
+    },
+    {
+      "id": "5_44_050\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "label": "5.44.050\u00a0\u00a0\u00a0\u00a0\u00a0 Design Standards for Small Wireless Facilities"
+    },
+    {
+      "id": "5_44_060\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "label": "5.44.060\u00a0\u00a0\u00a0\u00a0\u00a0 Modifications of Small Wireless Facilities"
+    },
+    {
+      "id": "5_44_010",
+      "label": "5.44.010 Definitions"
+    },
+    {
+      "id": "5_44_010\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "label": "5.44.010\u00a0\u00a0\u00a0\u00a0\u00a0 Definitions"
+    },
+    {
+      "id": "5_44_020",
+      "label": "5.44.020 License And Other Requirements"
+    },
+    {
+      "id": "5_44_020\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "label": "5.44.020\u00a0\u00a0\u00a0\u00a0\u00a0 License and Other Requirements for Use of the Rights-of-Way"
+    },
+    {
+      "id": "5_44_030",
+      "label": "5.44.030 Franchise Agreement Required"
+    },
+    {
+      "id": "5_44_030\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "label": "5.44.030\u00a0\u00a0\u00a0\u00a0\u00a0 Franchise Agreement Required"
+    },
+    {
+      "id": "5_44_040",
+      "label": "5.44.040 Site License Application"
+    },
+    {
+      "id": "5_44_040\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "label": "5.44.040\u00a0\u00a0\u00a0\u00a0\u00a0 Site License Application"
+    },
+    {
+      "id": "5_44_050",
+      "label": "5.44.050 Design Standards For Small Wireless Facilities"
+    },
+    {
+      "id": "5_44_050\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "label": "5.44.050\u00a0\u00a0\u00a0\u00a0\u00a0 Design Standards for Small Wireless Facilities"
+    },
+    {
+      "id": "5_44_060",
+      "label": "5.44.060 Modifications To Small Wireless Facilities"
+    },
+    {
+      "id": "5_44_060",
+      "label": "5.44.060  Modifications of Small Wireless Facilities"
+    },
+    {
+      "id": "5_48_010",
+      "label": "5.48.010 Purpose"
+    },
+    {
+      "id": "5_48_020",
+      "label": "5.48.020 Definitions"
+    },
+    {
+      "id": "5_48_030",
+      "label": "5.48.030 License And Other Requirements"
+    },
+    {
+      "id": "5_48_040",
+      "label": "5.48.040 Site Application"
+    },
+    {
+      "id": "5_48_010",
+      "label": "5.48.010 Purpose"
+    },
+    {
+      "id": "5_48_020",
+      "label": "5.48.020 Definitions"
+    },
+    {
+      "id": "5_48_030",
+      "label": "5.48.030 License And Other Requirements"
+    },
+    {
+      "id": "5_48_040",
+      "label": "5.48.040 Site Application"
+    }
+  ]
+}

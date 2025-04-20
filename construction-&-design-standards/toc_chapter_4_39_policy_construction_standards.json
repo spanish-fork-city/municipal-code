@@ -1,0 +1,54 @@
+{
+  "title": "Chapter 4.39 \u2013 Policy Construction Standards",
+  "file": "chapter_4_39_policy_construction_standards.html",
+  "sections": [
+    {
+      "id": "4_39",
+      "label": "4.39 Policy Construction Standards"
+    },
+    {
+      "id": "0_98\t1",
+      "label": "0.98\t1 to 100"
+    },
+    {
+      "id": "0_94\t101",
+      "label": "0.94\t101 to 200"
+    },
+    {
+      "id": "0_88\t201",
+      "label": "0.88\t201 to 300"
+    },
+    {
+      "id": "0_80\t301",
+      "label": "0.80\t301 to 400"
+    },
+    {
+      "id": "0_50\t401",
+      "label": "0.50\t401 to 500"
+    },
+    {
+      "id": "1_00\t0_00",
+      "label": "1.00\t0.00 to 0.25"
+    },
+    {
+      "id": "0_90\t0_26",
+      "label": "0.90\t0.26 to 0.50"
+    },
+    {
+      "id": "0_70\t0_51",
+      "label": "0.70\t0.51 to 0.75"
+    },
+    {
+      "id": "0_50\t0_76",
+      "label": "0.50\t0.76 to 1.00"
+    },
+    {
+      "id": "0_95\t0_00",
+      "label": "0.95\t0.00 to 0.25"
+    },
+    {
+      "id": "0_90\t0_26",
+      "label": "0.90\t0.26 to 0.50"
+    }
+  ]
+}

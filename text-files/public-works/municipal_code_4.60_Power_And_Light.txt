@@ -1,0 +1,868 @@
+4.60 Power And Light
+4.60.110 Annual Tasks Calendar Procedure
+4.60.120 Equipment Procedure
+4.60.140 Frequently Asked Questions (FAQs) Procedure
+4.60.220 Annexation Procedure
+4.60.645 Net Metering Policy
+4.60.650 Net Metering License Agreements Policy
+4.60.660 Large Solar Generation Procedure (25kW-750kW)
+4.60.680 On-Call Procedure
+4.60.700 Peak Time Energy Use Policy
+4.60.710 Power Cost Adjustment (PCA) Policy
+4.60.730 Pole And Street Light Attachments Policy
+4.60.800 SESD Annexation Fees Policy
+4.60.860 Tree Trimming Policy
+4.60.960 Wood Pole Testing Policy
+
+
+4.60.110 Annual Tasks Calendar Procedure
+Power And Light Superintendent
+Assistant Power And Light Superintendent
+Overhead Foreman
+Underground Foreman
+Substation Foreman
+Journeyman Lineworker
+Utility Billing
+Meter Tech
+Warehouse Agent
+
+
+
+
+
+Set annual calendar items as recurring tasks in task management software.
+
+Power And Light Superintendent
+Start	Due	Frequency	Tasks
+Jan 1	Jan 14	
+
+Annually
+
+	Update Pole Attachment Count & Give notice to
+Cenurylink, Comcast & SFCN along with fee
+increase. (Get with Rashell).
+Jan 1	Jan 10	
+
+Every 3 Months
+
+	Check training and certifications in the Emp Tab,
+plan for orange & resolve red.
+Jan 1	Jan 31	
+
+Every 4 Months
+
+	Update employee evaluation Key Indicators and
+conduct evaluations.
+Mar 1	Mar 5	
+
+Annually
+
+	Review Citywide Emergency Procedure.
+Jul 1	Oct 31	Yearly	
+
+Prepare Annual Report.
+
+Assistant Power And Light Superintendent
+Start	Due	Frequency	Tasks
+Jan 1	Jan 15	6 Months	
+
+Review & update website, including Construction
+Map.
+
+
+Jan 1	Jan 31	Yearly	
+
+PT2766 S&R Puller - Schedule yearly maintenance.
+
+
+Feb 1	Feb 28	Yearly	
+
+PT3000 S&R Puller - Schedule yearly maintenance.
+
+
+Mar 1	Apr 30	Annually	
+
+Dielectric Equipment testing.
+
+
+Apr 1	Apr 30	Yearly	
+
+Generator - Schedule yearly maintenance.
+
+
+Mar 1	May 31	6 Months	
+
+Line Inspection (Trees & Damage).
+
+
+May 1	May 30	 Yearly	
+
+Light Tower - Schedule yearly maintenance.
+
+
+May 1	May 31	6 Months	
+
+Update Utility Replacement CIP Map.
+
+
+May 15	May 31	Annually	
+
+Channel 17: Energy Efficiency Information in City.
+
+
+Jun 1	Jun 15	Annually	
+
+Channel 17: Electric Surge Protector Advice 1,200
+Joules.
+
+
+Jun 30	Jul 15	Annually	
+
+Update Building Inspection of new Meter Fees from
+Approved Budget.
+
+
+Jul 1	Jul 15	Annually	
+
+Review and Update Website.
+
+
+Jul 1	Jul 15	Every 6 Years	
+
+Electric Master Plan Update (FY2019, FY2025, FY2031).
+
+
+Oct 1	Oct 15	Annually	
+
+Bid out Tree Trimming.
+
+
+Oct 1	Oct 30	Yearly	
+
+Reel Strong (Single reel) - Schedule yearly
+maintenance.
+
+
+Oct 1	Dec 31	Annually	
+
+Exercise all transmission switches.
+
+
+Nov 14	Nov 25	Annually	
+
+Main Street Christmas Lights.
+
+
+Nov 30	Dec 31	Annually	
+
+Fuse Inspection Distribution Lines.
+
+
+Nov 1	Nov 30	Yearly	
+
+Reel Strong (3 Phase) - Schedule yearly
+maintenance.
+
+Overhead Foreman
+Start	Due	Frequency	Tasks
+Jan 1	Jan 7	7 Days	
+
+Big Bucket Truck - Grease truck and outriggers.
+
+
+Jan 1	Jan 30	30 Days	
+
+Big Bucket Truck - Wash.
+
+
+Jan 1	Jan 7	7 Days	
+
+Terex Line Truck - Grease Truck.
+
+
+Jan 1	Jan 30	30 Days	
+
+Terex Line Truck - Wash.
+
+Underground Foreman
+Start	Due	Frequency	Tasks
+Jul 1	Jul 15	Annually	
+
+Check lighting connections at fairgrounds for Fiesta Days.
+
+
+
+
+
+
+
+Substation Foreman
+Start	Due	Frequency	
+
+Tasks
+
+
+Jan 1	Jan 31	4 Months	
+
+Battery Testing.
+
+
+Jan 1	Jan 7	7 Days	
+
+Sub. Bucket Truck - Grease.
+
+
+Jan 1	Jan 31	
+
+30 Days
+
+	
+
+Sub. Bucket Truck - Wash.
+
+
+Jan 1	Jan 7	7 Days	
+
+Ram 5500 Dump Truck - Grease.
+
+
+Jan 1	Jan 31	30 Days	
+
+Ram 5500 Dump Truck - Wash.
+
+
+Nov 21	Dec 31	Annually	
+
+CT Inspection in Substations (Ensure SUVPS
+conducts as well).
+
+
+Dec 31	Jan 31	Annually	
+
+NERC/WEC Substation Relay Test Reports; Need to
+put each Substation on a 5-Year Testing Program
+and Build Spreadsheets Showing When and What
+Testing was Done.
+
+Journeyman Lineworker
+Start	Due	Frequency	
+
+Tasks
+
+
+Jan 1	Jan 31	30 Days	
+
+Service Bucket Truck - Wash.
+
+
+Jan 1	Jan 7	7 Days	
+
+Service Bucket Truck - Grease.
+
+Utility Billing
+Start	Due	Frequency	Tasks
+Apr 30	May 15	Annually	
+
+EIA 861 Survey (Cindy Stone).
+
+Meter Tech
+Start	Due	Frequency	Tasks
+Feb 28	Mar 14	Annually	Calculate new meter fees for the upcoming budget.
+Warehouse Agent
+Start	Due	Frequency	
+
+Tasks
+
+
+Jan 1	Jan 7	7 Days	
+
+Maintou Forklift - Grease.
+
+
+Jan 1	Jan 31	30 Days	
+
+Manitou Forklift - Wash.
+
+
+May 15	Jun 30	Annually	
+
+Update billing Fees for Contractors.
+
+
+Jun 30	July 7	Annually	
+
+Year End Inventory list to Jordan.
+
+
+
+
+4.60.120 Equipment Procedure
+Altec, Freightliner Little Line Truck
+Altec, International Underground Bucket Truck
+Backhoe
+Duct Dog, Sherman+Reilly (UG Puller)
+Dump Truck (5500 Ram)
+Dump Truck (10 Wheeler)
+Generator
+High Ranger, International Overhead Bucket Truck
+Light Tower Trailer
+Line Tensioner
+Loader
+Manitou, Forklift
+PT2766B, Sherman+Reilly Puller
+PT3000, Sherman+Reilly Puller
+3 Phase Reel Trailer (Reel Strong)
+Single Reel Trailer (Reel Strong)
+Terex, Freightliner Big Line Truck
+Terex, Service Bucket Truck
+Terex, Substation Bucket Truck
+
+
+
+
+
+Train employees on the following as applicable before allowing them to work on each piece of equipment or at each facility. Track scheduled maintenance in the annual tasks calendar. 
+
+Place a written copy of the appropriate individual procedure in each piece of equipment. If borrowing equipment from other divisions refer to the following division procedures for that equipment.
+
+
+Fleet Division Equipment Procedures
+
+Streets and Storm Water Division Equipment Procedure
+Wastewater Division Equipment Procedures
+Water Division Equipment Procedure
+
+
+Approved March 3, 2022
+
+
+
+
+Altec, Freightliner Little Line Truck
+Pre Trip Inspection:
+Class B CDL required for driver
+Walk around inspection
+Check all hydraulic lines, and air lines for cracking or leakage.
+Check all warning lights.
+Check tire pressure.
+Report any damage with an Immediate Action Form.
+Fill out Vehicle Service Request for needed repairs.
+Check and top off all fluids (diesel fuel, ? oil, def and ? hydraulic)
+Load PPE and traffic control equipment
+Job Site (Manufacturer's Operating Instructions):
+PPE
+Traffic Control
+Outriggers
+Inspect slings if using
+Check weight of load before lifting
+Step must be raised before rotating the turret to avoid contact with the pole hauling platform.
+Retract winch line to avoid hitting windshield with hook while traveling.
+Post Operation Maintenance:
+Clean out garbage and unneeded job material.
+Wash as needed.
+Grease every 40 hours, use the Altec Freightliner Little Line Truck Grease Form.
+Maintenance Schedule, see Annual Tasks Calendar for Underground Foreman.
+Inspect every 30 days
+Check greasing schedule on Freightliner Little Line Truck Grease form.
+Walk around inspection.
+Report any damage with an Immediate Action Form.
+Fill out Vehicle Service Request for needed repairs.
+Grease truck every 40 hours.
+Grease outriggers every 40 hours.
+
+
+
+
+Altec, International Underground Bucket Truck
+Pre Trip Inspection:
+Class B CDL required for driver.
+Walk around inspection.
+Vehicle systems
+Oil
+Report any damage with an Immediate Action Form
+Fill out Vehicle Service Request for needed repairs.
+Traffic control equipment
+Load material for job
+Job Site:
+PPE
+Traffic control
+Outrigger
+Inspect hoist, hotstick or cover before using.
+Do not cradle until the bucket is parallel with the boom.
+Post Trip Maintenance:
+Clean out garbage and unneeded job material.
+Maintenance Schedule, see annual tasks calendar for Underground Foreman.
+Wash every 30 days.
+Grease truck every 7 days.
+Grease outriggers every 7 days
+
+Backhoe
+Pre Trip
+Walk around inspection including fluids
+Report any damage with an Immediate Action Form
+Job Site
+Traffic Control (If applicable)
+Control Panel
+Front bucket operation
+Driving operation
+Rear stabilizer arms when using backhoe
+Backhoe operation
+Park with bucket lowered onto the ground
+
+Maintenance
+Clean after each use
+Grease every 7 days
+Fill out Vehicle Service Request for any repair
+Problems & Troubleshooting
+Do not open windows while in motion.
+
+Duct Dog, Sherman+Reilly (UG Puller)
+Trip
+Walk around inspection including fluids
+Make sure trailer/hitch is secure on truck and lights are plugged in.
+Report any damage with an Immediate Action Form
+Job Site
+Traffic Control (If applicable)
+Stabilizing jacks
+Air compressor system
+Cable pulling controls and operation
+Must return to neutral before shutting engine off/starting engine
+Constant visual and communication of pulling cable
+Post Trip Maintenance
+Fill out Vehicle Service Request for any repair
+Maintenance Schedule, see annual Tasks calendar for Underground Foreman.
+Wash every 30 days
+Grease every 7 das
+Schedule yearly maintenance with Motor Pool.
+
+Dump Truck (5500 Ram)
+Pre Trip
+Walk around inspection including all fluids
+Report any damage with an Immediate Action Form
+Adjust mirrors
+Watch handle on load tarp when backing
+Job Site
+Traffic Control (If applicable)
+Do not overload with material to be hauled.
+Use straps to secure load/tarp to cover material.
+Know weight and size to adjust stopping time.
+Safety conscience operating around people, powerlines, or other safety hazards.
+Make sure the bed is completely stowed after dumping, and before travel.
+Clean off excess material on sides and tailgate/hitch.
+Post Trip Maintenance
+Fill out Vehicle Service Request for any repair.
+Maintenance Schedule, see annual tasks calendar for Substation Foreman.
+Wash every 30 days
+Grease every 7 days
+Schedule yearly maintenance with Motor Pool
+
+
+
+
+Dump Truck (10 Wheeler)
+Pre Trip:
+Walk around inspection including all fluids.
+Report any damage with an Immediate Action Form.
+Adjust mirrors.
+Job Site:
+Locate controls before starting.
+Parking brake.
+Engine at 1,000 RPM to lift dump bed.
+Know weight and size to adjust stopping time.
+Safety conscience operating around people, powerlines, or other safety hazards.
+Fill out Vehicle Service Request for any repair or maintenance.
+
+
+Generator
+Pre Trip:
+Walk around inspection, including all fluids.
+Make sure trailer is secured and lights are plugged in.
+Job Site:
+Stabilizing jacks making sure to level/wheel chalkes.
+Voltage selector switch. DO NOT Turn while engine is running.
+Check output voltage.
+Turn off breaker and hook up load.
+Disconnect load, raise jacks before moving trailer.
+Clean after each use.
+Fill out Vehicle Service Request for any repair or maintenance.
+Maintenance Schedule, see annual tasks calendar for Assistant Superintendent.
+
+Schedule yearly maintenance with Motor Pool.
+
+
+High Ranger, International Overhead Bucket Truck
+Pre Trip Inspection
+Class B CDL required for driver.
+Walk around inspection.
+Vehicle Systems
+Oil
+Report any damage with an Immediate Action Form.
+Fill out Vehicle Service Request for needed repairs.
+Traffic Control Equipment
+Load material for job.
+Job Site
+PPE
+Traffic control
+Outriggers
+Follow Tower Operating Instructions on unit hoist, hot stick, and cover before using.
+Boom Strap.
+Do not cradle upper boom in high throttle.
+Level material handling jib with boom before cradling.
+Post Trip Maintenance
+Clean out garbage and unneeded job material.
+Maintenance Schedule, see annual tasks calendar for Overhead Foreman.
+Wash every 30 days.
+Grease truck every 7 days.
+Grease outriggers every 7 days.
+
+Light Tower Trailer
+Job Site
+Traffic Control (If applicable)
+
+Walk around inspection, including all fluids.
+Follow instructions on unit for setup/takedown.
+Clean after each use.
+Fill out Vehicle Service Request for any repair or maintenance.
+
+
+Line Tensioner
+Pre Trip
+Walk around inspection.
+Grease before use.
+Make sure trailer is secured and lights are plugged in.
+Job Site
+Wheel chocks and stabilizing jacks.
+Reel bar.
+Make sure lifting eyes are vertical (up) before pulling reel bar pin.
+Brake system controls.
+Bullwheel system controls.
+Regardless of conductor size complete all wraps around bullwheel.
+Traveling ground.
+Clean after each use.
+Fill out Vehicle Service Request for any repair or maintenance.
+
+Loader
+Pre Trip
+Walk around inspection including all fluids.
+Report any damage with an Immediate Action Form.
+Operation
+Startup and control panel.
+Bucket/fork operation.
+Driving operation.
+Post Trip
+Park with bucket lowered onto the ground.
+Fill out Vehicle Service Request for any repair and maintenance.
+
+Manitou, Forklift
+Walk around inspection, including all fluids.
+Equipment inspection.
+Boom/forklift controls.
+Weight ratings.
+Driving Operation.
+Do not unload weights over 5,000 pounds without lifting hook or line truck.
+Park with boom retracted and forks lowered onto ground.
+Be careful to not allow loads to penetrate behind the masts where they can damage the hydraulic ram.
+Maintenance Schedule, see annual tasks calendar for Warehouse Agent.
+Wash every 30 days
+Grease every 7 days
+Fill out Vehicle Service Request for any repair or maintenance.
+
+
+PT2766B, Sherman+Reilly Puller
+Walk around inspection.
+Grease before use.
+Wheel chocks and stabilizing jacks.
+Brake and hydraulics system connection and disconnection.
+Operator controls.
+Clean after each use.
+Fill out Vehicle Service Request for any repair or maintenance.
+
+Maintenance Schedule, see annual tasks calendar for Assistant Superintendent.
+Schedule yearly maintenance with Motor Pool.
+
+
+
+
+PT3000, Sherman+Reilly Puller
+Walk around inspection.
+Wheel chocks and stabilizing jacks.
+Reel installation and spilt reel assembly/disassembly.
+Brake and hydraulic system connection and disconnection.
+Capstan/Spider system setup.
+Operator controls
+Clean after each use.
+Fill out Vehicle Service Request for any repair or maintenance.
+Maintenance Schedule, see annual tasks calendar for Assistant Superintendent.
+Schedule early maintenance with Motor Pool.
+3 Phase Reel Trailer (Reel Strong)
+Walk around inspection, including all fluids.
+Before raising bar/reel open bar latches.
+Install reel, fully insert bar and tighten guides.
+Secure bar latches before travel/use.
+If using the capstan, make sure you have a clear view of take up/wind up reel.
+Clean after each use.
+Fill out Vehicle Services Request for any repair or maintenance.
+Maintenance Schedule, see annual tasks calendar for Assistant Superintendent.
+Schedule yearly maintenance with Motor Pool
+
+
+
+
+Single Reel Trailer (Reel Strong)
+Walk around inspection, including all fluids.
+Before lowering bar open bar locks on either side.
+Install reel.
+Raise reel and secure bar locks (both sides), before travel.
+Clean after each use.
+Fill out Vehicle Service Request for any repair or maintenance.
+Maintenance Schedule, see annual tasks calendar for Assistant Superintendent.
+Schedule yearly maintenance with Motor Pool.
+
+
+
+
+Terex, Freightliner Big Line Truck
+Pre Trip Inspection
+Class B CDL required for driver.
+Walk around inspection.
+
+Oil
+Report any damage with an Immediate Action Form
+Fill out Vehicle Service Request for needed repairs.
+Traffic control equipment.
+Job Site
+PPE
+Traffic control
+Outriggers
+Inspect slings if using
+Check weight of load before lifting.
+Post Trip Maintenance
+Cleanout garbage and unneeded job material
+Maintenance Schedule, see annual tasks calendar for Overhead Foreman.
+Wash every 30 days
+Grease truck every 7 days
+Grease outriggers every 7 days
+
+Terex, Service Bucket Truck
+Pre Trip
+Walk around inspection.
+Vehicle systems
+Oil
+Report any damage with an Immediate Action Form.
+Fill out Vehicle Service Request for needed repairs.
+Traffic control equipment.
+Job Site
+Outrigger controls and operation.
+Traffic control equipment
+Tools and Equipment inspection.
+Boom strap
+Lower boom controls
+Rescue procedure
+Upper boom controls
+Post Trip Maintenance
+Cleanout garbage and unneeded job material.
+Maintenance Schedule, see annual tasks calendar for Journeyman Inspector.
+Clean and restock after each use.
+Wash monthly
+Grease truck every 7 days
+Grease outriggers every 7 days
+Fill out Vehicle Service Request for any repair.
+
+Terex, Substation Bucket Truck
+Pre Trip Inspection
+Walk around inspection.
+Vehicle systems.
+Oil
+Report any damage with an Immediate Action Form.
+Fill out Vehicle Service Request for needed repairs.
+Traffic control equipment.
+Job Site
+Traffic control
+Tools and equipment inspection.
+Boom Strap.
+Lower boom controls.
+Rescue procedure.
+Upper boom controls.
+Post Trip Maintenance.
+Cleanout garbage and unneeded job material.
+Maintenance Schedule, see annual tasks calendar for Substation Foreman.
+Clean and restock after each use.
+Wash monthly
+Grease truck every 7 das.
+Fill out Vehicle Service Request for any repairs.
+
+4.60.140 Frequently Asked Questions (FAQs) Procedure
+
+Listed in order of frequency. Post FAQs on the Power & Light Questions and Requests Website.
+
+How do I report a damaged power box or power line?
+Keep everyone clear and call (801) 804-4440. If unable to contact someone at (801) 804-4440, call 911.
+
+What should I do about a tree that is growing into a power line?
+Fill out an online service request for trees in power lines.
+
+How do I report a street light that is out?
+Fill out an online service request for street light repair.
+
+What are the net metering rates?
+Visit the Net Metering Information website.
+
+Do we receive power from windmills at the mouth of Spanish Fork Canyon?
+The windmills are owned and operated by a private company, from which Spanish Fork City receives rental, sales tax and energy sales tax revenue. The power produced by the windmills feeds the regional power grid that Spanish Fork City is connected to but is sold elsewhere.
+
+What school and youth group programs are available?
+We offer tours of equipment and substations and high-voltage demonstrations. To schedule a tour or demonstration, please contact the Assistant Power & Light Superintendent at (801) 804-4629.
+
+How can I view my past power usage?
+See the online Customer Usage Request Form.
+
+Is there a way for me to get renewable energy from the city directly?
+Yes, customers can enroll in our Renew Choice Program.
+
+What to do if the power goes out?
+If the power goes out in your home:
+
+Check and see if the power is out at your neighbor's home as well. If it is out call (801) 804-4440.
+
+If your neighbor's power is not out check your breaker box inside your home for a switch that is off.
+
+If step 2 doesn't solve your problem check the disconnect box on the outside of your home.
+
+If the switch is on in your disconnect box and your power is still out then call us at (801) 804-4440.
+
+
+Net Metering FAQ's
+
+Does the city offer a 1 to 1 kwh credit?
+Yes, the kWh's you produce are used to offset the kWh you consume before you are billed on the net kWh's.
+
+Does the excess kWh's I produce carry over to the next month?
+Yes, the excess energy you produce will carry over from month to month until the solar season resets in February. Any credit at this point will be forfeited.
+
+If I am producing my own power why am I still on the city's power system?
+Most solar systems do not generate enough electricity to fully sustain a customer year round to be "off grid". They also do not have batteries to supply power at night.
+
+If the city's power goes out will my power remain on?
+Unless you have a battery backup for your solar system, when the power grid goes down you will be out of power.
+
+How do I apply for net metering?
+See the Net Metering Information Website.
+
+
+Approved 10/20/2020
+
+4.60.220 Annexation Procedure
+Annexations with SESD Facilities.
+Submit to Community Development the number of existing SESD meters and the Electric Annexation Transfer Fee to be paid before annexation during annexation study. Calculate fee according to current adopted fee schedule.
+Submit SESD Annexation Application with $500 fee.
+Follow up with SESD if we have not received Customer Information and Facilities to be Transferred List within 60 days.
+Pay SESD within 60 days of their response for the customers per the Annexation Price.
+Transfer customers/facilities within 180 days.
+All other Annexations.
+Follow Utah State Code 10-2-421
+
+CONSIDERATIONS
+
+SESD 2024 Extension Agreement Regarding Reimbursement and Facility Transfer
+
+
+
+
+Approved July 8, 2024
+
+4.60.645 Net Metering Policy
+
+The City Power and Light Superintendent is hereby authorized to sign Spanish Fork City Power Net Metering License Agreements as required by municipal code §13.08.030 Net Metering. Agreements must be in a form approved by administrative order.
+
+
+
+
+HISTORY
+Adopted by Res. Resolution No. 22-13 on 4/5/2022
+
+4.60.650 Net Metering License Agreements Policy
+
+The Spanish Fork City Power Net Metering License Agreements v2 Template shall be used to meet the requirements of municipal code §13.08.030 Net Metering. Net Metering for Customer-Owned Electric Generating Systems of 25kW or Less.
+
+HISTORY
+Approved by Other Admin Order 03-22 Public Works on 4/19/2022
+
+4.60.660 Large Solar Generation Procedure (25kW-750kW)
+
+No work may begin on large solar generation until the following is completed.
+
+Apply with UMPA on the BizSolar Website.
+Apply for City Solar Panels Permit and pay application fee.
+Applications routed to P&L Meter Tech and Building Inspector for review.
+P&L Meter Tech obtains cost proposal from consultant for interconnection plan review.
+P&L Meter Tech posts fee for interconnection plan review.
+Once interconnection plan review fee is paid then P&L Meter Tech authorizes consultant to review plans.
+Once plans and engineering are approved the P&L Meter Tech sends them to the UMPA VP of Generation and copies the P&L Superintendent.
+P&L Superintendent contacts UMPA for approval.
+P&L Meter Tech posts any additional interconnection and hookup fees.
+Once any additional fees are paid P&L Meter Tech posts Interconnection Agreement and Power Sales Agreement.
+All work must be inspected. Schedule inspections through Solar Panels Permit Website.
+
+
+
+
+Approved July 22, 2024
+
+4.60.680 On-Call Procedure
+
+If on-call employee cannot answer the phone the following message should be given.
+
+“Hello, this is the after hours number for Spanish Fork Power. We are either responding to an outage or temporarily unavailable. Please leave a message or if you need immediate help call (801) 804-4438.”
+
+On-Call employees should monitor PulsePoint.
+
+Approved January 1, 2018
+
+
+4.60.700 Peak Time Energy Use Policy
+
+City employees are encouraged to minimize electricity use in City facilities between the hours of 3:00 PM and 9:00 PM.
+
+Approved by Administrative Order 04-15 - September 9, 2015
+
+
+4.60.710 Power Cost Adjustment (PCA) Policy
+
+A PCA factor shall be applied to all power and light utility bills. It shall be set monthly by the following formula:
+
+[Power Cost for Previous 12 Months / Power Purchased the Previous 12 Months in kWh] - [Base Power Cost]
+
+The Base Power Cost is $0.06129 per kWh as established by resolution or in the budget. Power cost includes the cost of system loss. SUVPS assessments, and UMPA power costs.
+
+HISTORY
+Adopted by Res. Resolution 22-11 on 3/1/2022
+
+4.60.730 Pole And Street Light Attachments Policy
+
+The City will not allow non-City owned wireless communication installations on electric poles or street lights.
+
+Approved by Administrative Order 01-16 -  November 23, 2015
+
+
+4.60.800 SESD Annexation Fees Policy
+
+An applicant for annexation will pay the City the SESD application fee to review and process the annexation.. The City shall pay the SESD fees for reimbursement for facilities.
+
+HISTORY
+Amended by Ord. Administrative Order: 01-22 Public Works on 1/7/2022
+
+4.60.860 Tree Trimming Policy
+
+When a resident requests tree trimming on private property the City will either:
+
+
+Top the tree to eliminate the risk of damage to electric lines; or 
+Temporarily remove a service so the resident can have the tree trimmed or removed.
+
+Revised by Administrative Order 01-16 - November 23, 2015
+
+4.60.960 Wood Pole Testing Policy
+
+The City will density test all wood poles at 35 years and every 5 years thereafter. Testing shall be documented in the mapping system. A progress map of testing completed shall be emailed to the Public Works Director in January and July.
+
+Approved by Administrative Order 01-16 - October 12, 2015

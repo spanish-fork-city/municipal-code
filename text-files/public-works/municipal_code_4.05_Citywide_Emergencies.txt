@@ -1,0 +1,779 @@
+4.05 Citywide Emergencies
+4.05.020 Earthquakes Procedure
+4.05.030 Extended Power Outages Procedure
+4.05.040 River Flooding Prevention Procedure
+4.05.050 Water Contamination Emergency Procedure
+
+
+4.05.020 Earthquakes Procedure
+Immediate Response.
+Duck, cover and hold on until the shaking stops, then evacuate to a safe area outside.
+Administer first aid in the immediate area.
+Make Contact with family.
+If EOC is activated, Public Works administrative staff and Engineering Division staff report to the EOC at the Justice Center with their laptops, 789 W Center St. All other Public Works employees report to their division manager offices.
+Establish Communication.
+
+Contact Information
+
+See the Employee Contact and Information List for contact information for City employees. The following is a list of other helpful resources.
+
+
+Company	Name	Mobile Phone Number
+Dominion Energy	
+
+Dave Wilkey
+Jesse Loveless
+Nick Jentzsch
+Emergency Line
+
+	
+
+(801) 691-5034
+(801) 228-7777
+(801) 819-5786
+(800) 323-5517
+
+
+Century Link	
+
+Mike Patton
+Larry Buhler
+Emergency Line
+
+	
+
+(801) 663-7207
+(801) 793-0240
+(800) 244-1111
+
+
+Intermountain Spanish Fork Hospital	
+
+Ryan McPherson
+Security Officer
+Francis Gibson
+
+	
+
+(435) 660-9375
+(385) 335-5973
+(801) 361-0082
+
+
+Utah County Public Works	
+	
+
+(801) 851-8000
+
+Table is also found in: Drinking Water and Power Outages.
+
+
+Radios
+
+
+1 - SF City Main
+tx: 155.8200 rx: 159 3675 pl tone: 71.9
+	
+
+EOC, Public Works Administration, & Engineering
+
+
+
+2 - Streets Main Repeater Channel
+tx: 152.9725 rx: 159.9975 pl tone: 71.9
+	
+
+Streets & Storm Water &
+Fleet & Garbage
+
+
+3 - Water Main Repeater Channel
+tx:151.9250 rx: 159.6000 pl tone: 71.9
+	
+
+Water & Wastewater
+
+
+
+4 - Electric Main Repeater Channel
+tx: 156.1800 rx: 159.0300 pl tone: 71.9
+	
+
+Power & Light & Airport
+
+
+
+5 - Streets Radio to Radio Channel
+tx: 106.0800 rx: 106.0800 pl tone: 71.9
+	
+
+Streets & Storm Water &
+Fleet & Garbage
+
+
+
+6 - Water Radio to Radio Channel
+tx: 156.1950 rx: 156.1950 pl tone: 71.9
+	Water & Wastewater
+
+7 - Electric Radio to Radio Channel
+tx: 153.8150 rx: 153.8150 pl tone: 71.10
+	
+
+Power & Light & Airport
+
+
+Table is also found in: 
+
+
+Satellite Phones
+
+Satellite to satellite dial: 00 8 816 XXX XXXXX
+Landline to satellite dial: 011 8 816 XXX XXXXX
+Satellite to landline dial: 00 1 XXX-XXX-XXXX
+
+
+Parks & Recreation
+	8 816 316 96736
+	Parks & Recreation Office - Parks & Rec. Director Office
+
+Public Safety
+	8 816 316 97121
+	EOC - Justice Center - Public Safety Director Office
+
+Public Works
+	8 816 316 94537
+	Power Superintendent Office
+
+SFCN
+	8 816 316 96775
+	SFCN Office -IS/SFCN Director Office
+
+
+
+
+PW Emergency Clipboards
+
+
+
+Airport
+
+	Airport Manager's Office on the Bookshelf behind the Desk
+
+
+EOC
+
+	Public Works Tote in EOC Closet
+
+
+Public Works Shop
+
+	Conference Room Closet
+
+
+Assessment Form
+Assessment Maps
+Public Works Emergency Standard Procedures
+Employee Contact and Information List
+FEMA Documentation Forms
+Notebook, Pen and Pencil
+Public Works Organizational Chart
+Public Works Facility Map
+Public Works Facility Staging Areas
+Utah Public Works Emergency Management Mutual Aid Agreement
+If EOC is activated, EOC sends a Bookkeeper/Runner with a PW Emergency Clipboard, a hard hat, and reflective vest to each Division Manager office. Hard hats and reflective vests will be kept with the Public Works Tote in the EOC closet.
+
+Bookkeeper/Runners do the following:
+Document the following on the FEMA forms found in the PW Emergency Clipboards.
+Worker and Volunteer Hours
+Equipment Hours
+Materials Used
+If mobile phones and radios are not working Bookkeeper/Runners provide communication between crews and Management.
+Go after supplies, transport individuals, etc.
+If internet access IS available EOC staff and Division Managers use the Emergency Event Communication Transmittal Spreadsheet to track incidents.
+If internet access IS NOT available use the Assessment Form. Copies of this form shall be located in the PW Emergency Clipboards. An Assessment Form shall be kept and updated in the radio room. Photocopies of these forms shall be sent to the EOC.
+Use the large post-it type notepads and easels in the EOC. These are located in the EOC storage room.
+Fleet and Garbage Division Manager establishes communication with SUVSWD and develops a plan for debris and garbage disposal.
+Reports plan to EOC.
+Assess Damage.  See the following assessment priority maps as applicable.
+
+Flight Path Combined Assessment Priorities Map
+Fleet and Garbage Critical Facilities Assessment
+Power and Light Critical Facilities Assessment
+Streets and Storm Critical Facilities Assessment
+Wastewater Earthquakes Windstorms Assessment Priorities Map
+Water Critical Facilities Assessment
+Get aerial damage assessment from EOC if available.
+Record all damage on Assessment Forms.
+Take pictures and videos when helpful.
+Video or photograph address, address sign, or landmark then the site.
+Report damage assessments to Division Manager’s offices.
+Prioritize. Division managers or alternates prioritize damage assessments and notifies priorities to the EOC with the Emergency Event Communication Transmittal Forms. If access to this form is not available then damage assessments and priorities must be reported to the EOC by phone, radio, satellite phone, or runners.
+
+Notify EOC of priorities and request EOC to reach out for mutual aid if needed.
+See Utah Public Works Emergency Management Mutual Aid Agreement.
+Give EOC detailed list of mutual aid equipment and crews needed.
+Mutual Aid should report to either the 200 E or Main St staging areas according to the Mutual Aid Staging Area Map.
+The following items may be needed for mutual aid crews depending on how long they work.
+Water
+Socks
+Food (Box Lunches)
+Ibuprofen
+Toiletries
+Coordinate with EOC if mutual aid crews need living accommodations.
+Response, Recovery and Mitigation.
+EOC assigns priorities. Division Managers verify priorities with the EOC.
+Assign crews by priority.
+If possible, call in emergency bluestakes by priority.
+If appropriate, notify property owners.
+Divisions notify EOC of crew locations.
+EOC trains and sends Bookkeeper/Runners to each crew.
+Documentation:  Bookkeeper/Runners document the following on the FEMA forms found in the PW Emergency Clipboards.
+Worker and Volunteer Hours
+Equipment Hours
+Materials Used
+Communication:  If mobile phones and radios are not working Bookkeeper/Runners provide communication between crews and Division Manager.
+Errands:  Go after supplies, transport individuals, etc.
+If needed, the Emergency Preparedness Coordinator develops a Garbage and Debris Disposal Plan with the Public Works Director and Fleet and Garbage Division Manager.
+Update EOC of progress of repairs.
+
+
+
+
+4.05.030 Extended Power Outages Procedure
+
+
+4.05.040 River Flooding Prevention Procedure
+Tree Removal. Tree removal will begin October 15th and be completed by January 15th every year. This will be scheduled in the Storm Water Assistant Division Manager Annual Calendar. It includes the following from I-15 to the first trail bridge upstream from Dripping Rock.
+
+Work with the county to remove all dead and overhanging trees.
+
+Cut down and poison all Russian olive trees, tamarisks, and Chinese elms.
+
+
+Snowpack and River Flow Email. A snowpack and river flow email shall be sent out to the Snowpack and River Flow Distribution List on the 1st and 15th of each month from October 15 to May 15th. This will be scheduled in the Public Works Administrative Intern Annual Calendar. It will include the following.
+Combined Snowpack Link (CRKU1 and CLCU1)
+
+Mid-Level Snowpack Link (CRKU1 7,659 ft)
+
+High-Level Snowpack Link (CLCU1 8,908 ft)
+
+River Flow cfs Link (Castilla, UT 10150500)
+
+
+Long-Term Supplies. The following supplies shall always be kept on hand in 2 Conex Boxes. They will be scheduled to be inventoried annually in the Storm Water Assistant Division Manager Annual Calendar.
+
+100 - 100 ft Rolls of 6 mil Visqueen
+
+75,000 Sandbags
+
+7 Bag Fillers
+
+21 Shovels
+
+Flood Control Policy Group. Once the combined rising snowpack exceeds 20 inches the Public Works Executive Assistant schedules a meeting for the Flood Control Policy Group. See the Flood Control Policy Group Agenda. This will be scheduled in the Public Works Executive Assistant’s Annual Calendar. The Flood Control Policy Group organizes and schedules the following.
+
+Folder. Create folder for flood year in the River Flooding Folder.
+
+Dredging. Direct the Floodplain Manager to apply for dredging permits.
+
+Erosion Mitigation. Direct the Floodplain Manager to complete an erosion study from I-15 to the first bridge above Dripping Rock and up the canyon where there is a water line adjacent to the river. See the Canyon Water Lines Erosion Sensitivity Map.
+
+River Anti-Flooding Team (RAFT). After April 1st, if the combined snowpack  is above 20 inches the City Manager activates the River Anti-Flooding Team (RAFT). See the following RAFT links: Virtual RAFT Meeting Link, RAFT Agenda, Task List, and RAFT Contact List.
+
+Time Card Training. Organize training for employees to note work on flood control as Special Assignment Pay on time cards.
+
+Direction of Travel Training. Train staff to only travel down the river trail downstream.
+
+I-15 and SR-115 Bridges. Schedule UDOT to clean out under the I-15 and SR-115 bridges.
+
+See the following links:
+
+Weather Forecast
+
+2023 High Water Map (2300 cfs)
+
+Historic Temperature and Precipitation Charts.
+
+
+River Monitoring.
+1,500 cfs Projected
+Parks Department closes walking trails under bridges.
+Install bridge cameras and start posting images on the River Cams Website. See Spartan Camera Website, and UDOT Camera Website.
+Appoint River Captains according to the Flood Prep Web App Viewer and have them document river hazards in the River Hazard Tracker Sheet. Appoint an employee from the water division to be captain of the Canyon area. Many locations in the canyon are best monitored with a drone.
+City Surveyor places movement hubs on Thistle slide and surveys weekly for movement.
+Develop Public Information Plan. See Public Information folders in River Flooding Folders for each event. Use autocalling to communicate with residents along the river. Recommend parameters for a disaster declaration.
+
+Schedule meeting with the River Commissioner and the following irrigation companies: Strawberry Water Users Association, Westfields Irrigation, East Bench Canal Company, and Southeast Irrigation Company.
+
+1,800 cfs Projected
+Check front window well sump pump at 1152 W River Ridge Ln weekly and, if necessary, Storm Water Division turns off the valve behind the lot at 1278 W River Ridge Ln and start pumping the groundwater drain into the river.
+Wastewater Division seals sewer manholes at risk. See Flood Sensitive Sewer Manhole Map.
+Deliver sand to Fairgrounds. Make plan to keep sander truck sand dry.
+
+2,000 cfs Projected
+Engineering Division schedules trackhoes at each vehicular bridge for debris removal.
+Schedule sandbag and flood wall building operations.
+Shutoff groundwater drain valve in the backyard of 1188 W River Ridge Ln and start pumping groundwater into river.
+
+
+Flood Walls. All sandbags must be filled by at least 1 day before flood wall building operations. Use the following QR Code for sign ups to fill sandbags. 
+
+
+
+ Supplies
+The following supplies shall be collected once sandbag and barrier operations are about to begin.
+50 - Fluorescent Vests
+
+10 - Easy-Up Canopies
+4 - Fairgrounds Break Area
+
+2 - Fairgrounds Information/Check-Out Areas
+
+4 - Wall Building Information/Check-Out Areas
+
+19 - Tables
+
+7 - Fairgrounds Bag Filling Location
+
+2 - Fairgrounds Break Area
+
+2 - Fairgrounds Information/Check-Out Area
+
+8 - Wall Building Information/Check-Out Areas
+
+20 - Candlestick Cones
+
+3 - A frames - parking and volunteer directions
+
+58 - Chairs
+
+28 - Fairgrounds Bag Filling Location
+
+20 - Fairgrounds Break Area
+
+2 - Fairgrounds Information/Check-Out Area
+
+8 - Wall Building Information/Check-Out Areas
+
+6 -  QR Code Volunteer Check-Out Signs on A-Frames
+
+2 - Fairgrounds
+
+4 - Wall Building Locations
+
+20 Rolls of Duct Tape
+
+Fairgrounds Sandbag Filling Operations
+
+Use the Fairgrounds Sandbag Operations Staging Map. 
+
+QR Code Check-Out Sign shall link to a webform requesting the following information.
+
+Note: “Please fill this form out when leaving volunteer work.
+
+Volunteer Name
+
+Volunteer Birthday
+
+Location Working
+
+Start Time
+
+End Time
+
+Sandbag Wall Building Operations
+
+Survey in the base flood elevations prior to staking the location of flood walls. Flood Plain Manager will mark location of flood walls according to The Flood Wall Plan East, and Flood Wall Plan West and base flood elevation hubs.
+
+City staff with radios and fluorescent vests shall be assigned to each flood wall area to ensure they are constructed according to the Flood Wall Detail Drawing and the flood wall markers. No more than 200 people and 30 trucks (3 wards) are needed to build sandbag flood walls behind the homes on the south side of the river between I-15 and Main St. Schedule volunteers at the Fairgrounds to load trucks and trailers.
+
+
+Sandbag Removal Operations.
+Separate contaminated sand according to Utah Department of Safety Guidelines.
+
+Offer sand for free for pickup on social media. Use the Sand Pickup Form.
+
+Dispose of contaminated and left over sand in sandbags at local landfills.
+
+Use Nexa dumpsters in residential neighborhoods. Book for a Saturday at least 1 week in advance and notify residents with door hangers & everbridge messages.
+
+For businesses, have them haul to landfill and city pay landfill fee.
+
+Schedule Streets Division to sweep streets and Parks Department to sweep trails.
+
+
+
+Revised October 26, 2023
+
+4.05.050 Water Contamination Emergency Procedure
+
+All water contamination public works emergency documents are stored in the Water Contamination - Emergency Procedure Folder.
+
+Immediate Response.
+Do the following in order.
+Isolate contamination area if possible.
+Contact one of the following managers:
+
+Title
+
+	Contact	Mobile Phone Number
+
+
+Contact 1
+
+	John Waters	(385) 344-9574
+
+
+Contact 2
+
+
+	Paul Taylor	(801) 921-9855
+
+
+Contact 3
+
+
+	Cory Pierce	      (385) 225-6295
+
+
+Contact 4
+
+
+	Tyler Jacobson	(801) 367-0080
+
+
+Contact 5
+
+
+	Seth Perrins	(801) 921-9848
+Manager notifies the Division of Drinking Water (385) 515-1459 and follows instructions.
+If there is a risk of a boil order or large water outage then manager will activate a limited EOC.
+
+If EOC is activated, the following reports to the EOC at the Justice Center, 789 W Center St.
+
+City Manager
+Assistant City Manager
+Public Information Officer
+Emergency Preparedness Coordinator
+Public Works Department Administrative Staff
+Water Division Management Staff
+Engineering Division Management and GIS Staff
+EOC develops a recommended response plan.
+Present recommended response plan to Mayor and two council members.
+If needed, the Mayor calls an emergency city council meeting.
+Establish Communication.
+
+Contact Information
+
+See the Employee Contact and Information List for contact information for City employees. The following is a list of other helpful resources.
+School or Large Business	Name	Mobile Phone Number
+
+
+American Leadership Academy
+
+Contact 1
+
+Contact 2
+
+	
+
+
+
+
+Jennifer Fulton
+
+Rich Morley
+
+	
+
+
+
+
+(801) 830-0616
+
+(385) 208-6252
+
+
+
+
+County Jail
+
+Contact 1
+
+Contact 2
+
+Contact 3
+
+	
+
+
+
+
+Matt Higgli
+
+Jim O'Brien
+
+Wyatt O'Brien
+
+	
+
+
+
+
+(801) 851-4003
+
+(801) 372-0905
+
+(801) 709-9984
+
+
+
+
+Intermountain Spanish Fork Hospital
+
+Contact 1
+
+Contact 2
+
+Contact 3
+
+	
+
+
+
+
+Ryan Miller
+
+Security Officer
+
+Francis Gibson
+
+	
+
+
+
+
+(435) 660-1956
+
+(385) 335-5973
+
+(801) 361-0082
+
+
+
+
+Kapstone
+
+Contact 1
+
+Contact 2
+
+Contact 3
+
+Contact 4
+
+	
+
+
+
+
+Tim Jones
+
+Craig Hill
+
+Ben Neill
+
+Bill Schille
+
+	
+
+
+
+
+(801) 420-0760
+
+(801) 420-5934
+
+(801) 420-3882
+
+(360) 355-5164
+
+
+
+
+Klune
+
+Contact 1
+
+Contact 2
+
+	
+
+Shane Andreason
+
+Ken Bartholomew
+
+	
+
+(801) 636-9992
+
+(801) 636-2417
+
+
+
+
+Mountain Country Foods
+
+Contact 1
+
+Contact 2
+
+	
+
+Doug Ford
+
+Randy Butler
+
+	
+
+(801) 830-1392
+
+(801) 369-0705
+
+
+
+
+Nature's Sunshine
+
+Contact 1
+
+Contact 2
+
+Contact 3
+
+Contact 4
+
+	
+
+Jared Bradford
+
+Bart Pulsipher
+
+Trent McCaufland
+
+Dustin Simons
+
+	
+
+(801) 970-7623
+
+(801) 376-8915
+
+(801) 360-7813
+
+(801) 369-4737
+
+
+
+
+Nebo School District
+
+Contact 1
+
+Contact 2
+
+Contact 3
+
+	
+
+Matt Gledhill
+
+Frank Daybell
+
+Rick Nielsen
+
+	
+
+(801) 319-8753
+
+(801) 822-9346
+
+(801) 362-6218
+
+
+
+
+Hydro  (SAPA)
+
+Contact 1
+
+Contact 2
+
+Contact 3
+
+	
+
+Kevin Webb
+
+Tyson Richins
+
+Kelly Matthews
+
+	
+
+(801) 310-1560
+
+(801) 822-3013
+
+(801) 368-0568
+
+
+
+
+Western Botanicals
+
+Contact 1
+
+Contact 2
+
+Contact 3
+
+	
+
+James McCasey
+
+Scott Matukas
+
+Don Shaver
+
+	
+
+(916) 289-1812
+
+(315) 374-7292
+
+(321) 662-5438
+
+
+
+
+Western Distributions
+
+Contact 1
+
+Contact 2
+
+	
+
+Kendell Young
+
+Travis Wilcox
+
+	
+
+(801) 234-0425
+
+(385) 444-8715
+
+Approved March 18, 2022

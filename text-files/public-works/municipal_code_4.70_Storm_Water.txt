@@ -1,0 +1,854 @@
+4.70 Storm Water
+4.70.110 Annual Tasks Calendar Procedure
+4.70.120 Equipment Procedure
+4.70.140 Frequently Asked Questions (FAQs) Procedure
+4.70.210 Annual UPDES Small MS4 Report Procedure
+4.70.460 High Priority (Tier II) City SWPPP Facility Inspections Policy
+4.70.480 Illicit Discharge Reporting And Clean Up Procedure
+4.70.490 Illicit Discharge Response, Investigation, And Detection Procedure
+4.70.570 Low Impact Development Policy
+4.70.620 Moderate Priority (Tier III) City LTSMP Facility Inspections Policy
+4.70.680 Outfalls Policy
+4.70.820 Storm Drain Fee Calculation Procedure
+4.70.840 Storm Water System Cleaning Policy
+4.70.920 Video Inspection Policy
+
+
+4.70.110 Annual Tasks Calendar Procedure
+Streets And Storm Water Division Manager
+Planning And Budget Assistant Division Manager
+Traffic And Storm Water Assistant Division Manager
+Pavement Preservation Operator
+Storm Water Maintenance And Jet Operator
+Concrete Operator
+Signs And Striping Operator
+Sweeping And Sight Distance Operator
+
+
+
+
+
+Set annual calendar items as recurring tasks in task management software.
+
+Streets And Storm Water Division Manager
+Start	Due	Frequency	Tasks
+Jan 1	Jan 10	3 Months	
+
+Check training and certifications in the Emp Tab, plan for
+orange & resolve red.
+
+
+Jan 1	Jan 31	4 Months	
+
+Update employee evaluation Key Indicators and conduct
+evaluations.
+
+
+Jan 15	Jan 31	Bi-Annually	
+
+Review Curb and Gutter Inspections Dashboard and Sidewalk Inspections Dashboard with Concrete
+Operator and PWD.
+
+
+Jan 15	Jan 31	Bi-Annually	
+
+Review Concrete Maintenance Dashboard with the
+Concrete Operator and PWD.
+
+
+Jan 15	Jan 31	Bi-Annually	
+
+Review Pavement Maintenance Dashboard with Planning
+& Budget Foreman and PWD.
+
+
+Jan 15	Jan 31	Bi-Annually	
+
+Review Pavement Marking Dashboard with Traffic &
+Storm Water Foreman and PWD.
+
+
+Jan 15	Jan 31	Bi-Annually	
+
+Review Storm Water Line Cleaning Dashboard with the
+Storm Water Maintenance & Jet Operator and PWD.
+
+
+Jan 15	Jan 31	Bi-Annually	
+
+Review Storm Water Manholes and Boxes Dashboard with the Storm Water Maintenance & Jet Operator and PWD.
+
+
+Mar 1	Mar 5	Annually	
+
+Review Citywide Emergency Procedure.
+
+
+Mar 1	Mar 30	Every 4 Months	
+
+Review Fuel Reports.
+
+
+Apr 30	May 15	Annually	
+
+Review Goals with Employees.
+
+
+Jul 1	Jul 15	Bi-Annually	
+
+Review Storm Drain Cleaning Progress Dashboard with PWD.
+
+
+Jul 1	Oct 31	Yearly	
+
+Prepare Annual Report.
+
+
+Nov 1	Nov 15	Bi-Annually	
+
+Review Storm Drain Cleaning Progress Dashboard with
+Public Works Director.
+
+Planning And Budget Assistant Division Manager
+Start	Due	Frequency	Tasks
+Jan 1	Jan 15	Bi-Annually	
+
+Review and update website.
+
+
+Jan 1	Jan 15	12 Months	
+
+Remove all road maintenance from Construction Map.
+
+
+Jan 1	Jan 15	Bi-Annually	
+
+Review Pavement Maintenance Dashboard with Division
+Manager.
+
+
+Feb 1	Mar 1	Annually	
+
+Seal Coat Bids.
+
+
+May 1	May 5	Annually	
+
+Get Shelley the cost of seal coats for developer bonds.
+
+
+May 1	May 31	Bi-Annually	
+
+Update Utility Replacement CIP Map.
+
+
+May 15	Jun 1	Annually	
+
+Add all road maintenance into Construction Map.
+
+
+Jun 1	July 1	Annually	
+
+Update Overlay CIP Maps.
+
+
+Jun 1	Jun 15	Bi-Annually	
+
+Update 10 yr CIP Map.
+
+
+Jul 1	Jul 15	Annually	
+
+Review and update website.
+
+
+Nov 1	Nov 15	Bi-Annually	
+
+Update 10 Yr CIP Map.
+
+Traffic And Storm Water Assistant Division Manager
+Start	Due	Frequency	Tasks
+Apr 12	Nov 15	Annually	
+
+Weed control program.
+
+
+Oct 1	Oct 31	Annually	
+
+Inventory Flood Prevention Supplies required in 4.05.040-C1. River Flooding Prevention Procedure.
+
+
+Oct 15	Jan 15	Annually
+	
+
+Work with the county to remove all dead and overhanging trees along the river from I-15 through the first trail bridge up the canyon from Dripping Rock. Cut down and poison all Russian olive trees, tamarisks, and Chinese elms.
+
+
+Pavement Preservation Operator
+Start	Due	Frequency	Tasks
+Jan 1	Jan 5	7 Days	
+
+Grease necessary components on Crack Sealer every 40 hours.
+
+
+Jan 1	Jan 5	7 Days	
+
+Clean Hydraulic cooling fan on Crack Sealer every 40 hours.
+
+
+Jan 1	Jan 5	 30 Days	
+
+Clean excess tar from the crack Sealer every 160 hours.
+
+
+Jan 1	Jan 5	30 Days	
+
+Clean or change air filters on Crack Sealer every 160 hours.
+
+
+Jan 10	Jan 31	Annually	
+
+Notice to all utilities on what roads will be Overlayed.
+
+
+Feb 1	Feb 28	Annually	
+
+Pavement Overlay Bid.
+
+
+Feb 1	Feb 28	Annually	
+
+Seal Coat Bids. HA5, Slurry, Micro and Chip Seal.
+
+
+Feb 1	Feb 28	Annually	
+
+Update Streets Plan.
+
+
+Apr 1	Apr 15	Annually	
+
+Change all fluids and service the Rollers.
+
+
+Apr 1	Apr 15	Annually	
+
+Change all fluids and service the Tack Machine.
+
+
+Jun 20	Jul 31	Annually	
+
+HA5 Operations.
+
+
+Nov 1	Nov 15	Annually	
+
+Clean and winterize the Tack Machine.
+
+
+Nov 1	Nov 15	Annually	
+
+Winterize the Rollers.
+
+Storm Water Maintenance And Jet Operator
+Start	Due	Frequency	Tasks
+Jan 1	Jan 4	7 Days	
+
+Drain Jet Truck brake air line tanks.
+
+
+Jan 1	Jan 4	7 Days	
+
+Clean Jet Truck water filters.
+
+
+Jan 1	Jan 4	7 Days	
+
+Check Jet Truck systems and fluids.
+
+
+Jan 1	Jan 4	10 Days	
+
+Grease Jet Truck.
+
+
+Jan 1	Jan 4	30 Days	
+
+Rotate Jet Truck suction tubes.
+
+
+Jan 1	Jan 15	Bi-Annually	
+
+Review Storm Water Line Cleaning Dashboard with the
+Division Manager.
+
+
+Jan 1	Jan 15	Bi-Annually	
+
+Review Water Manholes and Boxes Dashboard with the
+Division Manager.
+
+
+Jan 1	Jan 31	Annually	
+
+Update Storm Drain Plan.
+
+
+Jan 15	Mar 15	Annually	
+
+Ditch Cleaning with Trackhoe; all Waterways.
+
+
+Mar 1	Apr 5	Annually	
+
+Start Millrace Canal Cleaning.
+
+
+Apr 1	Apr 15	Annually	
+
+Levee Inspection.
+
+
+May 1	May 15	Annually	
+
+Clean Groundwater Drain between 1132 and 1152 W River Ridge Ln.
+
+
+May 1	May 15	Bi-Annually	
+
+Email Storm Drain Cleaning Progress Map to PWD.
+
+
+July 1	July 15	Annually	
+
+Levee Inspection.
+
+
+Sept 1	Dec 1	Annually	
+
+Fall Leaf Ditch Cleaning.
+
+
+Oct 1	Oct 15	Annually	
+
+Complete work required by approved Levee Maintenance Plan.
+
+
+Nov 1	 Nov 15	Bi-Annually	
+
+Review Storm Drain Cleaning Progress Dashboard with Division Manager.
+
+Concrete Operator
+Start	Due	Frequency	Tasks
+Jan 1	Jan 15	Bi-Annually	Review Concrete Inspection Dashboard with Division
+Manager.
+Jan 1	Jan 15	Bi-Annually	Review Concrete Maintenance Dashboard with Division
+Manager.
+Jan 1	Jan 31	Annually	
+
+Update Sidewalk Plan.
+
+
+Feb 1	Feb 15	Annually	
+
+Change oil and service the viber-strike.
+
+
+Jul 1	Jul 31	Annually	
+
+Review and update Streets & Storm Water Website.
+
+
+Nov 1	Nov 15	Bi-Annually	Review Concrete Maintenance Progress Dashboard with
+Division Manager.
+Nov 1	Nov 5	Annually	
+
+Update City website with tree pickup dates.
+
+Signs And Striping Operator
+Start	Due	Frequency	Tasks
+Jan 1	Jan 15	Annually	
+
+Change all Fluids and Hoses on the paint Machine.
+
+
+Jan 1	Jan 15	Bi-Annually	
+
+Review Pavement Marking Dashboard with Division
+Manager.
+
+
+Mar 1	Mar 4	30 Days	
+
+Change all necessary fluids in the Tractor and Mower.
+
+
+Mar 1	Mar 4	30 Days	
+
+Replace all worn cutting blades and wear bars on the
+mower.
+
+
+Mar 1	Mar 4	30 Days	
+
+Inspect all hydraulic lines for wear and replace if
+necessary on the tractor and mower.
+
+
+Mar 1	Mar 4	30 Days	
+
+Inspect all grease fitting for wear, grease and replace if
+needed on tractor and mower.
+
+
+May 1
+Jul 15
+Sept 15	May 10
+Jul 25
+Sept 25	Annually	Mow weeds and resolve sight issues (tree trimming, railroads etc.).
+May 15	Jun 30	Annually	
+
+Get sign maintenance maps from the City Surveyor.
+
+
+Jul 1	Jul 31	Annually	
+
+Start Sign/Street Light/Foliage/RR Inspections.
+
+
+Jul 1	Aug 15	Annually	
+
+Start Striping the HA5 and Slurry Projects.
+
+
+Jul 1	Aug 15	Annually	
+
+Complete Sign/Street Light/Foliage Inspections.
+
+
+Aug 1	Aug 15	Annually	
+
+Striping of All School Zones.
+
+
+Aug 15	Aug 20	Annually	
+
+Check site issues on all R X R.
+
+
+Sept 1	Sept 31	Annually	
+
+Striping of All Overlays and Seal Coats.
+
+
+Nov 15	Dec 31	Annually	
+
+Get sign maintenance maps from the City Surveyor.
+
+Sweeping And Sight Distance Operator
+Start	Due	Frequency	Tasks
+Jan 1	Jan 4	7 Days	
+
+Grease all necessary components on the Sweeper Truck.
+
+
+Jan 1	Jan 4	7 Days	
+
+Flush all air and water tanks on the Sweeper Truck
+
+
+Jan 1	Jan 4	7 Days	
+
+Check and Clean all filters on Sweeper Truck.
+
+
+Jan 1	Jan 4	7 Days	
+
+Check Curtains under head for wear on Sweeper Truck.
+
+
+Jan 1	Jan 4	7 Days	
+
+Clean sweeper inside of the cab.
+
+
+Jan 1	Jan 4	30 Days	
+
+Change all necessary fluids on the Sweeper Truck.
+
+
+Jan 1	Jan 4	30 Days	
+
+Inspect the Fan and Housing on the Sweeper Truck.
+
+
+Jan 1	Jan 4	30 Days	
+
+Check for wear on vacuum housing in the Sweeper Truck.
+
+
+Jan 10	Holiday	Annual	
+
+Flags (Martin Luther King Day)
+
+
+Feb 10	Holiday	Annual	
+
+Flags (President's Day).
+
+
+May 10	Holiday	Annual	
+
+Flags (Armed Forces Day). Leave up through Memorial Day.
+
+
+Jun 12	Jun 14	Annual	
+
+Flags (Flag Day).
+
+
+Jun 28	Jul 1	Annual	
+
+Flags (Independence Day). Leave up through the 5th.
+
+
+Jul 10	Start	Annual	
+
+Flags and Banners (Fiesta Days).
+
+
+Jul 10	Event	Annual	
+
+Fish Rodeo.
+
+
+Aug 28	Holiday	Annual	
+
+Flags (Labor Day). Leave up through (Patriots Day 9/11).
+
+
+Oct 1	Nov 30	Annual	
+
+Fall Leaves Clean Up.
+
+
+Oct 6	Holiday	Annual	
+
+Flags (Columbus Day).
+
+
+Oct 30	Event	Annual	
+
+Election Day.
+
+
+Nov 1	Nov 10	Annual	
+
+Determine begin and end of Christmas Tree pickup program and notify GIS Administrator to change the dates and clear old data on map.
+
+4.70.120 Equipment Procedure
+Jet Truck
+
+
+
+
+
+Train employees on the following as applicable before allowing them to work on each piece of equipment or at each facility. Track scheduled maintenance in the annual tasks calendar.
+
+Place a written copy of the appropriate individual procedure in each piece of equipment or facility. If borrowing equipment from other divisions refer to the following division procedures for that equipment.
+
+
+
+Power and Light Division Equipment and Facilities Procedures
+
+Wastewater Division Equipment and Facilities Procedures
+
+Water Division Equipment and Facilities Procedures
+Fleet Division Equipment and Facilities Procedures
+
+Approved 7/06/2020
+
+Jet Truck
+Pre Trip Inspection
+Class B CDL with tanker endorsement required for driver.
+Walk around inspection.
+Check all hydraulic lines, air lines, and material lines for cracking or leakage.
+
+Lights and Tire Pressure (visual only)
+Hose Reel Locked.
+Report any damage with an Immediate Action Form.
+
+Fill out Vehicle Service Request for needed repairs and report to supervisor.
+Check and top off all fluids (coolant, def, fuel, hydraulic, oil, and water)
+Load PPE and traffic control equipment.
+Nozzle selection and size.
+Test PTO by cycling master switch.
+Debris body down.
+Job Site
+Warning Lights, PPE, and Traffic Control.
+Set mode to Jet or Vac.
+Always keep at least one water valve on (up is on).
+Shoot nozzle upstream.
+Don't exceed 2500 psi.
+Prevent slack in the jet hose to avoid injury.
+Inspect hoses throughout the day for signs of wear.
+Don't stop nozzle in the pipe, keep constant motion either forward or backward.
+Log cleaning in tracking application.
+Post Trip Maintenance.
+Top off fuel.
+Pressure wash.
+Clean out debris body (run the body washout)
+Clean fan housing if vac was used.
+Drain water and cyclone filters.
+Leave debris tank open and lifted off vacuum hose.
+Report any damage with an Immediate Action Form.
+Fill out Vehicle Service Request for needed repairs and report to supervisor.
+Scheduled Maintenance, see Annual Tasks Calendar for Storm Water Maintenance & Jet Operator.
+Grease necessary components every 40 hours.
+Clean hydraulic cooling fan every 40 hours.
+Clean or change air filters every 160 hours.
+Drain brake air line tanks every 7 days.
+Clean water filters every 40 hours.
+Rotate suction tube every 30 days.
+
+4.70.140 Frequently Asked Questions (FAQs) Procedure
+
+Listed in order of frequency. Post FAQs on the Streets & Storm Water Questions and Requests Website.
+
+What is the storm drain charge on my utility bill for?
+Most cities have had to create a storm water utility because of increasing regulation. The costs of this utility is spread out across the city on the utility bills as the storm drain fee.
+
+Is storm water treated?
+No, but the City does require pre-treatment of storm water with oil separation, dirt and leaf cleanouts and Low Impact Development (LID). LID is the process of allowing storm water to enter back into the ground as it did before development.
+
+Are the storm water and sewer systems separate?
+Yes. Please don't allow contaminants into the storm water system since it overflows to Utah Lake.
+
+Why can't I wash things down the gutter to the storm drain?
+Utah Lake is becoming more and more contaminated leading to harmful and unsightly algal blooms.
+
+
+Approved 6/30/2021
+
+4.70.210 Annual UPDES Small MS4 Report Procedure
+
+Calculate the MS4 permit expenditures for 8.A. by summing the following expenses.
+
+All SWPPP inspection consultant costs.
+All SWPPP inspector and equipment costs.
+All MS4 permit project and equipment costs.
+Street sweeper personnel and equipment costs.
+Jet truck personnel and equipment costs.
+Supervisory personnel cost by percentage.
+Indirect services by percentage.
+
+Approved January 1, 2018
+
+
+
+
+
+4.70.460 High Priority (Tier II) City SWPPP Facility Inspections Policy
+
+All High Priority (Tier II) City Facilities shall be inspected weekly by the facility manager. Tier II facilities shall also be inspected by the facility manager and City SWPPP inspector quarterly for SWPPP compliance. All inspections shall be conducted according to the SWPPP and documented in the online inspection program. 
+
+The Tier II Facilities and managers are listed below:
+
+
+
+
+
+Public Works Shops
+
+	Max Sabey	(801) 921-9861	
+
+msabey@spanishfork.org
+
+
+Airport	Christian Davis	(801) 804-4593	cdavis@spanishfork.org
+Canyon View Park	Bart Morrill	(801) 804-4615	bmorrill@spanishfork.org
+Cemetery/Cent./E. Park	Bill Bushman	(801) 921-9818	bbushman@spanishfork.org
+Fairgrounds	Nick Hanks	(801) 360-8516	nhanks@spanishfork.org
+Golf Course	Ryan Rhees	(801) 831-0057	rrhees@spanishfork.org
+Sports Park	Bart Morrill	(801) 804-4615	bmorrill@spanishfork.org
+Swenson Park	Bart Morrill	(801) 804-4615	bmorrill@spanishfork.org
+
+
+Approved by Administrative Order 04-17 - June 27, 2017
+
+4.70.480 Illicit Discharge Reporting And Clean Up Procedure
+
+Do the following for each illicit discharge:
+ 
+
+Mitigate. Determine responsible party and require them to stop and clean up illicit discharge.
+Document. Fill out the IDDE form with the following information.
+Date observed.
+Date reported.
+Date investigated.
+Date mitigated.
+Location.
+Person reporting illicit discharge.
+Description of illicit discharge and how it was discovered.
+Method of Illicit Discharge removal, repair(s) made, and/or enforcement actions.
+The decision process, for utilizing analytical monitoring and/or sampling to aid in the identification of the potential source of an illicit discharge and characterization of the nature of an illicit discharge.
+Link to pictures of discharge and mitigation efforts.
+Penalty. Issue fine required by Ordinance 13.16.100.
+Educate. Educate responsible party on preventing the recurrence of an illicit discharge.
+
+Approved January 1, 2018
+
+
+
+
+
+4.70.490 Illicit Discharge Response, Investigation, And Detection Procedure
+
+Reports or suspicions of illicit discharges shall be addressed in the following manner.
+ 
+
+Report all possible illicit discharges to (801) 804-4440 Extension 3 (Storm Drain Extension).
+Storm Water Division on-call staff responds and notifies SWPPP Inspector or alternate contact if not available.
+
+
+
+
+Title	Contact	
+
+Mobile Phone 
+
+Number
+
+
+
+
+SWMP Administrator
+
+Alt 1: Assistant City Engineer
+
+Alt 2: Public Works Director
+
+	
+
+Matt Romero
+
+Michael Clark
+
+Cory Pierce
+
+	
+
+(385) 448-6776
+
+(801) 380-3327
+
+(385) 225-6295
+
+
+
+
+
+SWPPP Inspector or alternate visits the site immediately to investigate the suspected illicit discharge.
+If an illicit discharge is detected, follow the Illicit Discharge Reporting and Clean-up procedure.
+The SWPPP Inspector documents every report of a possible illicit discharge in the IDDE form.
+
+Revised July 16, 2019
+
+
+
+
+
+4.70.570 Low Impact Development Policy
+
+When the Public Works Director, or his/her designee, determines that City Low Impact Development (LID) standards are infeasible due to a high-water table, soil type, or other matters related to the geography of a site, a fee for offsite LID shall be charged. The fee shall equal the estimated cost saved by not installing LID on site as calculated in the 2018 Low Impact Development Alternatives Study. The fee shall be used by the City to fund offsite LID projects in areas where it will be most effective. 
+
+Approved by Resolution 18-16 - October 16, 2018
+
+
+4.70.620 Moderate Priority (Tier III) City LTSMP Facility Inspections Policy
+
+All Moderate Priority (Tier III) City LTSMP Facilities shall be inspected monthly by the facility manager or designee. Tier III facilities shall also be inspected by the facility manager and City SWPPP inspector every five (5) years for Long Term Stormwater management Plan (LTSMP) compliance and needed updates. All inspections shall be conducted according to the LTSMP and documented in the online inspection program.
+
+The Tier III Facilities and managers are listed below:
+
+Abbie Court Park
+
+
+	Bart Morrill	(801) 804-4615	bmorrill@spanishfork.org
+Butler Springs Pond	John Waters	(801) 921-9857	jwaters@spanishfork.org
+Canyon Elem. Det. Basin	Bart Morrill	(801) 804-4615	bmorrill@spanishfork.org
+City Offices	Bill Bushman	(801) 921-9818	bbushman@spanishfork.org
+Industrial Det. Basin	Jamie Chappel	(801) 921-9854	jchappel@spanishfork.org
+Justice Center	Bill Bushman	(801) 921-9818	bbushmn@spanishfork.org
+Maple Mountain Det. Basin	Bart Morrill	(801) 804-4615	bmorrill@spanishfork.org
+North Park	Bart Morrill	(801) 804-4615	bmorrill@spanishfork.org
+
+
+Old Mill Estates
+
+Detention Basins
+
+	Bart Morrill	(801) 804-4615	bmorrill@spanishfork.org
+Parkside Estates Ret. Basin	Bart Morrill	(801) 804-4615	bmorrill@spanishfork.org
+Public Safety Building	Bill Bushman	(801) 921-9818	bbushman@spanishfork.org
+Patriot Park	Bart Morrill	(801) 804-4615	bmorrill@spanishfork.org
+
+
+Jex Subdivision
+
+Detention Basin
+
+	Bart Morrill	(801) 804-4615	bmorill@spanishfork.org
+Senior Center	Bill Bushman	(801) 921-9818	bbushman@spanishfork.org
+Sierra Park	Bart Morrill	(801) 804-4615	bmorrill@spanishfork.org
+SF Community Network	Bill Bushman	(801) 921-9818	bbushman@spanishfork.org
+Spanish Oaks Reservoir	Bart Morrill	(801) 804-4615	bmorrill@spanishfork.org
+Sp. Highlands Det. Basin	Bart Morrill	(801) 804-4615	bmorrill@spanishfork.org
+Spanish Trails Det. Basin	Bart Morrill	(801) 804-4615	bmorrill@spanishfork.org
+Sunny Ridge Det. Basin	Bart Morrill	(801) 804-4615	bmorrill@spanishfork.org
+West Fields Det. Basin	Jamie Chappel	(801) 921-9854	jchappel@spanishfork.org
+Wildflower Det. Basin	Bart Morrill	(801) 804-4615	bmorill@spanishfork.org
+
+
+Revised by Administrative Order 04-17 - November 3, 2017
+
+4.70.680 Outfalls Policy
+
+Outfalls will be mapped and posted with a sign indicating the map outfall I.D. number and the following statement: “This is a storm water outfall. Please report any illicit discharges to the Spanish Fork City Storm Water Division. (801) 804-4440.” 
+
+The SWMP Administrator shall inspect all outfalls once annually on a dry weather day in August. Inspection shall document signage, damage, obstructions, and illicit discharges. If there appears to be an illicit discharge, the Administrator shall follow the Illicit Discharge Reporting and Clean Up BMP. Other problems shall be reported on the online “Report a Problem” website.
+
+
+Revised by Administrative Order 06-15 - September 7, 2018
+
+
+4.70.820 Storm Drain Fee Calculation Procedure
+
+This procedure is for enforcing ordinance 13.16.020 A. Storm Water Drainage Utility Rates.
+
+
+Residential Fee. Storm Drain fees shall be implemented once any certificate of occupancy is issued. The Building Inspection Secretary will send a copy to the utility billing office.
+
+Non-residential Fee Calculation. Storm Drain fees shall be implemented once a site approval inspection is scheduled. The Engineering Secretary will send notification to the Utility Billing office. Initial fees will be calculated from the site plan. Actual areas will be audited and updated every 3 years.
+
+Vacant Property with Impervious Area. A fee will be charged for vacant property with impervious area if an active city billing account is maintained for the property.
+
+
+Approved January 1, 2018
+
+
+
+
+
+4.70.840 Storm Water System Cleaning Policy
+
+All storm water collection lines shall be cleaned once every ten (10) years, if possible. Manholes and boxes shall be cleaned once every five (5) years, if possible. Cleaning shall be documented in the Storm Water Line Cleaning Dashboard and the Storm Water Manhole and Box Cleaning Dashboard. 
+
+Revised by Administrative Order 06-20 - June 2, 2020
+
+
+4.70.920 Video Inspection Policy
+
+All storm water collection lines shall be video inspected once every ten (10)  years, if possible. Inspections shall be documented in the mapping system. A progress map of video inspection completed shall be emailed to the Public Works Director and SWPPP Inspector in January and July.
+
+Revised by Administrative Order 06-16 - October 10, 2016

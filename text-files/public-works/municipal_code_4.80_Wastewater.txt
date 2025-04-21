@@ -1,0 +1,1834 @@
+4.80 Wastewater
+4.80.110 Annual Tasks Calendar Procedure
+4.80.120 Equipment Procedure
+4.80.140 Frequently Asked Questions (FAQs) Procedure
+4.80.260 Bubble Ups Procedure
+4.80.440 Hazardous Waste Notification Procedure
+4.80.600 Manhole Inspection Policy
+4.80.730 Public Notification Of Maintenance Activities Procedure
+4.80.780 Root Control Policy
+4.80.880 Tailgate Safety Meeting Procedure
+4.80.920 Video Inspection Policy
+4.80.950 Wastewater Collection Cleaning Policy
+
+
+4.80.110 Annual Tasks Calendar Procedure
+Wastewater Division Manager
+Plant Operations Operator
+Facility Maintenance Operator
+Collection Inspection Operator
+Pretreatment Coordinator
+Collection Cleaning Operator
+
+
+
+
+
+Set annual calendar items as recurring tasks in task management software. 
+
+
+Wastewater Division Manager
+Start	Due	Frequency	Tasks
+1st Tue	Wed	Every Tue	
+
+Review and approve Stampli invoices.
+
+
+Jan 1	Jan 2	5 Days	
+
+Upload receipts to Zion's Bank VISA Spend Management App & complete Approvals.
+
+
+Jan 1	Jan 25	4 Months	
+
+Update employee evaluation Key Indicators and conduct evaluations.
+
+
+Jan 1	Jan 31	4 Months	
+
+Tri-Annual Evaluations.
+
+
+Jan 1	Jan 10	Every 3 Months	
+
+Check training and certifications in the Emp Tab, plan for orange & resolve red.
+
+
+Jan 1	Jan 5	Yearly	
+
+Bill Mapleton $933,333 Per Agreement FY 25, 26, & 27.
+
+
+Jan 15	Jan 31	Bi-Annually	
+
+Review Wastewater Cleaning Dashboard with the
+Collection Cleaning Operator and the Public Works
+Director.
+
+
+Jan 15	Jan 31	Bi-Annually	
+
+Review Wastewater Video Inspection Dashboard the
+Collection Inspection Operator and the Public Works
+Director.
+
+
+Jan 1	Jan 30	Yearly	
+
+Review Root Treatment Map with Public Works Director.
+
+
+Jan 1	Jan 30	Yearly	
+
+Review 10 Yr. CIP Map with Public Works Director.
+
+
+Jan 1	Jan 31	5 Years	
+
+Submit DWQ Sewer Collection System Operation Permit
+NOI (2022,2027,2032).
+
+
+Jan 1	Feb 1	Yearly	
+
+Application for March Operator Test (RW).
+
+
+Feb 1	Mar 1	Yearly	
+
+MWPP Self Assessment Report.
+
+
+Mar 1	Mar 5	Yearly	
+
+Review Citywide Emergency Procedure.
+
+
+Mar 1	Mar 22	Yearly	
+
+Application for April Operator Test (Provo).
+
+
+Mar 1	Mar 30	Every 4 Months	
+
+Review Fuel Reports.
+
+
+May 1	May 31	6 Months	
+
+Update Utility Replacement CIP Map.
+
+
+Jun 1	Jun 30	Yearly	
+
+Asset List to Jordan.
+
+
+Jun 1	Jun 30	Yearly	
+
+Annual Phosphorus Report.
+
+
+Jul 1	Jul 15	Yearly	
+
+Update ERU's for Mapleton Trunkline Agreement.
+
+
+Jun 14	Jun 30	Yearly	
+
+Annual Ammonia Compliance Letter.
+
+
+Jul 1	Oct 31	Yearly	
+
+Prepare Annual Report.
+
+
+Sept 18	Oct 18	Yearly	
+
+Application for Nov. Operator Test (Provo).
+
+
+Oct 1	Oct 31	Yearly	
+
+Mapleton/SF WWTP Advisory Group Meeting.
+
+
+Dec 1	Dec 15	Yearly	
+
+Update Sewer Maintenance Plan.
+
+Plant Operations Operator
+Start	Due	Frequency	Tasks
+Jan 1	Jan 1	Daily	
+
+Influent/Effluent/Aerotor pH.
+
+
+Jan 1	Jan 1	M,W,F	
+
+Aerotor TSS/Settleometer.
+
+
+Jan 1	Jan 1	T	
+
+Tuesday Weekly Lab Sampling.
+
+
+Jan 1	Jan 1	T,Th	
+
+Thursday Weekly Lab Sampling.
+
+
+Jan 1	Jan 1	T,Th	
+
+Effluent Dissolved Oxygen.
+
+
+Jan 1	Jan 1	T,Th	
+
+Effluent E Coli.
+
+
+Jan 1	Jan 1	7 Days	
+
+F/M Ratio
+
+
+Jan 1	Jan 4	7 Days	
+
+pH probe cleaning and calibration.
+
+
+Jan 1	Jan 4	Weekly	
+
+Weekly RMP Chlorine Equip. Inspection.
+
+
+Jan 1	Jan 4	14 Days	
+
+Digester Volatile Acids, Alkalinity, and pH.
+
+
+Jan 1	Jan 4	14 Days	
+
+Influent/Effluent COD Test.
+
+
+Jan 1	Jan 4	30 Days	
+
+Digester Volatile Solids Reduction Test.
+
+
+Jan 1	Jan 4	30 Days	
+
+Influent/Effluent Ammonia Test.
+
+
+Jan 1	Jan 4	30 Days	
+
+Influent/Effluent Total & Ortho Phosphorus.
+
+
+Jan 1	Jan 4	30 Days	
+
+Temperature Data from DO Sensors.
+
+
+Jan 1	Jan 14	Monthly	
+
+RMP Safety Documentation.
+
+
+Jan 1	Jan 15	Monthly	
+
+Monthly Testing.
+
+
+Jan 1	Jan 28	Monthly	
+
+Monthly RMP Chlorine Equip. Inspection.
+
+
+Jan 1	Jan 4	2 Months	
+
+Test Chlorine Alarm.
+
+
+Jan 1	Jan 30	Yearly	
+
+RMP Process Hazard Analysis.
+
+
+Jan 1	Jan 31	Yearly	
+
+Update Daily Operator Reports for New Year.
+
+
+Jan 10	Jan 20	Monthly	
+
+Submit Monthly DMR.
+
+
+Jan 25	Jan 25	Monthly	
+
+Generator Fuel Usage to Fleet.
+
+
+Jan 25	Jan 25	Monthly	
+
+Read Mapleton Flow Meter.
+
+
+Feb 1	Feb 28	5 Years	
+
+RMP Submittal to EPA (2024,2029,2034).
+
+
+Feb 1	Feb 28	Quarterly	
+
+Drying Pad Metals.
+
+
+Feb 1	Feb 28	Quarterly	
+
+Quarterly Metals.
+
+
+Feb 1	Feb 28	Quarterly	
+
+Quarterly WET Test.
+
+
+Feb 1	Feb 28	Quarterly	
+
+Quarterly Chlorine Equipment Inspection.
+
+
+Feb 1	Feb 28	3 years	
+
+Internal RMP Audit (2023,2026,2029).
+
+
+Mar 1	Mar 30	Yearly	
+
+RMP Tier 2 Submittal to State, County, Local.
+
+
+Apr 1	Apr 10	Quarterly	
+
+Quarterly Metals DMR.
+
+
+Apr 1	Apr 10	Quarterly	
+
+Quarterly WET Test DMR.
+
+
+Jul 1	Jul 5	Yearly	
+
+Check on Average Eff. Phosphorus - 3.7 Max
+
+
+Jul 1	Jul 31	Yearly	
+
+TTO's.
+
+
+Dec 1	Dec 31	Yearly	
+
+Annual Chlorine Crane Inspection.
+
+Facility Maintenance Operator
+Start	Due	Frequency	Tasks
+Jan 1	Jan 1	2 Weeks	
+
+Plant SWPPP Inspection.
+
+
+Jan 1	Jan 15	Monthly	
+
+Mapleton Invoice.
+
+
+Jan 1	Jan 15	Yearly	
+
+Email Mapleton WWTP Expansion/New Regulation Capital
+Projects for Mapleton.
+
+
+Jan 1	Jan 30	30 Days	
+
+Treatment Plant Parts Inventory.
+
+
+Jan 1	Jan 30	Yearly	
+
+Invoice Mapleton 20% of WWTP Cap. Proj.
+
+
+Jan 25	Jan 30	Monthly	
+
+Mapleton Monthly O&M Invoice.
+
+Aerotors Basins Annual Tasks Calendar
+Jan 1	Jan 4	7 Days	
+
+Visual inspection of Aerotor Basins.
+
+
+Jan 1	Jan 4	7 Days	
+
+Clean aerotor DO sensors.
+
+
+Jan 1	Jan 15	30 Days	
+
+Grease aerotor motors.
+
+
+Mar 15	Mar 30	90 Days	
+
+Verify aerotor DO sensor readings.
+
+
+Jul 1	Jul 30	4 Years	
+
+Clean Aerotor Basin 1 (2023,2027), see Aerotor Basin Cleaning Procedure.
+
+
+Jul 1	Jul 30	4 Years	
+
+Clean Aerotor Basin 2 (2021,2025), see Aerotor Basin Cleaning Procedure.
+
+
+Jul 1	Jul 30	4 Years	
+
+Clean Aerotor Basin 3 (2024,2028), see Aerotor Basin Draining Procedure.
+
+
+Jul 1	Jul 30	4 Years	
+
+Clean Aerotor Basin Basin 4 (2022,2026), see Aerotor Basin Cleaning Procedure.
+
+
+Aug 1	Sept 30	Yearly	
+
+Change aerotor gearbox oil.
+
+Belt Press Building
+Jan 1	Jan 4	7 Days	
+
+Replace Belt Press Polymer System Filter.
+
+
+Jan 1	Jan 4	7 Days	
+
+Wash Down Belt Press and Frame.
+
+
+Jan 15	Jan 28	30 Days	
+
+Grease Belt Press Rollers, Bearings and Motors.
+
+
+Jan 15	Jan 28	30 Days	
+
+Grease and Exercise Belt Press Valves.
+
+
+Jan 15	Jan 28	30 Days	
+
+Check Belt Press Air Compressor Oil Level.
+
+
+Jan 15	
+
+Jan 28
+
+	30 Days	Check Belt Press Gearbox Oil Levels.
+Jan 1	Jan 28	6 Months	
+
+Deep Clean Belt Press Building.
+
+
+Apr 1	Apr 30	Yearly	
+
+Service Air Conditioner.
+
+
+Sept 1	Sept 30	Yearly	
+
+Service Heater.
+
+
+Nov 1	Nov 15	Yearly	
+
+Change Belt Press Air Compressor Oil.
+
+
+Nov 1	Nov 15	Yearly	
+
+Change Belt Press Belts, Seals and Broken Pieces as
+Needed.
+
+
+Nov 1	Nov 15	Yearly	
+
+Change Belt Press Gearbox Oils.
+
+Chlorine Storage Building
+Jan 1	Jan 28	6 Months	
+
+Clean Chlorine Storage Building.
+
+
+May 1	May 15	Yearly	
+
+Grease Chlorine Building Hoist Track and inspection Hoist.
+
+
+Sept 1	Sept 30	Yearly	
+
+Service Heater.
+
+Digester Control Building
+Jan 1	Jan 4	7 Days	
+
+Flush Digester Control Sump Pumps.
+
+
+Jan 1	Jan 28	30 Days	
+
+Contracted Boiler Service.
+
+
+Jan 15	Jan 28	30 Days	
+
+Check Digester Control Air Compressor Belts, Oil Level and Air Filters.
+
+
+Jan 15	Jan 28	30 Days	
+
+Check Digester Grinder Oil.
+
+
+Jan 15	Jan 28	30 Days	
+
+Check Water Level in Boiler System.
+
+
+Jan 15	Jan 28	30 Days	
+
+Grease Belt Press Feed Pump Packing.
+
+
+Jan 15	Jan 28	30 Days	
+
+Grease and Exercise Digester Control Valves.
+
+
+Jan 15	Jan 28	30 Days	
+
+Grease Sludge Circulation Pumps.
+
+
+Jan 1	Jan 28	6 Months	
+
+Clean Digester Control Building.
+
+
+Mar 1	Mar 31	Yearly	
+
+Spring Boiler PM Service and Tune.
+
+
+Sept 1	Sept 30	Yearly	
+
+Fall Boiler PM Service and Tune.
+
+
+Dec 15	Dec 31	Yearly	
+
+Change Digester Control Air Compressor Oil and Belts.
+
+
+Dec 15	Dec 31	Yearly	
+
+Change Digester Grinder Oil.
+
+
+Dec 15	Dec 31	Yearly	
+
+Inspect Digester Grinder Cutter Head and Blades.
+
+
+Dec 15	Dec 31	Yearly	
+
+Open, Clean and Inspect Heat Exchangers.
+
+Final Clarifiers
+Jan 1	Jan 15	30 Days	
+
+Check South Final Clarifier Drive Oil Level and Grease the
+Drive Chain.
+
+
+Jan 1	Jan 15	30 Days	
+
+Grease Final Clarifier RAS Gates and Splitter Box Gates.
+
+
+Jan 1	Jan 15	30 Days	
+
+Grease North Final Clarifier Drive.
+
+
+Jan 1	Jan 15	30 Days	
+
+Spray Down Clarifier Weirs.
+
+
+Jun 1	Jun 15	Yearly	
+
+Change South Final Clarifier Drive Oil.
+
+Headworks
+Jan 1	Jan 4	7 Days	
+
+Flush Headworks Sump Pump.
+
+
+Jan 1	Jan 4	7 Days	
+
+Spray Down Step Screens and Wash Presses.
+
+
+Jan 1	Jan 15	30 Days	
+
+Check Grit Blower Air Filters, Oil Levels, Belts.
+
+
+Jan 1	Jan 15	30 Days	
+
+Check Grit Screw Oil Level and Belt.
+
+
+Jan 1	Jan 15	30 Days	
+
+Check Wash Press Gearbox Oil Level.
+
+
+Jan 1	Jan 15	30 Days	
+
+Grease and Exercise Headworks Valves.
+
+
+Jan 1	Jan 15	30 Days	
+
+Grease Step Screens and Wash Presses.
+
+
+Jan 1	Jan 15	30 Days	
+
+Run Ice Through Wash Presses.
+
+
+Jan 1	Jan 28	6 Months	
+
+Clean Headworks Building.
+
+
+Jan 1	Jan 15	Yearly	
+
+Change Grit Blower Oil.
+
+
+Jan 1	Jan 15	Yearly	
+
+Change Grit Screw Gearbox Oil.
+
+
+Jan 1	Jan 15	Yearly	
+
+Change Wash Press Gearbox Oil.
+
+
+May 1	May 15	Yearly	
+
+Pump Out, Clean and inspect Grit Chamber.
+
+
+Sept 1	Sept 30	Yearly	
+
+Service Heater.
+
+Industrial Park Lift Station
+Jan 1	Jan 15	30 Days	
+
+Check Amperage on Each Pump.
+
+
+Apr 1	Apr 30	Yearly	
+
+Service Air Conditioner.
+
+
+Sept 1	Sept 30	Yearly	
+
+Service Heater.
+
+Intermediate Pump Station
+Jan 1	Jan 15	30 Days	
+
+Check Screw Pump Belts and Grease Feeder Level.
+
+
+Jan 1	Jan 15	30 Days	
+
+Check Screw Pump Oil Level.
+
+
+Jan 1	Jan 15	30 Days	
+
+Grease and Exercise Intermediate Pump Station Valves
+and Gates.
+
+
+Feb 1	Feb 28	6 Months	
+
+Clean Intermediate Pump Station.
+
+
+Apr 1	Apr 30	Yearly	
+
+Service Air Conditioner.
+
+
+Sept 1	Sept 30	Yearly	
+
+Service Heater.
+
+
+Oct 1	Oct 15	Yearly	
+
+Change Trickling Filter Pump and Screw Pump Oil.
+
+Jail Lift Station
+Jan 1	Jan 15	30 Days	
+
+Check Amperage on Each Pump.
+
+
+Apr 1	Apr 30	Yearly	
+
+Service Air Conditioner.
+
+
+Sept 1	Sept 30	Yearly	
+
+Service Heater.
+
+Power Distribution Building
+Feb 1	Feb 28	6 Months	
+
+Clean Power Distribution Building.
+
+
+Apr 1	Apr 30	Yearly	
+
+Service Air Conditioner.
+
+
+Sept 1	Sept 30	Yearly	
+
+Service Heater.
+
+Primary Clarifiers
+Jan 1	Jan 15	15 Days	
+
+Spray Down Primary Clarifier Weirs.
+
+
+Jan 1	Jan 15	30 Days	
+
+Check East Primary Clarifier Drive Oil Level and Grease 
+Drive Chain.
+
+
+Jan 1	Jan 15	30 Days	
+
+Grease Northwest and West Primary Clarifier Drives.
+
+
+Jul 1	Jul 15	Yearly	
+
+Change East Primary Clarifier Drive Oil.
+
+Primary Clarifier Pump Station
+Jan 15	Jan 28	30 Days	
+
+Check Primary Clarifier Pumps Belts and Oil Levels.
+
+
+Jan 15	Jan 28	30 Days	
+
+Grease and Exercise Clarifier Pump Valves.
+
+
+Feb 1	Feb 28	6 Months	
+
+Clean Primary Clarifier Pump Station.
+
+
+Feb 15	Feb 28	Yearly	
+
+Change Primary Clarifier Pump Gearbox Oil.
+
+
+Sept 1	Sept 30	Yearly	
+
+Service Heater.
+
+Primary Digester
+Jan 15	Jan 28	30 Days	
+
+Grease and Exercise Primary Digester Gas Valves.
+
+
+Jan 15	Jan 28	30 Days	
+
+Grease and Exercise Primary Digester Standpipe Valves.
+
+
+Jan 15	Jan 28	30 Days	
+
+Grease Linear Motion Mixer and Check Oil Level.
+
+
+May 15	May 30	Yearly	
+
+Change Linear Motion Mixer Oil.
+
+
+Jun 15	Jun 30	Yearly	
+
+Clean and inspect Primary Digester Flame Arrestors.
+
+Primary Sludge Pump Station
+Jan 1	Jan 4	7 Days	
+
+Flush Out Primary Sludge Sump Pump.
+
+
+Jan 1	Jan 15	30 Days	
+
+Check Primary Sludge Air Compressor Belts, Oil Level and Air Filters.
+
+
+Jan 1	Jan 15	30 Days	
+
+Check Primary Sludge Grinder Oil Level.
+
+
+Jan 1	Jan 15	30 Days	
+
+Check Primary Sludge Pump Oil.
+
+
+Jan 1	Jan 15	30 Days	
+
+Grease and Exercise Primary Sludge Valves.
+
+
+Jan 1	Jan 28	6 Months	
+
+Clean Primary Sludge Pump Station.
+
+
+Mar 1	Mar 15	Yearly	
+
+Change Primary Sludge Air Compressor Oil and Belts.
+
+
+Mar 1	Mar 15	Yearly	
+
+Change Primary Sludge Grinder Oil.
+
+
+Mar 1	Mar 15	Yearly	
+
+Change Primary Sludge Pump Oil and Check Amperage.
+
+
+Apr 1	Apr 30	Yearly	
+
+Service Air Conditioner.
+
+
+Sept 1	Sept 30	Yearly	
+
+Service Heater.
+
+Secondary Digesters
+Jan 15	Jan 28	30 Days	
+
+Grease and Exercise Secondary Digester Gas Valves.
+
+
+Jan 15	Jan 28	30 Days	
+
+Grease Secondary Digester Rollers.
+
+
+Jun 1	Jun 15	Yearly	
+
+Clean and Inspect Secondary Digester Flame Arrestors.
+
+Secondary Sludge Pump Station
+Jan 1	Jan 4	7 Days	
+
+Flush Secondary Sludge Sump Pump.
+
+
+Jan 15	Jan 28	30 Days	
+
+Check Pump Oil Level and Flow Rate.
+
+
+Jan 15	Jan 28	30 Days	
+
+Grease and Exercise Secondary Sludge Valves.
+
+
+Feb 1	Feb 28	6 Months	
+
+Clean Secondary Sludge Pump Station.
+
+
+Sept 1	Sept 15	Yearly	
+
+Change Secondary Sludge Pumps Gearbox Oil.
+
+
+Sept 1	Sept 30	Yearly	
+
+Service Heater.
+
+Shop
+Jan 1	Jan 28	6 Months	
+
+Clean Shop.
+
+
+Sept 1	Sept 30	Yearly	
+
+Service Heater.
+
+Spanish Fields Lift Station
+Jan 1	Jan 15	30 Days	
+
+Check Amperage on Each Pump.
+
+
+Apr 1	Apr 30	Yearly	
+
+Service Air Conditioner.
+
+
+Sept 1	Sept 30	Yearly	
+
+Service Heater.
+
+Thickener Building
+Jan 1	Jan 4	7 Days	
+
+Flush Thickener Polymer Pump/System with Mineral Oil.
+
+
+Jan 1	Jan 4	7 Days	
+
+Spray out Thickener Drum.
+
+
+Jan 1	Jan 15	30 Days	
+
+Check Thickener Flocking Motor Oil.
+
+
+Jan 1	Jan 15	30 Days	
+
+Check Thickened Sludge Pump Oil Level and Flow Rate.
+
+
+Jan 1	Jan 15	30 Days	
+
+Grease and Exercise Thickener Valves.
+
+
+Jan 1	Jan 15	30 Days	Grease Thickener Drum Motor and Check Gearbox Oil
+Level.
+Jan 1	Jan 15	30 Days	
+
+Test Thickener Eyewash.
+
+
+Feb 1	Feb 28	6 Months	
+
+Clean Thickener Building.
+
+
+Mar 1	Mar 15	Yearly	
+
+Change Thickened Sludge Pump Oil.
+
+
+Mar 1	Mar 15	Yearly	
+
+Change Thickener Flocking Motor Oil.
+
+
+Mar 1	Mar 15	Yearly	
+
+ Change Thickener Drum Oil.
+
+
+Sept 1	Sept 30	Yearly	
+
+Service Heater.
+
+Trickling Filter
+Jul 15	Jul 31	Yearly	
+
+Change Trickling Filter Bearing Oil.
+
+Utility Pump Building
+Jan 1	Jan 15	30 Days	
+
+Grease and Exercise Skimmer Valves.
+
+
+Jan 1	Jan 15	30 Days	Grease and Exercise Utility Pump Building Gates and
+Valves.
+Jan 1	Jan 15	30 Days	
+
+Grease Utility Pumps.
+
+
+Feb 1	Feb 28	6 Months	
+
+Clean Utility Pump Building.
+
+
+Sept 1	Sept 30	Yearly	
+
+Service Heater.
+
+Wastewater Treatment Plant Generator
+Jan 1	Jan 1	Weekly	
+
+Inspect and Fill Out Generator Inspection Form.
+
+
+Jan 1	Jan 1	Weekly	
+
+Ensure Automatic Exercise Occurs on Tuesday
+Mornings.
+
+
+Jan 26	Jan 26	Monthly	
+
+Report Fuel Usage to Fleet.
+
+Collection Inspection Operator
+Start	Due	Frequency	Tasks
+Thurs	Thurs	Weekly	
+
+Plug in Video Van Network Cable.
+
+
+Jan 1	Jan 1	7 Days	
+
+Camera Van Cleaning.
+
+
+Jan 1	Jan 1	30 Days	
+
+Disassemble and Clean Transporters.
+
+
+Jan 1	Jan 1	30 Days	
+
+Review As-built Map with Collection Cleaning Operator.
+
+
+Jan 1	Jan 1	30 Days	
+
+Review Sewer Video Progress.
+
+
+Jan 1	Jan 1	30 Days	
+
+Coordinate UDOT permits and traffic control for
+upcoming projects.
+
+
+Jan 1	Jan 2	30 Days	
+
+Review GNet Web Portal Home Screen.
+
+
+Jan 1	Jan 4	30 Days	
+
+Check on Progress of City Projects.
+
+
+Jan 1	Jan 4	30 Days	
+
+QC Sewer Inspection Videos.
+
+
+Jan 1	Jan 15	Bi-Annually	
+
+Review Wastewater Inspection Dashboard with the Division Manager.
+
+
+Jan 1	Jan 30	Yearly	
+
+Check Ensign Bickford Development and Collect fees per Agreement.
+
+
+Jan 11	Jan 14	30 Days	
+
+Review/Revise Construction Standards.
+
+
+Feb 1	Feb 15	60 Days	
+
+Review Budget.
+
+
+May 1	May 31	180 Days	
+
+Update Utility Replacement CIP Map.
+
+
+Jun 1	Jun 30	Yearly	
+
+Root Treatment Bid.
+
+
+Sept 1	Nov 30	Yearly	
+
+CDBG Grant.
+
+
+Dec 1	Dec 31	Yearly	
+
+Review and Update Wastewater Management Plan.
+
+Pretreatment Coordinator
+Start	Due	Frequency	Tasks
+Jan 1	Feb 19	Yearly	
+
+Annual Biosolids Report.
+
+
+Jan 1	Jan 15	Quarterly	
+
+SIU Quarterly Reports.
+
+
+Feb 20	Mar 28	Yearly	
+
+Annual Pretreatment Report.
+
+
+Mar 1	Mar 15	Yearly	
+
+Weed Control.
+
+
+Apr 1	Apr 30	Yearly	
+
+MCF Pretreatment Inspection.
+
+
+May 1	May 31	Yearly	
+
+PCC Aerospace Pretreatment Inspection.
+
+
+Jun 1	Jun 30	Yearly	
+
+Hydro Pretreatment Inspection.
+
+Collection Cleaning Operator
+Start	Due	Frequency	Tasks
+Jan 1	Jan 1	7 Days	
+
+Manhole Checks.
+
+
+Jan 1	Jan 1	7 Days	
+
+Review Sewer Cleaning Progress.
+
+
+Jan 1	Jan 2	7 Days	
+
+Lift Station Checks.
+
+
+Jan 1	Jan 7	7 Days	
+
+Check Jet Truck Maintenance Log.
+
+
+Jan 1	Jan 15	30 Days	
+
+Sweep and Spray out Lift Station Buildings.
+
+
+Jan 1	Jan 15	Bi-Annually	
+
+Review Wastewater Cleaning Dashboard with Division
+Manager.
+
+
+Jan 1	Jan 30	30 Days	
+
+Check Spare Parts Inventory.
+
+
+Jan 1	Jan 30	30 Days	
+
+Check Equipment Inventory.
+
+
+Jan 1	Jan 30	Yearly	
+
+Plan Cleaning Schedule for the Year.
+
+
+Jan 15	Jan 30	5 Years	
+
+Bid Out Mapleton Trunkline Cleaning and Video Inspection (2020,2025,2030).
+
+
+Feb 1	Feb 15	6 Months	
+
+Change 4" pump oil.
+
+
+Apr 1	Apr 30	6 Months	
+
+Clean Siphon Under the River.
+
+
+Apr 1	Apr 30	6 Months	
+
+Clean Jail Lift Station Wet Well.
+
+
+Apr 1	Apr 30	6 Months	
+
+Clean Spanish Fields Lift Station Wet Well.
+
+
+Apr 1	Apr 30	6 Months	
+
+Clean Industrial Lift Station Wet Well.
+
+
+Apr 1	Apr 30	30 Days	
+
+Cockroach Control 500 S 1500 E - 1600 E.
+
+
+Aug 1	Aug 10	Yearly	
+
+Change 4" pump air filter.
+
+4.80.120 Equipment Procedure
+Camera Van
+Jet Trucks
+Loaders
+PH Probe
+Wastewater Treatment Plant Generator
+General Pump Safety
+4" Portable Pump
+6" Portable Trailer Pump
+Roll-Off Truck
+
+
+
+
+
+Train employees on the following as applicable before allowing them to work on each piece of equipment. Track scheduled maintenance in the annual tasks calendar.
+
+Place a written copy of the appropriate individual procedure in each piece of equipment. If borrowing equipment from other divisions refer to the following division procedures for that equipment.
+
+
+
+Power and Light Division Equipment Procedures
+
+Streets and Storm Water Division Equipment Procedures
+
+Water Division Equipment Procedures
+Fleet Division Equipment Procedures
+
+
+Approved March 3, 2022
+
+
+
+
+Camera Van
+Pre-trip Inspection
+Walk around visual inspection.
+
+Check fluids.
+
+Check tires.
+
+Safety vests/equipment.
+
+Report any damage with an Immediate Action Form.
+
+Fill out Vehicle Service Request for needed repairs and report to supervisor.
+
+Job Site
+
+Run diagnostic on transporter and camera.
+
+Traffic control.
+
+Safety lights.
+
+Always wear PPE.
+
+Confined space permit.
+
+Camera equipment operation.
+
+Wash transporter and camera every time it is removed from the manhole.
+
+Post Trip Maintenance
+
+Top off fuel.
+
+Clean inside of cab and operator area.
+
+Plug in power cord.
+
+Plug in network cable on Thursdays.
+
+Report any damage with an Immediate Action Form.
+
+Fill out Vehicle Service Request for needed repairs.
+
+Scheduled Maintenance, see Collection Inspection Operator Annual Tasks Calendar.
+
+Wash and clean the inside and outside of the Van every 7 days.
+
+Disassemble and clean the transporters every 30 days.
+
+Troubleshooting
+
+Check configuration screen.
+
+Camera on before GraniteNet software.
+
+Jet Trucks
+Pre-Trip Inspection
+
+Class B CDL with tanker endorsement required for driver.
+
+Walk around inspection.
+Check all hydraulic lines, air lines, and material lines for cracking or leakage.
+Hose Reel Locked.
+Lights and Tire Pressure (visual only).
+Report any damage with an Immediate Action Form.
+Fill out Vehicle Service Request for needed repairs and report to supervisor.
+
+Check and top off all fluids (gas, oil, water, def and hydraulic).
+
+Load PPE and traffic control equipment.
+
+Nozzle selection and size.
+
+Test PTO by cycling master switch.
+
+Debris body down. 
+If driving or operating in temperatures below 50 degrees activate Cold Weather Recirculator.
+
+Activate Jet or Combo Mode.
+
+Connect desired water circuit to recirculate.
+
+Activate Rodder Pump valve at side controls.
+
+Activate Rodder Pump at front controls.
+
+Press Recirc Mode button. (Recirc Mode is active when light stops flashing.)
+Job Site
+
+Warning Lights, PPE, and Traffic Control
+
+Set mode to Jet or Vac.
+
+Always keep at least one water valve on (up is on).
+
+Shoot the nozzle upstream.
+
+Check the bubble-up map.
+
+Don’t exceed 2500 psi.
+
+Prevent slack in the jet hose to avoid injury.
+
+Inspect hoses throughout the day for signs of wear.
+
+Don’t stop nozzle in the pipe, keep constant motion either forward or backward.
+
+Log cleaning in tracking application.
+
+Post-Trip Maintenance
+
+Top-off fuel.
+
+Pressure wash. 
+
+Clean the debris body out (run the body washout).
+
+Clean fan housing if vac was used.
+
+Drain water and cyclone filters. 
+
+Leave debris tank open and lifted off vacuum hose.
+
+Drain water tanks.
+
+Winterize jet truck if it will be stored outside in temperatures below 40 degrees.
+
+Complete the following Drain Checklist.
+
+
+
+
+
+Purge the system using Air Purge if possible. If Air Purge is not working, use the Pump Purge option below. Do the following for an Air Purge.
+Start engine chassis.
+Remove nozzle from rodder hose and secure end of rodder hose to prevent uncontrolled movement of hose when purging.
+Make sure the purge system ball valve is off.
+Place the fill reservoir ball valve in the on position.
+Fill the auxiliary air tank to 100 psi.
+Place the fill reservoir ball valve in the off position, then place the purge system ball valve to the on position.
+Repeat  steps (C) through (F) until all water is purged out of system.
+Turn on rodder valve and purge until no water is spraying out of rodder hose. Close valve and move onto other water options such as handgun, hydro ex, and body wash out.
+When all purging is complete place the fill reservoir and purge system ball valves in the off position.
+Leave all drains open and plugs removed from water system and stored in toolbox
+If cannot complete Air Purge than complete the following System Purge Checklist.
+
+
+Air Purge the Vanguard system by opening the drain valves and turning the Air Purge Switch to on.
+
+Have mechanics review winterizing.
+
+Report any damage with an Immediate Action Form.
+
+Fill out Vehicle Service Request for needed repairs and report to supervisor.
+
+Maintenance Schedule, see Annual Calendar for Collection Cleaning Operator. Note maintenance on Wastewater Jet Truck Maintenance Log. 
+
+Check system fluids and air filter every 7 days.
+
+Drain brake air line tanks every 7 days. 
+
+Clean water filters every 40 hours.
+
+Grease truck every 80 hours.
+
+Rotate suction tube every 60 days.
+
+Troubleshooting
+
+If water is not spraying when engaged, check to see if  the correct valve is open or if out of water.
+
+Air gap on debris body.
+
+Check function vac or jet.
+
+Turn off exhaust brake.
+
+Loaders
+Pre-Trip Inspection 
+
+Walk around visual inspection.
+
+Lights and Tire Pressure (visual only).
+
+Check all hydraulic lines for cracking or leakage.
+
+Check and top off all fluids (diesel, oil, def and hydraulic).
+
+Teeth and cutting edges are inspected for wear.
+
+Pins on buckets inspected for wear.
+
+Report any damage with an Immediate Action Form.
+
+Fill out Vehicle Service Request for needed repairs.
+
+Operation:
+
+Startup and control panel.
+
+Parking brake.
+
+Bucket/fork operation.
+
+Driving operation.
+
+Operating around people, powerlines, or other safety hazards.
+
+Post-Trip
+
+Park with bucket lowered to ground and parking brake set.
+Report any damage with an Immediate Action Form.
+
+Fill out Vehicle Service Request for needed repairs.
+
+PH Probe
+Maintenance Schedule, see Annual Calendar for the Plant Operations Operator. 
+
+Clean pH probe every 7 days.
+
+Calibrate pH probe every 7 days or more often if necessary.
+
+PH Probe Cleaning
+
+Soak probe in cleaning solution for 5 minutes and rinse with distilled water.
+
+Heat pH 4 buffer solution to 50 degrees celsius. Soak probe in solution for 1 to 2 hours and rinse with distilled water.
+
+Fill probe cap with HACH storage solution and place on probe.
+
+PH Probe Calibration
+
+Press calibration button.
+
+Rinse probe with distilled water before and after placing in each buffer solution. 
+
+Read each individual buffer solution separately and ensure readings are within the specifications of table below (+/- 30 mV).
+
+   Buffer Solution           Millivolts
+
+
+pH 4
+
+	177
+
+
+pH 7
+
+	0
+pH 10	
+
+-177
+
+Once complete press done and store.
+
+Wastewater Treatment Plant Generator
+
+Weekly Inspection see Facility Maintenance Operator Annual Tasks Calendar.
+
+
+Inspect and fill out Generator Inspection Form weekly.
+
+Ensure automatic exercise run occurs on Tuesday mornings.
+
+Fill out Vehicle Service Request for needed repairs.
+
+Report fuel usage to fleet monthly.  
+
+General Pump Safety
+
+Use the following guidelines for safely operating and maintaining pump equipment.
+
+
+Proper clothing.
+
+Suction end vs discharge end.
+
+Valves open before turning pump on.
+
+Do not isolate a section of pipe or equipment for more than 24 hours if filled with wastewater. 
+
+To work on a pump:
+
+Turn off power using lock out tag out procedures. 
+
+Turn off seal water line if applicable.
+
+Close suction and discharge valves.
+
+Slowly open relief valve to release pressure.
+
+4" Portable Pump
+Pre-Use Inspection
+
+Walk around visual inspection.
+
+Check fuel and oil.
+
+Check suction and discharge hoses for damage.
+
+Fill prime bowl with clean water.
+
+Make sure the gas tank and refueling cans are full.
+
+Report any damage with an Immediate Action Form.
+
+Fill out Vehicle Service Requests for needed repairs.
+
+Job Site
+
+Warning Lights, PPE, and Traffic Control.
+
+Notify those affected by bypass pumping.
+
+Ensure gasketed joints are secured properly.
+
+Monitor discharge and suction rate.
+
+Troubleshooting (Manufacturer's Maintenance Instruction)
+
+Post-Use Maintenance
+
+Top off fluids if needed.
+
+Store gaskets in a safe place.
+
+Drain excess water from the pump casing.
+
+Report any damage with an Immediate Action Form.
+
+Fill out Vehicle Service Request for needed repairs.
+
+Scheduled Maintenance, see Collection Cleaning Operator Annual Tasks Calendar
+
+Change oil every 6 months.
+
+Replace Air Filter every year.
+
+6" Portable Trailer Pump
+Pre-Use Inspection
+
+Walk around visual inspection
+
+Check fluids (fuel, oil and coolant).
+
+Check belts and battery.
+
+Check tires, hitch and signal lights.
+
+Check suction and discharge hoses for damage.
+
+Report any damage with an Immediate Action Form.
+
+Fill out Vehicle Service Request for needed repairs.
+
+Job Site
+
+Notify those affected by bypass pumping
+
+Hoses have gaskets and are secured properly.
+
+Traffic control/property access.
+
+Monitor discharge and suction rate.
+
+Post-Use Maintenance
+
+Top off fluids if needed.
+
+Store gaskets in a safe place.
+
+Drain excess water from pump casing.
+
+Roll-Off Truck
+Pre-trip Inspection
+
+Class B CDL. 
+
+Walk around Visual Inspection
+
+Check all fluids (fuel, oil, coolant, def and hydraulic).
+
+Check all tires for pressure and wear.
+
+Check brakes for proper adjustment.
+
+Check hook controls.
+
+Check all warning lights are working properly.
+
+Inspect mud flaps.
+
+Report any damage with an Immediate Action Form.
+
+Fill out Vehicle Service Request for needed repairs.
+
+Job Site
+
+Mirrors are adjusted properly.
+
+Roll-off container resting on the frame and locked in place.
+
+Tailgate is closed and locked. 
+
+Hauled material is cleaned off before leaving the work area.
+
+Post-Trip Maintenance
+
+Top off all fluids.
+
+Grease all necessary components.
+
+Check all hydraulic lines and rams for leaks.
+
+Clean out roll-off container as needed. 
+Clean inside of cab.
+
+4.80.140 Frequently Asked Questions (FAQs) Procedure
+
+Listed in order of frequency. Post FAQs on the Wastewater Questions and Requests Website.
+
+What do I do if I have a sewer back up?
+Turn off everything in the house that is using water. If water stops rising, call a plumber, otherwise call the Sewer Department at (801) 804-4443.
+
+Who is responsible for maintaining a sewer lateral?
+Residents are responsible to clean their sewer laterals all the way to the main line in the road. If the lateral is damaged the resident is only responsible for the sewer lateral repair from the sidewalk to the home. See Sewer Lateral Exhibit. The City will arrange for all work to be paid for by the City. City will not reimburse residents for any work they have done. Non-residential properties are responsible for everything to the main line. See Title 13.04.030H.
+
+My toilet bubbled up.
+This can briefly happen when the City cleans the lines in the street, generally once every 4 years. Please call (801) 804-4443 to report this whenever it happens.
+
+I have sewer smells in my house.
+This usually occurs when p-traps dry up. Run water into all the drains of your home to refill the p-traps.
+
+The manhole lid is making loud noises when cars drive over it.
+Manhole lids can rock and cause loud noises as they wear down over time. To report a manhole concern, please call (801) 804-4443.
+
+What is a sewer cleanout, lateral and main line?
+Please see the Sewer Lateral Exhibit.
+
+Septic tank questions and permit? (Also in Wastewater FAQs)
+Spanish Fork City Municipal Code 13.24.040 Septic Tanks and The Private Disposal of Wastewater requires a minimum 5 acre lot size and City Engineer approval for new septic tanks. New septic tanks are not allowed in any area where existing City sewer lines are close. Septic tank installation is regulated by Utah County (801) 851-8000.
+
+Approved 11/14/2019
+
+4.80.260 Bubble Ups Procedure
+
+Enter known bubble ups into the ArcGIS Collector Cleaning App. Prior to cleaning a sewer line, use the Cleaning App to locate any bubble up areas. If a bubble up area is indicated do the following:
+
+If possible, notify homeowner of cleaning in the area.
+Use 40 gpm nozzles and operate at lower psi (1000-1200 psi).
+Turn the payout speed dial to a low setting.
+
+Approved March 30, 2020
+
+
+
+
+
+4.80.440 Hazardous Waste Notification Procedure
+
+All business license and non-residential building permits fill out the Pretreatment Questionnaire. The Pretreatment Coordinator then provides all Industrial Users which may handle hazardous waste a copy of the RCRA Information Brochure and the Fact Sheet for Hazardous Waste Reporting Requirements for Industrial Users.
+
+Revised December 14, 2021
+
+
+
+
+
+4.80.600 Manhole Inspection Policy
+
+All wastewater manholes shall be inspected once every four (4) years, if possible. Inspection shall be documented in the Wastewater Manholes Inspection Dashboard.
+
+Approved by Administrative Order 04-21 - June 14, 2021
+
+
+4.80.730 Public Notification Of Maintenance Activities Procedure
+
+Door hangers should be used for public notification of sewer maintenance activities in areas where parking on narrow streets restricts manhole access. Door hangers should be placed a minimum of 24 hours before maintenance activities using the Wastewater Maintenance Door Hanger.
+
+Approved July 20, 2020
+
+
+
+
+
+4.80.780 Root Control Policy
+
+All wastewater collection lines containing medium roots, ball roots, or tap roots, according to NASSCO PACP standards, shall be chemically treated once every three (3) years, if possible. Treatment history will be documented in the mapping system.
+
+Revised by Administrative Order 06-20 - June 2, 2020
+
+
+4.80.880 Tailgate Safety Meeting Procedure
+
+Prior to starting any hazardous work, the project team will hold a tailgate safety meeting discussing the following topics. Document the meeting using the Tailgate Safety Meeting Form. 
+
+Type of Work.
+Confined Space
+Excavation 
+Hot Work
+Lockout/Tagout
+Hazard Identification and Control.
+Backing
+Confined Spaces
+Communication
+Fall Protection
+First Aid
+Hazardous Atmosphere
+Lifting
+Noise Exposure
+Overhead Hazards
+Traffic Control
+Trenching and Excavation
+Uneven Terrain
+Utilities/Bluestakes
+OSHA regulations regarding the work being performed.
+PPE.
+Appropriate Clothing
+Dust Masks
+Eye/Face Protection
+Foot Protection
+Gloves
+Hard Hat
+Hearing Protection
+Traffic Vests
+Emergency contacts.
+
+Approved June 7, 2021
+
+
+
+
+
+4.80.920 Video Inspection Policy
+
+All wastewater collection lines shall be video inspected once every seven (7) years, if possible. Inspections shall be documented in the mapping system.
+
+Revised by Administrative Order 06-20 - June 2, 2020
+Related:  Wastewater Video Inspection Dashboard
+
+
+4.80.950 Wastewater Collection Cleaning Policy
+
+All wastewater collection lines shall be cleaned once every four (4) years, if possible. Cleaning shall be documented in the mapping system.
+
+Revised by Administrative Order 06-20 - June 2, 2020
+Related:  Wastewater Cleaning Dashboard

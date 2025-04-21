@@ -1,0 +1,1295 @@
+4.90 Water
+4.90.110 Annual Tasks Calendar Procedure
+4.90.120 Equipment Procedure
+4.90.140 Frequently Asked Questions (FAQs) Procedure
+4.90.220 Agricultural Pressurized Irrigation Policy
+4.90.380 Fire Hydrant Deficiencies Policy
+4.90.470 Hydrant Use Procedure
+4.90.480 Hydrant Use Permits Procedure
+4.90.580 Leak Detection Policy
+4.90.610 Meter Lid Inspections Procedure
+4.90.680 On-Call Daily Rounds Procedure
+4.90.710 Pressurized Irrigation Reimbursement Policy
+4.90.730 Private Water Lines Policy
+4.90.770 Residential Sprinkler Controller Program Procedure
+4.90.930 Valve And Hydrant Exercising Policy
+4.90.950 Water Leak Refund Policy
+4.90.960 Water Rights Policy
+
+
+4.90.110 Annual Tasks Calendar Procedure
+Water Division Manager
+Assistant Water Division Manager
+Source Protection Foreman
+Reservoirs And Springs Operator
+Water Quality Operator
+Pumps, Filters, And Wells Operator
+AMI Operator
+Hydrants Operator
+
+
+
+
+
+Set annual calendar items as recurring tasks in task management software.
+
+Water Division Manager
+Start	Due	Frequency	
+
+Tasks
+
+
+
+
+Jan 1
+
+	Jan 31	Every 4 
+Months	
+
+Update employee evaluation Key Indicators and conduct
+evaluations.
+
+
+1st Tue	Wed	Every Tue	
+
+Review and approve Stampli invoices.
+
+
+Jan 1	Jan 10	Every 3 Months	Check training and certifications in the Emp Tab, plan for
+orange and resolve red.
+Jan 15	Jan 31	Bi-Annually	Review Water Breaks Dashboard with Assistant Division
+Manager and PWD.
+Jan 15	Jan 31	Bi-Annually	Review Leak Detection Dashboard with Assistant Division
+Manager and PWD.
+Mar 1	Mar 5	Annually	Review Citywide Emergency Procedure.
+Mar 1	Mar 30	Every 4 Months	Review Fuel Reports.
+Jun 1	Jul 1	Annually	A Copy of the CCR Report for the Previous Calendar year
+Must be Distributed to Customers and Submitted to Division of Drinking Water.
+
+Sept 1	Sept 30	Annually	Have Public Works Executive Asst send SUVMWA letter request for additional ULS water and draft SUVMWA to DOI letters to SUVMWA.
+
+Sept 1	Sept 30	Annually	Have Public Works Director get letter requesting SVPdelivery through the ULS pipeline approved in City Council, mayor sign and send to DOI.
+
+Jun 1	Oct 1	Annually	Certification Letter Regarding the Previous Year's CCR Must be Submitted to Division of Drinking Water.
+
+Jul 1	Oct 31	Yearly	Prepare Annual Report.
+Assistant Water Division Manager
+Start	Due	Frequency	Tasks
+Jan 1	Jan 15	6 Months	Email PWD meter lid inspection progress map for July -
+December.
+http://suvgismaps.spanishfork.org/appssf/USFC-WaterMaintenanceViewer/
+
+Jan 1	Jan 15	6 Months	Review and Update website.
+Jan 1	90 Days	Quarterly	Division of Drinking Water Quarterly Reports.
+Feb 1	Feb 15	Annually	Water Use-Utah Division of Water Rights.
+Feb 1	Feb 15	Annually	Water (PI) Use-Utah Division of Water Rights.
+Apr 30	Jun 1	Annually	Find out when on charge from the river commissioner.
+May 1	May 31	6 Months	Update Utility Replacement CIP Map.
+Sept 1	Nov 30	Annually	CDBG Grant.
+Sept 20	Oct 30	Annually	Verify Off Charge & Start Exercising Program.
+Jan 1	Feb 15, 2026	5 Years	Certify Risk and Resilience Assessment and Emergency Response
+Plan (America's Water Infrastructure Act/EPA).
+Nov 1	Nov 15	Annually	Update Utility Replacement Priority Overlay Maps.
+Nov 1	Nov 20	Annually	207 Report CUWCD Original PI grant.
+Nov 30	Dec 15	Annually	CUWCD Report Application #01338586-1 Meter upgrades and
+smart controllers.
+
+Nov 30	Dec 15	Annually	CUWCD Report Application #825 (Irrigation System).
+Dec 31	2021	3 Years	Sanitary Water Survey.
+Source Protection Foreman
+Start	Due	Frequency	Tasks
+Jan 1	90 Days	Quarterly	Update and Organize Inventory.
+Mar 1	Mar 15	3 Years	SCADA Computer Replacement.
+Mar 1	Mar 31,
+2023	
+
+5 Years
+
+	Budget for Source Protection Plan.
+Mar 15	90 Days	Quarterly	Water Main Breaks Map Update.
+Apr 1	2023	5 Years	Update Drinking Water Source Protection (DWSP) Plan
+for Wells.
+Apr 1	2023	5 Years	Updated Drinking Water Source Protection (DWSP)
+Plant for Springs.
+May 15	May 30	Annually	SCADA Inspections at each site.
+Jun 1	Jun 15	Annually	SCADA Software Update.
+Jun 1	Jun 15	Semi-Annually	Hydrant and Valve Progress Maps.
+Jul 1	90 Days	Quarterly	Hydrant and Valve Inspections Progress Maps (*Add File Location) Q:/Admin & Fin - PW/Quarterly Reports - PW/Water - QR/Valve & Hydrant Exercising.
+
+Apr	Aug	Annually	Inspect air conditioning on SCADA building.
+Dec 1	Dec 15	Annually	Water Leak Detection Update.
+Reservoirs And Springs Operator
+Start	Due	Frequency	Tasks
+
+
+Jan 1
+
+	Jan 15	Monthly	Read Gauge on both Weirs at Butler Springs.
+Jan 1	90 Days	Quarterly	Visually inspect collection boxes and test for pathogens.
+Feb 10	Feb 25	Quarterly	Source Maintenance and Protection.
+Mar 1	Mar 15	Annually	Rodent Removal @ PI Reservoir.
+Mar 1	Mar 30	Annually	Budget with DM/ADM, Schedule for 3rd party to clean and inspect every 5 years.
+Apr 1	365 Days	Annually	Butler Springs Maintenance (Springs and Pond).
+May 1	May 31	Annually	Inspect and make necessary repairs to fences, hatches, signs, and vents for Upper & Lower Cold Springs, Upper and Lower Crab Creek Springs & Malcomb Springs.
+
+May 1	May 31	Annually	Inspect yard light, SCADA, hatches, weather proof seals, air vents and signage at Sterling Hollow tanks, Malcomb tank and Oaks tanks.
+
+May 1	May 31	Annually	Inspect facility and pipeline access routes and regrade as needed for Upper & Lower Cold Springs, Upper and Lower Crab Creek Springs & Malcomb Springs.
+
+
+
+Jun 1
+
+	Jul 31	Annually	Remove all deep-rooted vegetation within fences and 6 feet outside fences for Upper & Lower Cold Springs, Upper and Lower Crab Creek Springs & Malcomb Springs.
+
+
+
+Jun 1
+
+	Jun 30	Annually	Mow as needed within the fenced areas as needed, remove all deep rooted vegetation at Sterling Hollow tanks, Malcomb tank and Oaks tanks.
+
+Jul 31	Jul 31	Annually	Annual Dam Inspection (DNR) PI Reservoir.
+Sept 1	30 Days	Monthly	Read Gauge on both Weirs at Butler Springs.
+Sept 30	90 Days	Quarterly	Check Monitoring points @ PI Reservoir.
+
+Oct 1	Oct 31	Annually	Phragmite Removal Program (Canyon Creek, Wetlands Preserve, W Legacy Farms Park, SF River Trail, North Park, Butler Springs Pond, Airport Mitigation Site, I-15 Main St detention basin) Get help from Parks & Streets & Storm.
+
+Jan 1	Dec 31	5 Years	
+
+Drain tanks for cleaning and inspection:
+
+125,000 gallon old tank - 2021
+125,000 gallon new tank - 2022
+5 million gallon - 2022
+3 million gallon - 2023
+1 million gallon - 2024
+2 million gallon - 2025
+
+Water Quality Operator
+Start	Due	Frequency	Tasks
+Jan 1	Jan 28	Monthly	
+
+40 Routine Samples.
+
+
+Jan 1	Jan 28	Monthly	
+
+Chlorine Residual Monitoring.
+
+
+Jan 1	Dec 31	Annually	
+
+Nitrate, Crab Creek. (SS240).
+
+
+Jan 1	Dec 31	
+
+3 Years 2022
+
+	SS240 Inorganics & Metals.
+Jan 1	Dec 31	3 Years 2022	
+
+SS240 Sulfate, Sodium, TDS.
+
+
+Jan 1	Dec 31	3 Years 2022	
+
+SS240 Volatile Organics.
+
+
+Jan 1	Dec 31	6 Years 2025	
+
+SS240 Rads-Compliance.
+
+
+Jan 1	Dec 31	3 Years 2022	
+
+SS340 Inorganics & Metals.
+
+
+Jan 1	Dec 31	3 Years 2022	
+
+SS340 Sulfate, Sodium, TDS.
+
+
+Jan 1	Dec 31	3 Years 2022	
+
+SS340 Volatile Organics.
+
+
+Jan 1	Dec 31	6 Years 2022	
+
+SS340 Rads-Compliance.
+
+
+Jan 1	Dec 31	3 Years 2022	
+
+WS002 Inorganics & Metals.
+
+
+Jan 1	Dec 31	3 Years 2022	
+
+WS002 Sulfate, Sodium, TDS.
+
+
+Jan 1	Dec 31	3 Years 2022	
+
+WS002 Volatile Organics.
+
+
+Jan 1	Dec 31	6 Years 2025	
+
+WS002 Rads-Compliance.
+
+
+Jan 1	Dec 31	3 Years 2022	
+
+WS014 Inorganics & Metals.
+
+
+Jan 1	Dec 31	3 Years 2022	
+
+WS014 Sulfate, Sodium, TDS.
+
+
+Jan 1	Dec 31	3 Years 2022	
+
+WS014 Volatile Organics.
+
+
+Jan 1	Dec 31	6 Years 2025	
+
+WS014 Rads-Compliance.
+
+
+Jan 1	Dec 31	3 Years 2022	
+
+WS015 Inorganics & Metals.
+
+
+Jan 1	Dec 31	
+
+3 Years 2022
+
+	WS015 Sulfate, Sodium, TDS.
+Jan 1	Dec 31	
+
+Annually
+
+	WS015 Volatile Organics.
+Jan 1	Dec 31	
+
+6 Years 2025
+
+	WS015 Rads-Compliance.
+Jan 1	Jan 31	
+
+Annually
+
+	Update Sample Site Plan.
+Jan 1	Jan 31	
+
+3 Years 2022
+
+	Lead & Copper Site Plan.
+Jan 1	 Mar 30	
+
+Quarterly
+
+	PRV Checks.
+Feb 1	Feb 28	
+
+Annually
+
+	BSI (Back Flow) Compliance Check.
+Apr 1	Jun 30	
+
+3 Years 2022
+
+	SS240 Pesticides.
+Apr 1	Jun 30	
+
+3 Years 2022
+
+	SS340 Pesticides.
+Apr 1	Jun 30	
+
+3 Years 2022
+
+	WS002 Pesticides.
+Apr 1	Jun 30	
+
+3 Years 2022
+
+	WS014 Pesticides.
+Apr 1	Jun 30	
+
+3 Years 2022
+
+	WS015 Pesticides.
+Jun 1	2022	
+
+3 Years
+
+	Lead and Copper Samples.
+Jun 1	Sept 30	
+
+3 Years 2022
+
+	DS001 Lead & Copper.
+Jul 1	Jul 30	
+
+As per EPA
+
+	UCMR.
+Jul 1	Aug 31	
+
+Yearly
+
+	MR001-MD001 Disinfect Byproducts Stage 2 Monitoring.
+Jul 1	Sept 30	
+
+3 Years 2022
+
+	SS240 Pesticides.
+Jul 1	Sept 30	
+
+3 Years 2022
+
+	SS340 Pesticides.
+Jul 1	Sept 30	
+
+3 Years 2022
+
+	WS002 Pesticides.
+Jul 1	Sept 30	
+
+3 Years 2022
+
+	WS014 Pesticides.
+Jul 1	Sept 30	
+
+3 Years 2022
+
+	WS015 Pesticides.
+Jul 15	2022	
+
+3 Years (2019/2022)
+
+	Lead and Copper results to residents where the sample was collected within 30 days.
+Jul 15	2022	
+
+3 Years
+
+	Lead and Copper Certification form to DDW.
+Pumps, Filters, And Wells Operator
+Start	Due	Frequency	Tasks
+Jan 1	Jan 1	Monthly	
+
+Source Readings.
+
+
+Jan 1	Jan 30	Annually	
+
+Change keycode on buildings with keypad.
+
+
+Jan 1	Jan 30	Annually	
+
+Inspect vents and chutes on all chlorinators.
+
+
+Jan 1	Jan 30	Annually	
+
+Inspect signage for chemicals and fasteners that prevent chemicals from tipping.
+
+
+Jan 1	Jan 30	Annually	
+
+Replace fire extinguishers in all buildings.
+
+
+Jan 1	Jan 30	Annually	
+
+Inspect and maintain boulders around the fence
+perimeter of Cold Springs.
+
+
+Jan 1	Feb 20	Annually	
+
+PI Filter Rebuild.
+
+
+Jan 1	90 Days	Quarterly	
+
+Building Maintenance/Inspections.
+
+
+Mar 13	Mar 15	Annually	
+
+Record Static Well Level in Water Reports.
+
+
+Mar 15	Apr 15	Annually	
+
+Dewinterize Pump Houses.
+
+
+Mar 25	Mar 31	Annually	
+
+Give PW Administrative Coordinator a date when the City will start filling the PI System.
+
+
+Apr 15	May 1	Annually	
+
+Start up PI System.
+
+
+May 1	May 31	Annually	
+
+Inspect the outside perimeter of fencing, gates, and barb wire as well as the exterior of the building, chemical signage and chlorine vents with proper screens for Crab Creek, Cold Springs, Malcomb Spring Chlorinators.
+
+
+May 1	May 31	Annually	
+
+Inspect within the building vents, chutes, chlorine alarm, SCADA door(s) indicator, yard light, fire extinguisher, and fasteners that prevent the chemicals from tipping for Crab Creek, Cold Springs, Malcomb Spring Chlorinators.
+
+
+May 1	May 31	Annually	
+
+Review and make necessary corrections/updates to the emergency contacts & response plan for chlorine leaks for Crab Creek, Cold Springs, Malcomb Springs Chlorinators.
+
+
+May 1	May 31	Semi Annual	
+
+Inspect Collection boxes in May and in October, test for pathogens as required from the DDW monitoring schedule @ Cold Springs and Malcomb Spring Pump Houses.
+
+
+May 1	May 31	Annually	
+
+Inspect and make necessary repairs to fences, fire extinguisher, hatches, SCADA door indicators, signs, vents, and yard lights at Cold Springs, Malcomb Spring, Malcomb Booster Pump House, Oaks Booster Pump House, Canyon Road Well and Canyon Elementary Well.
+
+
+May 1	May 31	Annually	
+
+Inspect air conditioning on Scada building.
+
+
+Oct 1	Oct 31	Semi Annual	
+
+Inspect Collection boxes in May and in October, test for pathogens as required from the DDW monitoring schedule @ Cold Springs and Malcomb Spring Pump Houses.
+
+
+Oct 15	Oct 31	Annually	
+
+Shut Down PI.
+
+
+Oct 5	Oct 10	Annually	
+
+Give PW Administrative Coordinator a date when the City will start draining the PI System.
+
+
+Nov 1	Nov 15	Annually	
+
+Winterize Pump Houses.
+
+
+Dec 1	Dec 30	Annually	
+
+Pump Maintenance/Oil Changes.
+
+AMI Operator
+Start	Due	Frequency	Tasks
+Jan 1	Jan 15	Bi-Annually	
+
+Review & Update Websites.
+
+
+Jan 10	Jan 19	Monthly	
+
+Meter Rereads.
+
+
+Jan 20	Apr 20	Quarterly	
+
+Drinking Water Zero Usage Reports.
+
+
+Mar 15	Jun 1	Annually	
+
+Update Website with current consumer confidence report.
+
+
+Apr 15	Apr 30	Annually	
+
+Update Building Inspection of new Meter Fees from Approved Budget.
+
+
+Apr 1	Jul 1	Annually	
+
+WaterSmart Grant Application. 
+
+
+May 20	May 30	Tri-Annual	
+
+PI Zero Usages Report.
+
+
+Aug 1	Oct 30 2019	5 Years 2024	
+
+Water Conservation Plan Update approved by the City Council to sent to the Division of Water Resources by Dec. 31st.
+
+
+Oct 15	Oct 30	Annually	
+
+Audit J. Lee Butler, ESNET, Finley and Hubbs contract allotments (Review (8) 1" Crab Creek Meters for usage, verify less than 12 acre feet).
+
+Hydrants Operator
+Start	Due	Frequency	Tasks
+Jan 1	Jan 15	Bi-Monthly	
+
+Fire Hydrant Flushing.
+
+
+Jan 1	Apr 20	Quarterly	
+
+Fire Hydrant Meter Reads.
+
+
+May 15	Jun 1	Seasonal	
+
+Turn on Drinking Fountains on Main Street/Sterling Hollow Water Troughs.
+
+
+Oct 15	Oct 30	Seasonal	
+
+Turn off Drinking Fountains on Main Street/Sterling Hollow Troughs.
+
+4.90.120 Equipment Procedure
+Backhoes
+Chlorinators
+Dump Truck
+Fork Lift
+Jet Truck.
+Loader.
+Mini X And Trackhoe
+Mowers And Tractors
+Service Truck And Pickups
+
+
+
+
+
+Train employees on the following as applicable before allowing them to work on each piece of equipment. Track scheduled maintenance in the annual tasks calendar.
+
+Place a written copy of the appropriate individual procedure in each piece of equipment. If borrowing equipment from other divisions refer to the following division procedures for that equipment.
+
+
+
+Power and Light Division Equipment Procedures
+
+Streets and Storm Water Division Equipment Procedures
+
+Wastewater Division Equipment Procedures
+Fleet Division Equipment Procedures
+
+
+Approved February 12, 2020
+
+Backhoes
+Pre-Trip Inspection
+Walk around inspection.
+Leaks, Lights and Tire Pressure
+Report any damage with an Immediate Action Form.
+Fill out Vehicle Service Request for needed repairs.
+Check and top off all fluids (diesel, oil, def and hydraulic).
+Load PPE and traffic control equipment.
+Job Site (Manufacturer’s Operating Instructions)
+PPE & Traffic Control
+Check bluestakes and for overhead lines.
+Check to see if brake pedals are pinned.
+Do not open windows when in motion.
+Extend rear stabilizer arms.
+Hands off and lock controls if other people are around the backhoe.
+Top arm must be extended out when curling the jack hammer.
+Set on level ground and lock backhoe when parking.
+Problem & Troubleshooting
+
+Chlorinators
+Operations Schedule, see On-Call Daily Round List.
+Visual inspection daily.
+Check scales for chlorine.
+Take meter reading.
+Check automated feed.
+Changing tanks:
+Two people
+Turn on Evacuation (Exhaust?) Fan
+Shut valve
+Remove chlorinator
+Place the cap and bonnet
+Remove old gasket and clean chlorinator
+Install chlorinator with new gasket
+Tighten until snug
+Test for leaks
+
+Dump Truck
+Pre-trip Inspection
+Class B CDL (truck only) Class A CDL Pulling Pups 
+Walk around Visual Inspection
+Check all Fluids (Fuel, oil, def and hydraulic)
+Check all tires for pressure and wear
+Check brakes for proper adjustment
+Check all lights are working properly
+Inspect mud flaps and tailgate closure
+Report all damage noticed in visual inspection Immediate Action Form.
+Job Site
+Safety Inspection/Environment
+Properly set up traffic control
+Mirrors are adjusted properly
+Dump bed is down and resting on the frame
+Center of Gravity changes with the elevation of the bed 
+Tailgate is closed and locked 
+Dirt, rocks and asphalt are cleaned off before leaving the work area
+Daily Maintenance
+Pressure wash after use
+Clean inside of cab 
+Fuel topped off at end of day
+Dump bed is clean and free of debris
+Spray no stick inside of dump bed before hauling asphalt
+Monthly Maintenance
+Change oil if needed
+Check all hydraulic lines and rams for leaks
+Grease all necessary components
+Have Mechanics check for proper brake adjustment  
+
+Fork Lift
+Pre-trip
+Forklift certification
+Walk around visual inspection
+Propane tank secure 
+Load weight limit
+Report all damage noticed in visual inspection Immediate Action Form.
+Operation:
+Safety Inspection/Environment
+Seatbelt
+Proper loading
+Center of Gravity changes with the elevation of the forks
+Fork operation
+Parking brake
+Pedal operation
+
+Jet Truck.
+Pre -Trip Inspection 
+Class B CDL with Tanker Endorsement required for driver.
+Walk around Visual Inspection
+
+Hose Reel Locked
+Other Equipment and Tools Needed
+PPE
+Report any damage with an Immediate Action Form.
+Traffic Control Equipment 
+Water, Fuel, and DEF 
+Job Site 
+
+PPE
+Safety Inspection/Environment
+Traffic Control
+Jet Mode and Vac Mode
+Always keep at least one water valve on 
+Don’t exceed 2500 psi
+Prevent slack in jet hose to avoid injury
+Daily Maintenance 
+Pressure wash after use
+Clean the debris body out, run the body washout
+Clean fan housing if vac was used
+Drain Water
+Leave the debris tank open and lift off the vacuum hose.
+Monthly Maintenance
+Grease truck 
+Drain air Tanks
+Clean water filters
+Rotate suction tube
+
+Loader.
+Pre-trip
+Walk around visual inspection 
+Check fluids
+Check tires
+Adjust mirrors
+Report all damage noticed in visual inspection Immediate Action Form. 
+Operation 
+Safety Inspection/Environment
+Control Panel
+Parking Brake
+Joystick operation
+Note: Center of Gravity changes with the elevation of the bucket
+Pedal Operations
+Parking 
+Park on as level ground as possible 
+Lower Bucket onto the ground
+Put into neutral 
+Apply Parking brake
+
+Mini X And Trackhoe
+Pre-trip Inspections
+Walk around Visual Inspection
+Check all Fluids (Fuel, oil, def and hydraulic)
+Check all hydraulic lines and rams for leakage
+Check cutting edges or teeth for wear
+Properly secure equipment for transport (chain frame and bucket to trailer) 
+Report all damage noticed in visual inspection Immediate Action Form.
+Job Site
+Safety Inspection/Environment 
+Adjust all mirrors properly 
+Create a safe work area around the equipment
+Properly set up traffic control
+Tailings are a safe distance from open trenching
+Check for overhead obstacles
+Center of Gravity changes with the elevation of the boom/bucket
+Make intentions known to others before operating
+Use safety spotter when needed 
+Daily Maintenance
+
+Fuel topped off at end of day
+Tracks are clean out at end of shift
+Teeth and cutting edges are inspected
+Pins on buckets inspected for wear
+Weekly Maintenance
+
+Grease all necessary components
+Powerwash equipment after project completion 
+Clean inside of cab and operators area
+
+Monthly Maintenance
+
+Change all necessary fluids
+
+Replace worn cutting edges or teeth
+
+Inspect all hydraulic components for wear
+
+Inspect all grease fittings for wear and replace if needed
+
+Make sure all gauges and hour meters are working properly
+
+Mowers And Tractors
+Pre-trip:
+
+Walk around visual inspection.
+
+Check fluids.
+
+Check tires
+
+Adjust mirrors
+
+Report all damage noticed in visual inspection Immediate Action Form. 
+
+Operation:
+
+Safety Inspection/Environment
+
+Seatbelt
+
+Use low gear 
+
+Run tractor @ 2500 rpms while mowing 
+
+Parking brake
+
+Daily Maintenance
+
+Fuel topped off at end of day
+
+Check mower blades, wheels and deck
+
+Inspected Pins on 3 point attachment 
+
+Monthly Maintenance
+
+Change all necessary fluids
+
+Replace worn cutting blades and wear bars
+
+Inspect all hydraulic components for wear
+
+Inspect all grease fittings for wear and replace if needed
+
+Service Truck And Pickups
+Pre-Trip
+
+Walk around inspection. 
+
+Check vehicle systems and all fluids.
+
+Check mounted equipment.
+
+Report all damage noticed in visual inspection Immediate Action Form.
+
+Operations 
+
+Adjust mirrors and seat
+
+Seatbelt
+
+Notice gauges are with in operating ranges
+
+Use backing policy 
+
+4.90.140 Frequently Asked Questions (FAQs) Procedure
+
+
+4.90.220 Agricultural Pressurized Irrigation Policy
+
+The Public Works Director is hereby authorized to execute the standard agricultural water lease contract, in the format attached hereto, for the delivery of agricultural water through the City’s pressurized irrigation system. The City Engineer may deny connection to the pressurized irrigation system based on modeling results or any findings that may be detrimental to the system.
+
+
+Only sprinkler or drip irrigation systems may be connected to the City pressurized irrigation system. No flood irrigation shall be allowed from the City pressurized irrigation system.
+Applicant shall provide in writing the estimated water use for the upcoming irrigation season by March 15th each year, otherwise the previous year’s amount will be supplied.
+Applicant may request an increase at any time in writing as long as the water can be transferred to the City pressurized irrigation system in that water year.
+Usage above the leased amount shall be charged at the regular pressurized irrigation rate.
+Only Strawberry Water may be leased.
+All annual water assessments shall be paid by the Applicant.
+No impact fee shall be charged until the property develops.
+Agreement shall still apply to any remaining undeveloped agricultural land. Applicant/developer shall bear all costs to move meter once initially installed.
+City shall pay for meter and all costs to install service.
+City shall own the meter.
+The developer shall pay the City a one time setup fee for the farmer according to the table below.
+
+
+
+Acres	Amount
+
+
+1-2
+
+	$30,000
+
+
+3-5
+
+	$40,000
+
+
+6-9
+
+	$45,000
+
+
+10-14
+
+	$50,000
+
+
+15-20
+
+	$55,000
+
+
+21-29
+
+	$60,000
+
+
+30-39
+
+	$65,000
+
+
+40+
+
+	$70,000
+
+
+The developer shall pay the City a one time water use fee of $3,633 per acre.
+Variations from this shall be approved by the City Council. 
+
+Revised by Resolution 20-05 - March 3, 2020
+4.90.380 Fire Hydrant Deficiencies Policy
+
+If development is proposed where there is a deficiency of fire hydrants for existing development, then the current developer will install fire hydrants to solve the existing deficiency and the City will reimburse the developer for materials required to install hydrants that solve the deficiency.
+
+Approved by Administrative Order 01-17 - October 12, 2015
+
+
+4.90.470 Hydrant Use Procedure
+Pressurized Irrigation Hydrants. Water taken from the pressurized irrigation hydrant fill stations at 50 East 400 North, 2500 East Canyon Road, and 200 East 400 South require a permit. These fill stations are clearly labeled “Irrigation Water Fill Stations-Permit Required”. They are only in use during the pressurized irrigation watering season. No other locations are authorized for filling tanks from the City pressurized irrigation system. An unauthorized hydrant use fee, as established in the annual City budget, shall be charged for anyone who uses a hydrant without a permit in hand.
+
+A fee shall be paid with each permit, as established by the annual City budget. Permits shall be valid until the pressurized irrigation watering season is over. A permit must be in possession of any persons operating hydrants at fill stations. Water taken from fill station hydrants may not be used outside of City boundaries unless the water is for a City project or as approved by the Public Works Director.
+
+Fire Hydrants. A permit and meter assembly must be obtained from the City before water may be taken from a fire hydrant. Anyone who operates a fire hydrant must have a permit in hand and be listed on the permit as trained by the City in the safe operation of fire hydrants. An unauthorized hydrant use fee, as established in the annual City budget, shall be charged for anyone who uses a hydrant without a permit in hand.
+
+Permits to use water from fire hydrants will only be granted for specified hydrant(s). Operators authorized by the permit must protect the City water system from contamination by air gap backflow prevention.
+
+Meter assembly may not be left on the fire hydrant overnight. Water taken from fire hydrants may not be used outside of City boundaries unless it is for a City project, or as approved by the Public Works Director.
+
+A fee and deposit shall be paid with each permit. A utility account shall be established for each permittee and the 2 inch water meter base rate and Tier II usage rate shall be billed monthly unless water is used outside the City limits for a non-City project. The usage rate for these permits shall be billed at the non-resident rate.
+
+The repair cost for any damage to the meter assembly or fire hydrant shall be deducted from the deposit. If the deposit is not enough to cover usage and damage, the permit holder shall be liable for and billed for the balance. All fees, rates and deposits shall be established by the annual City budget.
+
+Revised December 21, 2017
+
+
+
+
+
+4.90.480 Hydrant Use Permits Procedure
+Pressurized Irrigation Hydrants.
+Apply online. 
+Application fee applied to GL # 71-37-2100.
+
+Fire Hydrants.
+Apply online. 
+Application fee applied to GL# 71-37-2100
+Deposit applied to $1,500 GL# 71-24-3500.
+Water Division receives notice from on-line application software, prints permit and schedules time to provide training and deliver meter.
+Meter ID shall be noted and turned in with a Meter Change Form the Utility Billing Office.
+Training includes the following.
+Test hydrant to ensure that it is working properly. Note in on-line application software any found problems.
+Teach to fully turn on and off hydrant properly.
+Initial names of each hydrant operator trained.
+Water Division shall submit meter readings to the Billing Office quarterly on or before the 10th of January, April, July, and October.
+When permittee decides to end hydrant use, brings meter assembly into the City Engineer’s office to be read and inspected. Water Division reports to the Utility Billing Office final reading, end of service date and charges against the deposit for meter damage. Utility Billing Office then terminates the account and refunds any remaining deposit. 
+
+Revised October 14, 2019
+
+
+
+
+
+4.90.580 Leak Detection Policy
+
+All water and pressurized irrigation pipe and appurtenances shall be checked for leaks once every 4 years, if possible. All new pipes and appurtenances shall be checked for leaks the month before the 1 year warranty inspection. Leak detection shall be documented within the Leak Detection Editor and progress tracked on the Leak Detection Dashboard.
+
+
+
+
+
+HISTORY
+Approved by Other Administrative Order 06-22 Public Works on 8/8/2022
+
+4.90.610 Meter Lid Inspections Procedure
+
+Meter lids will be inspected annually, if possible, for the following.
+
+
+Lid is not a trip hazard.
+Lid is secured.
+Lid and box condition.
+
+
+Meter lid inspections shall be documented with the Leak Detection Editor and progress tracked on the Leak Detection Dashboard.
+
+Revised November 3, 2017
+
+
+
+
+
+4.90.680 On-Call Daily Rounds Procedure
+Fairgrounds Well.
+Visual inspection.
+Take meter and hour reading.
+Check the pump motor for heat, vibration, and leaks.
+Check pump for seal seepage.
+Check building for any unusual smells, heat or cooling.
+Fairgrounds Chlorinator.
+Visual inspection.
+Take meter reading.
+Check automated feed.
+Fairgrounds Filters.
+Check pressure and for leakage.
+Flush weekly or as needed.
+Cemetery #2 Well.
+Visual inspection.
+Take meter and hour reading.
+Check the pump motor for heat, vibration, and leaks.
+Check pump for seal seepage.
+Check building for any unusual smells, heat or cooling.
+Cemetery #2 Chlorinator.
+Visual inspection daily.
+Take meter reading.
+Check automated feed.
+Cemetery #2 Filters.
+Check pressure and for leakage.
+Flush weekly or as needed.
+Cemetery #1 Well.
+Visual inspection.
+Take meter and hour reading.
+Check the pump motor for heat, vibration, and leaks.
+Check pump for seal seepage.
+Check building for any unusual smells, heat or cooling.
+Canyon Elementary Well.
+Visual inspection.
+Take meter and hour reading.
+Check the pump motor for heat, vibration, and leaks.
+Check pump for seal seepage.
+Check building for any unusual smells, heat or cooling.
+2550 E Canyon Rd Well.
+Visual inspection.
+Take meter and hour reading.
+Check the pump motor for heat, vibration, and leaks.
+Check pump for seal seepage.
+Check building for any unusual smells, heat or cooling.
+Golf Course Booster Pump Station.
+Visual inspection.
+Take meter and hour reading.
+Check the pump motor for heat, vibration, and leaks.
+Check pump for seal seepage.
+Check building for any unusual smells, heat or cooling.
+Golf Course Filter Building.
+Visual inspection.
+Take meter reading and Flush counts, look for filter faults.
+Check the pump motor for heat, vibration, and leaks.
+Check pump for seal seepage.
+Check building for any unusual smells, heat or cooling.
+Check filters for leaks and unusual performance.
+Darger Springs.
+Visual inspection.
+Take meter and hour reading.
+Check the pump motor for heat, vibration, and leaks.
+Check pump for seal seepage.
+Check building for any unusual smells, heat or cooling.
+Oaks Filter.
+Visual inspection daily.
+Take meter reading and flush counts, look for filter faults.
+Check building for any unusual smells, heat or cooling.
+Check filters for leaks and unusual performance.
+Oaks Tanks.
+Visual inspection.
+Fencing is in good repair and gates are secured.
+Hatches are securely locked.
+Malcomb Springs.
+Visual inspection.
+Take meter and hour reading.
+Check the pump motor for heat, vibration, and leaks.
+Check pump for seal seepage.
+Check building for any unusual smells, heat or cooling.
+Crab Creek Chlorinator.
+Visual inspection.
+Check scales for chlorine.
+Take meter reading.
+Check automated feed.
+Check and adjust chlorine residuals.
+Cold Springs Tanks.
+Visual inspection.
+Fencing is in good repair and gates are secured.
+Hatches are securely locked.
+Malcomb Chlorinator.
+Visual inspection.
+Check scales for chlorine.
+Take meter reading.
+Check automated feed.
+Check and adjust chlorine residuals.
+Malcomb Tanks.
+Visual inspection.
+Fencing is in good repair and gates are secured.
+Hatches are securely locked.
+Malcomb Springs Boosters.
+Visual inspection.
+Take meter and hour reading.
+Check the pump motor for heat, vibration and leaks.
+Check pump for seal seepage.
+Check building for any unusual smells, heat or cooling.
+Check and adjust chlorine Residuals.
+Memorial Well.
+Visual inspection.
+Take meter and hour reading.
+Check the pump motor for heat, vibration, and leaks.
+Check pump for seal seepage.
+Check building for any unusual smells, heat or cooling.
+
+Approved July 8, 2020
+
+
+
+
+
+4.90.710 Pressurized Irrigation Reimbursement Policy
+
+Reimbursement requests shall be made through the Online Application Portal for reimbursement agreements and must follow the requirements of Municipal Code §15.4.16.020 Unavailability of Adequate Public Facilities. The City shall reimburse approved costs that will not be reimbursed by impact fees or pioneering charges within 5 years of the agreement execution. Additional meter fees, water right exactions, and pressurized irrigation impact fees will not be charged for reimbursed services.
+
+Properties without pressurized irrigation service may only qualify for reimbursement if the applicant can provide proof that the following conditions existed before May 1, 2002.
+
+
+The property was annexed into the City.
+The property was improved with a building.
+The property had a drinking water service and 500 square feet of landscaping with an operating sprinkler system.
+
+Single Family Home Residential Properties. Single family home residential properties may be reimbursed for the following.
+up to 100 feet of main line construction along the frontage of the property that the home occupies and the cost of a single 1 inch pressurized irrigation service per drinking water meter that had been installed May 1, 2002. A corner lot may be reimbursed for up to 200 feet of main line construction.
+Non-Residential and Mult-Family Residential Properties. Non-residential and multi-family residential properties may be reimbursed for the following.
+Main line construction proportional to the percent of property fully developed.
+A 1 inch pressurized irrigation service if less than 30,000 square feet of landscaped area is irrigated with a sprinkler system.
+A 2 inch pressurized irrigation service if more than 30,000 square feet of landscaped area is irrigated with a sprinkler system.
+
+HISTORY
+Approved by Other Admin Order 03-22 Public Works on 4/19/2022
+Amended by Other Administrative Order 10-22 Public Works Pressurized Irrigation Reimbursement Policy on 10/28/2022
+
+4.90.730 Private Water Lines Policy
+General. All water lines between a building and the meter are private and will be maintained and repaired by the property owner. All fire lines are private from the property line in. The City will repair emergency breaks on fire lines if the property owner is making a reasonable effort to maintain the line. The City will maintain all fire hydrants.
+
+When a fire line enters a building the City will only repair emergency breaks in the line to and including the valve just before it enters the building. If there is no valve before a fire line enters a building, repairs will only be made to within 10 feet of the building.
+
+No private entity may do maintenance, repair, or connection to a fire line without an excavation permit. All surface repairs required for fire line repair will be the responsibility of the property owner.
+
+Revised by Administrative Order 04-17 - June 27, 2017
+
+4.90.770 Residential Sprinkler Controller Program Procedure
+Map. Progress will be tracked in this online GIS map. This map tracks the following for Contact Status.
+Not Contacted - Grey
+Not Interested - Red
+Interested - Orange
+Scheduled - Yellow
+Completed - Green
+
+Sign Up. Residents will sign up at www.spanishfork.org/conservewater where they will enter the following information.
+Appointment Time
+Name
+Email
+Mobile Number
+Address
+Referred By
+Number of Controllers
+Number of sprinkler zones.
+Controller location?
+Inside (Home/Garage etc.)
+Outside
+
+Notes at sign up:
+Must currently have automatic sprinkler system with a controller.
+Must have a smartphone.
+Must have wireless internet in the home (wifi).
+Homeowner must be present during installation.
+
+             Notices to Resident:
+Email confirmation after sign up.
+Text notice 24 hours before appointment.
+
+
+Tools. Keep the following tools in each installation truck.
+Cordless drill.
+5/32 drill bits.
+Phillips head bits.
+Soil plug remover.
+3 pound sledge hammer.
+Hammer.
+iPad car charger.
+
+Schedule Changes. Reschedule appointments with the Setmore Portal by doing the following.
+
+Go to “Customers” tab on the left menu.
+Search for resident.
+Select and edit appointment.
+Choose correct installer, day and time.
+Save.
+
+A confirmation email will be sent to the resident.
+
+Installation.
+Create an account with the resident on sprinkler technician’s smartphone.
+Fill out the username and password on a Rachio Support Card.
+Acquire following information from Resident:
+Wifi router name and password.
+If there are multiple controllers at different locations, install multiple new controllers (up to 2).
+Take picture of wiring in existing controller.
+Mark wires that are the same color.
+Remove existing controller and install Rachio 3.
+Take soil plug in front yard and classify.
+Upload picture of each zone.
+Place gardens on fixed schedule watering as resident had previously set.
+Schedule the controller based on whether the lot is in the 
+wind fan and the number of the address, as indicated below.
+
+
+Acronym	Description	Time Block
+Start	Time Block
+End
+NFO	Non-Wind Fan Area Odd Address	3:45 AM	6:00 AM
+NFE	Non-Wind Fan Area Even Address	8:00 AM	10:00 AM
+F12	Wind Fan Area Addresses ending with 1 or 2	10:00 AM	3:00 PM
+F34	Wind Fan Area Addresses ending with 3 or 4	11:00 AM	4:00 PM
+F56	Wind Fan Area Addresses ending with 5 or 6	12:00 PM	5:00 PM
+F78	Wind Fan Area Addresses ending with 7 or 8	1:00 PM	6:00 PM
+F90	Wind Fan Area Addresses ending with 9 or 0	2:00 PM	7:00 PM
+NA	Non-Adjustment Requestees	-	-
+  
+Place all other stations on flex monthly schedule.
+Update map with unit serial number and watering schedule code:  NFO, NFE, F12, F34, F56, F78, or F90.
+Setup app on resident’s phone.
+Review app and schedule with resident.
+Manually change settings in “More” tab
+In “Shared Access” section, go to “Complete Access” section and connect to: 
+email: conservewater@spanishfork.org
+password: SFCrachio!
+Leave a “Rachio Postcard” and the Rachio Support Card for Residents to refer to for questions.
+
+Update the house on the map to Completed - Green in contact status.
+
+Fill out either the Installation Completion Form or Cancellation Form.
+
+Documentation. Before leaving work at the end of the day, fill out the End of the Day Form and notify Water Division Manager and/or Project Manager of any problems.
+
+Canvassing. When canvassing do the following.
+Prioritize contacting areas in the wind fan on the map.
+Check to make sure Contact Status on the map is “Not Contacted”.
+Give flyer and explain program.
+If interested, open www.spanishfork.org/conservewater on mobile device and sign resident up at the door or show them where to sign up.
+Documentation
+Update Contact Status on map.
+Thinking about it:  Not Contacted - Grey
+Declined:  Not Interested - Red
+Contact later for appointment:  Interested - Orange
+If scheduled appointment:  Scheduled - Yellow
+Water Conservation Program Sign Up spreadsheet after meeting with residents. 
+
+Approved June 24, 2019
+
+
+
+
+
+4.90.930 Valve And Hydrant Exercising Policy
+
+All valves and hydrants shall be exercised once every 4 years, if possible. Exercising will only be done when the City is off charge or precipitation is over 100%. Exercising shall be documented in the mapping system. A progress map of hydrant exercising completed shall be emailed to the Public Works Director in January and July.
+
+
+Revised by Administrative Order 01-17 - March 2, 2017
+
+Related: Valve and Hydrant Dashboard
+
+4.90.950 Water Leak Refund Policy
+
+If a drinking water leak is repaired, half the excessive usage from up to 2 future utility bills may be refunded for drinking water and applicable sewer. Refunds over $250 must be authorized by the Public Works Director and City Treasurer. Refunds will not be given for pressurized irrigation leaks.
+
+Approved by Administrative Order 06-20 - June 2, 2020
+
+
+
+
+
+4.90.960 Water Rights Policy
+Transfer or Dedication Formula. Water rights shall be transferred or dedicated to the City for all new developments according to the following formula in acre feet:
+Single family and twin home lots:
+Lot size in acres times by 0.60 (average landscaped acreage per lot; see PI Master Plan, page 11-1) times by 1.084 (public par landscaping; see Impact Fee Facilities Plan, page 34) times by 4 plus, 0.34 times the number of residential units.
+Multi-family; developments:
+
+Acres of landscaped area times by 4 plus 0.34 times the number of residential units times 1.084.
+Non-residential lots with one inch or smaller drinking water services:
+Acres of landscaped area times by 4, plus 0.34 times the number of building units.
+Commercial or industrial lots with drinking water services greater than one inch:
+
+Acres of landscaped area times by 4 plus calculated annual drinking water usage.
+The City will not be required to pay for water rights for parks since this will be included in water rights exactions.
+Acceptable Water. Only limited Strawberry water shall be accepted as follows:
+Strawberry Water, when approved by the Public Works Director, at the amount of 0.699 acre feet per share according to the following formula.
+
+[SVP Shares] X [-10% carriage] X [-9.88% Average SVP Losses] X [61,000 acre feet] / [70,780.48 shares].
+South Field Strawberry Water, when approved by the Public Works Director, at the amount of 0.660 acre feet per share according to the following formula.
+[SVP Shares] X [-15% carriage] X [-9.88% Average SVP Losses] X [61,000 acre feet] / [70,780.48].
+City will also accept cash in order to obtain and pay for the cost of ULS water according to the value set in the annual budget.
+Drinking water and pressurized irrigation usage by large industrial, commercial, and agricultural users shall be audited annually. If usage increases by more than 10% from the usage that the water rights transfer calculation was based upon, the transfer fee shall be recalculated based upon the increased usage with the difference payable as a condition of receiving ongoing water service.
+
+Revised by Resolution 21-18, August 19, 2021
